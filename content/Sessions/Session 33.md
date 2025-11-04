@@ -1,0 +1,1 @@
+Investigating Library. Gold Statues in Basement.

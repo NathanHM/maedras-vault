@@ -1,0 +1,1 @@
+Going to Vine Church. [[Barbarastreisand]]. Investigating church. Investigating graveyard.
