@@ -1,9 +1,19 @@
-Vlad is stripped of all valuables and armour, hogtied and gagged while the party searches the rooms for information and loot. At least one mimic chest is in the basement and is correctly identified, then left alone. Jorvak carries Vlad as the party intends to question him back at camp.
-
-Gilbert, overcome with the sight of not only his beloved mother locked in a cell, but that there are three identical mothers, passes out. In an effort to determine the real Juliana, Uta'ah ragdolls Gilbert in front of them all and threatens to cut him in half to watch their reaction. Only one of the clones shows distress at the idea. 
-
-Siobhan agrees to take custody of the three until the party reaches the city, promising their safety. She also agrees to procure a wizard for the party after a spell tome and high level scroll is found amongst the loot. [any other notable items?] The party agrees to allow Siobhan to keep the imposter Julianas for her hoard, as long as the party has no use for them. Siobhan puts necklaces around the lookalikes' necks and vanishes with them.
-
-A secret compartment is found upstairs containing yet another eternal flame orb, trapped just like the one in Bilbo's office. Chamae's creative use of the catapult spell brings the orb into the party's hands, and Kalamari once more extinguishes the resulting trap-induced blaze. The vineyard is a favourite of Siobhan's, and they don't want to get on her bad side. More poison is found at the vineyard, almost empty as though already used, along with evidence that a large order of wine has recently been filled. It is determined that this is Cavardian poison, similar to Midnight Tears. There is the implication that poisoned wine has been delivered to the city for the summit.
-
-The party concludes their business and finds a nearby cart. After locating some horses, they venture back to camp where Lyra is waiting with Bilbo. The horses are named Sun, Shine, Rain and Bow.
+- [[Vlad]] is stripped of valuables and armour, hogtied and gagged for later questioning
+- A mimic chest is correctly identified in the basement and wisely left alone
+- [[Jorvak]] carries [[Vlad]] as the party searches for loot and information
+- [[Gilbert]] faints upon seeing three identical versions of his mother [[Juliana (Gilbert’s Mum)|Juliana]] locked in a cell
+- [[Uta’ah]] ragdolls [[Gilbert]] and threatens to cut him in half to test the clones’ reactions
+- Only one clone shows distress, revealing the real [[Juliana (Gilbert’s Mum)|Juliana]]. Party remains uncertain.
+- [[Siobhan (Shiverwatcher)|Siobhan]] agrees to take custody of all three [[Juliana (Gilbert’s Mum)|Juliana]]'s until the party reaches the city
+- She promises their safety and agrees to find a wizard for the party
+- A spell tome and high-level scroll are found among the loot
+- The party allows [[Siobhan (Shiverwatcher)|Siobhan]] to keep the imposters for her hoard if they’re no longer needed
+- [[Siobhan (Shiverwatcher)|Siobhan]] gives the lookalikes necklaces and vanishes with them
+- A secret compartment upstairs contains another eternal [[flame orb]], trapped like [[Bilbo Frankenfert|Bilbo]]’s
+- [[Chamae]] uses catapult to retrieve the orb; [[Kalamari]] extinguishes the resulting blaze
+- The [[vineyard]] is a favourite of [[Siobhan (Shiverwatcher)|Siobhan]]’s, and the party avoids damaging it further
+- More poison is found, nearly empty, with signs of a large wine order recently filled
+- Poison identified as [[Qavrud (Nation)|Qavrudian]], similar to [[Midnight Tears]]
+- Implication arises that poisoned wine has been sent to the city for the summit
+- The party finds a cart and locates four horses: Sun, Shine, Rain, and Bow
+- They return to camp where [[Lera Vale|Lera]] is waiting with [[Bilbo Frankenfert|Bilbo]]

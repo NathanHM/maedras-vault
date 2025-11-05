@@ -1,21 +1,36 @@
-The last two sessions have been what can only be described as chaotic. 
-The sessions started first with the party back at the inn, where Gilbert, instead of convincing Max to talk, summoned an elephant and caused everyone to take some damage from being pressed up against the walls. We then received a tarot reading from Max regarding what path to take to discover Farquad’s involvement in the conspiracy with T M. Here, you discovered an inverted shield (the quest), an inverted Fool (that which is hidden), and the well (that which is needed) - which led to speculations about who or what each card is referencing. 
-You then decided it was finally time to infiltrate the meeting at the Green Soldier in costumes reminiscent of the Wizard of Oz. Uta’ah a pirate, Chamae a flying monkey, Gilbert an elderly wicked witch of the west, Wynona the not so cowardly lion, and Max as a simple paladin. You managed to gain access into the meeting, and symbolically burt a flower or vine with limited suspicion. 
-Inside, The head father gave a riveting speech about burning the world anew so that the decay will be burned away and other interesting details. Following this, the door on the far side of the room became engulfed in flames that only the worthy were able to pass through. Some quick thinking from the party in terms of using a fire resistance position, and you all successfully passed through into what can only be called an after party. However, Gilbert and Max as they passed through the flames noticed two divine presences - one hot and one a cold sweet kiss.
-In the after party, you see a table full of merch such as coals, mysterious potions, matches, and a few daggers with Gilbert taking 30 vials of the mysterious potion. Uta’ah and Chamae begin speaking with Lera Vane, a young recruit who passed the trials but does not seem enchanted with the cult. You learn that her brother is a higher up in the cult, and that her brother is meeting someone high up from Qavrud and that the cult is bigger than just Alithi. However, this also catches the attention of the guards and the entire party is lead to a back room - along with the head priest. More chaos begins. Knowing this was a trap, the party sprung into action with a quick double attack from Wynona, a flurry of hands from Uta’ah, careful positioning from Max, and a solid defence from Chamae. Gilbert, meanwhile, took advantage of the opportunity for a two-prong attack: first a command to shit at two of the paladins, followed by a manipulation of disguise self to be an old lady who gets her baps out. After a plethora of fails, the enemies all became frightened. From this misfortune, the fight only goes downhill for the cult with their leader soon only able to speak draconic. The party quickly disposes of the priests and paladins, forcing the leader to take evasive action with a quick dimension door - on which Max tags along. At the same time, the party remains in the sacrifice room and quickly disposes of the cultists through a flurry of hands, some shaking titties, a mysterious giant octopus, and even a catapulted helmet. Safely defending yourselves and Lera, you open the door to see that in the other room is Max and the head priest, who Max has convinced the other recruits is truly a traitor. The confrontation goes as expected a bound priest with the other leaving him to the tender mercies of the party. At this point you find a secret back door leading to an alley and carefully tell Lara to meet with your Aunt Denise at the Yellow duck (a coded message for HL Dawn).
-Searching through the defeated foes, you find some odd coins and a coded map fragment which you quickly decode and learn some interesting information:
-Messages reading "Ashes mark the path; the Emberheart sleeps beneath the bones of the past." "The vine shall burn where the flame first kindled—seek the sunken sanctum."
-Some flame signals denoting potential areas of interest for the cult.
-A triple-flame emblem that corresponds to the Sunken Sanctum, just south of Stormhaven 
-After applying heat, a message "Father Aldren watches but cannot act. The vine reaches deep; roots burn next moon." And also coordinates aligning to an abandoned Alithi vineyard—now a cult outpost outside the capital. 
-Deciding to learn more from the Head priest, you manage to convince him that Gilbert is truly the Emberheart, the person in the mural that the cult wish to bring back to bring forth the end thanks to some quick acting magic flames. In doing so, he spills all the secrets he is able to recall. You learn the following information:
-Gilbert’s mom is being held captive in the abandoned vineyard. 
-Lord Ferox and Kaedric were split from the same, and lord Kaedric did have a son who was lost (does not know how long ago this was) 
-The potions have mysterious consequences, which always change. 
-There is a plan to assassinate Lord Titus at the peace summit
-There are some higher ups who have clear purposes
-Halric Dain is a shadow power of Alithi and hopes to see the people collapse 
-Rellis Torne is fueling the conflict on the road with her mercenaries in a hope to become famous
-The Man is an unknown, but real force directing things
-Does not know Lord Farquad
-The session ended with the party posing a question: do we leave the priest alive as a spy or do we murder him to be one step ahead of the cult?
+- The party began at the inn where [[Gilbert]] summoned an elephant, injuring everyone
+- [[Max]] gave a tarot reading revealing an inverted shield, inverted Fool, and the well—sparking speculation
+- Party infiltrated the [[Green Soldier]] meeting in Wizard of Oz-themed costumes
+- Gained access and symbolically burned a vine with minimal suspicion
+- Head priest gave a fiery speech about purging decay and rebirth through flame
+- A flaming doorway appeared, passable only by the worthy; party used fire resistance potions to enter
+- [[Gilbert]] and [[Max]] sensed two divine presences—one hot, one a cold sweet kiss
+- After party featured cult merch; [[Gilbert]] took 30 vials of mysterious potion
+- [[Uta’ah]] and [[Chamae]] spoke with [[Lera Vane]], a disillusioned recruit whose brother is a cult higher-up
+- Learned [[Cult of the Eternal Ember|Cult]] spans beyond [[Alithi (Region)|Alithi]] and has ties to [[Qavrud (Nation)|Qavrud]]
+- Guards led party and priest to a back room; party realized it was a trap
+- [[Wynona]], [[Uta’ah]], [[Max]], and [[Chamae]] launched coordinated attacks
+- [[Gilbert]] cast command and disguised himself as a witch exposing herself, frightening enemies
+- Cult leader escaped via dimension door with [[Max]] tagging along
+- As a divine consequence, an [[Kalamari|Octopus]] was summoned. Gilbert hit a Nat 20 to convince it to work with the party. 
+- Remaining party defeated [[Cult of the Eternal Ember|Cultists]] using their [[Kalamari|Octopus]], helmet catapult, and chaotic antics
+- [[Max]] convinced recruits the priest was a traitor; priest was bound and left to the party
+- [[Lera Vale|Lera]] was sent to meet “[[High Lady Dawn|Aunt Denise]]” at the [[Yellow Duck]]—coded message for [[High Lady Dawn|HL Dawn]]
+- Found odd coins and decoded map fragment with [[Cult of the Eternal Ember|Cult]] messages and flame signals
+- Messages read:
+	- "Ashes mark the path; the [[The Emberheart|Emberheart]] sleeps beneath the bones of the past."
+	- "The vine shall burn where the flame first kindled—seek the [[sunken sanctum]]."
+- Discovered triple-flame emblem linked to [[Sunken Sanctum]] south of [[Stormhaven]]
+- Hidden message revealed with heat:
+	- "[[Father Aldren]] watches but cannot act. The vine reaches deep; roots burn next moon"
+- Coordinates pointed to abandoned [[Alithi (Region)|Alithi]] [[Vineyard]]—now a [[Cult of the Eternal Ember|Cult]] outpost
+- Convinced priest [[Gilbert]] is [[the Emberheart]]; priest revealed key intel:
+	- [[Juliana (Gilbert’s Mum)|Gilbert's Mum]] held at the [[vineyard]]
+    - [[Lord High Preist Ferox Thal|Lord High Priest Ferox]] and [[Kaedric Thal|Kaedric]] share origins; [[Kaedric Thal|Kaedric]] had a lost son
+    - Potions have unpredictable effects
+    - Plan to assassinate [[Lord Regent Titus|Lord Titus]] at [[Peace Summit]]
+    - [[Halric Dain]] seeks [[Alithi (Nation)|Alithi]]’s collapse
+    - [[Rellis Torne]] fuels road conflict for fame
+    - [[Merinth Tharrows (The Man)|The Man]] is a real but unknown force
+    - Priest does not know [[Lord Farquaad]]
+- Session ended with the party debating whether to keep the priest alive as a spy or kill him to stay ahead of the cult

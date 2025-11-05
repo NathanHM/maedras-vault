@@ -1,9 +1,24 @@
-In last weeks session, the party first went to speak with High Lady Dawn to quickly get Jorvic deaged and while at the church, decided to revisit the mausoleum to see if they had missed anything in the rush to save Evangaline. There, Max and Gilbert quickly noted that the party was being watched by a cockroach who, after a quick chat, was found to be a spy sent to keep an eye on the circle. Gilbert quickly gained the cockroaches' allegiance (with some help from Jorvic) and promised to inform the party if anything suspicious happened. You then re-examined the circle and learned a few more of the symbols. 
-From there the party finally went to confront Lord Farquad, where you learned that he pays the carrier children well. After being seen into the manor by Rupert, the right hand of Lord Farquad, you were quick to enquire about his knowledge of the ongoing kidnappings. When Max asked about his knowledge and involvement, Lord Farquad did not out right deny involvement but rather waffled about how someone of his standing would not be involved and. He admits to being asked to support the paladins in blue to come to Stormhaven and was asked by a business missive from someone signed T M to sponsor them in exchange for a house in the capital and a favor; he insists that T M is Tom Macavoy in Alithi. You learned that Lord Farquad does not know the gingerbread man, and is convinced that his sister is “dead” even though he does not live in the main family home in the capital. He also insisted that the reason he was purchasing less fudge is because of a toothache. He then invited the party to investigate as he had nothing to hide. 
-You spoke with Rupert and learned that some letters were received by someone signed T M, and upon investigation realised that the handwriting matched that from the note from the ball (the T’s and O’s seem to be the same). Gilbert was also given a silver to see the doctor as Rupert believed him to be unwell.
-Upon talking with the accountant, you learned that the money is transferred from bank to bank and no coin is given by hand to the head paladin Vladimir Vladishkov. You also learned that Lord Farquadd is allegedly allergic to lavender and an order of molasse was bought 3 months ago. 
-From the cook Fionna, you learned that the lord has been receiving guests more frequently and as such has been ordering exotic fruits from “young” Hubert the seller, who comes to the house once a month. When questioned about the molasse, she noted it was used for gingerbread and insisted the party have some (at which point, Manny became a cupboard filled with gingerbread biscuits). When asked about the lavender allergy, you learned it was new and she stressed it was nothing to do with the occult, when questioned, she told you that magic that deals with rituals or goes against Vel’Enar’s teachings is treason, and other religions are classed as part of the occult. From the small child Felix, you learned that the cooks and kitchen hands spread rumors quickly. When you mentioned the lavender on the way to the house, Fionna noted that she would speak with the gardeners to get it removed.
-From the stablekeeps, you learned a few things. Firstly, after a Jorvic and the old stablekeep were in a drinking contest, you learned about his time in the war fighting with Malona, Lord Farquadd and Bartholomew (the healer from the ball) and learned a few stories about Storm and Thunder. From the other stablekeeps you heard that there were more guests than normal, with some carriages and exotic horses that needed tending too. Upon questioning, they mentioned that there were some unicorns and horses with big hairy feet. The guests who had stopped by were a banker from the capital (a 4 day journey), a seamstress from the capital, and a lady who is good on the eyes (who you learned was Lady Bly). They noted that the unicorns were from Tayan, and some of the other unnamed guests were wearing blue and yellow (Alithi colors). Lord Farquadd still takes his horse Starry (black horse with a white star on the head) on a daily ride. 
-From Starry himself, you noticed he was a bit of a dick and that he often complains about his enclosure. When questioned about the paladins, he told you that he often meets the shinny ones in a meadow in the north that is 3 gallops and a trot away. There is a tall one that sees into his eyes that has a giant shinny stick.
-It’s now been six days since the ball
-The plot continues to thicken.
+- Party confronted [[Lord Farquaad]] and learned he pays carrier children well  
+- [[Rupert]] escorted party into manor; questioned [[Lord Farquaad]] about kidnappings  
+- [[Lord Farquaad]] didn’t deny involvement, claimed his status made it unlikely  
+- He was asked by someone signed [[Merinth Tharrows (The Man)|TM]] to support paladins in blue for a house and favor  
+- [[Lord Farquaad]] believes [[Merinth Tharrows (The Man)|TM]] is Tom Macavoy from [[Alithi (Nation)]]  
+- He doesn’t know the gingerbread man and believes his sister is dead  
+- He buys less fudge due to a toothache and invited party to investigate  
+- [[Rupert]] confirmed letters from [[Merinth Tharrows (The Man)|TM]] matched handwriting from ball note  
+- Gilbert given silver to see doctor as Rupert thought he was unwell  
+- Accountant revealed money is transferred via banks, not handed to [[Vlad|Vladimir Vladishkov]] 
+- [[Lord Farquaad]] allegedly allergic to [[lavender]]; molasse ordered 3 months ago  
+- Cook Fionna said lord has more guests and orders exotic fruits from Hubert monthly  
+- Molasse used for gingerbread; Manny turned into cupboard of biscuits  
+- [[Lavender]] allergy is new; Fionna denied occult involvement  
+- [[Vel’Enar (Rulif)|Vel’Enar’s teachings]] forbid ritual magic and other religions are considered occult  
+- Felix said kitchen staff spread rumours quickly  
+- Fionna planned to speak to gardeners about removing lavender  
+- Stable keeps shared war stories involving Malona, [[Lord Farquaad]], and Bartholomew  
+- More guests than usual; exotic horses including unicorns and hairy-footed breeds  
+- Guests included banker, seamstress, and [[Lady Bly]]; some wore [[Alithi (Nation)]] colors  
+- [[Lord Farquaad]] still rides his horse Starry daily  
+- Starry is grumpy and complains about his enclosure
+- Starry meets paladins in northern meadow; one has giant shiny stick ([[Vlad]])
+- Six days have passed since the ball

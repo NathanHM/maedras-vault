@@ -1,3 +1,3 @@
-- Located in [[Locations/Rulif|Rulif]].
+- Located in [[Rulif (Region)|Rulif (Region)]].
 - Small city
 - 

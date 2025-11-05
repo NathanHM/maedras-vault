@@ -1,0 +1,6 @@
+---
+aliases:
+  - Cultists
+  - Cultist
+  - Cult
+---

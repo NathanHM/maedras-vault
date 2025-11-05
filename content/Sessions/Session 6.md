@@ -1,4 +1,3 @@
-
 - The session started with the party meeting the mysterious figure [[Max]] in the tavern
 - The party joined a rigged arm wrestling contest and earned 40gp each after [[Gilbert]]’s smooth talking
 - [[Chamae]]’s mannequin received a note from [[Lady Bly]] requesting help with a ghost, inspired by your work with the banshee

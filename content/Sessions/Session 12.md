@@ -1,2 +1,13 @@
-Last session, it was decided that Max would wear one of the paladin's armor and convinced the party to either pretend to be captured or to hide in Chamae’s tent. Upon entering the otherside of the transportation circle, you were met at sword point by some haggard humans who were wary after seeing a gingerbread bear. After some quick talking by the group, you managed to talk them down into not attacking you. You learned that they had been there for weeks and were constantly under attack from gingerbread people; they’d taken refuge in this building in the hopes that someone would rescue them as they were not able to make it to the mayor’s building. While chatting with the soldiers, you learned that they were from Alithi and displaced in time (thought it was only 4 months post war, not 20yrs); they assumed that Malona the mage may have interfered with the magic and caused them to not end up in their destination, the boarder town of Kilsa. The group of 5 soldiers admitted to losing 25 others do to the attacks as they were trying to make it to a second transport circle in the mayor’s office to escape. 
-Deciding to use the soldiers as bait, the party followed behind them from the front door to the mayor’s house on the other side of town. You fiercely battled small little gingerbread people and quickly made it into the house just as a gingerbread dragon attacked. The session ended with the party and the Alithi soldiers inside the manor just about to use the transport circle.
+- Last session, [[Max]] wore paladin armour and convinced the party to pretend to be captured or hide in [[Chamae]]’s tent
+- Upon entering the [[Transport Circles|transport circle]], the party was met at sword point by wary humans
+- The humans were frightened due to recent gingerbread bear sightings
+- Quick talking calmed them down and prevented a fight
+- The humans had been trapped for weeks under gingerbread attacks
+- They took refuge in the building, unable to reach the mayor’s office
+- The soldiers were from [[Alithi (Nation)|Alithi]] and displaced in time, believing it was 4 months post-[[The War|war]] instead of 20 years
+- They suspected [[Malona]] the mage interfered with the magic, misdirecting them from [[Kilsa]]
+- Of 30 soldiers, only 5 survived the attacks while trying to reach the second transport circle
+- The party used the soldiers as bait to reach the mayor’s house
+- Fierce battle with gingerbread people ensued en route
+- A gingerbread dragon attacked as the party entered the manor
+- The session ended with the party and soldiers inside, ready to use the transport circle

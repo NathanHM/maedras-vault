@@ -1,7 +1,15 @@
-Upon arriving at the vineyard, the party successfully removes the perimeter guard without alerting those inside. Max disguises themself as the twink paladin and enters through the front doors, crying out that a dragon is attacking the vineyard. Siobhan has graciously agreed to pretend to attack in order to draw attention from the party. 
-
-Wynona and Jorvak create a meat grinder outside the doorway as the cultists rush out, and the rest of the party infiltrates “stealthily” through various windows along with High Lady Dawn. 
-
-In the basement, Vlad and an unidentified magic user become aware of the disturbance. The magic user teleports out and the others ready for battle. It is determined that this person was likely The Man. Siobhan, now inside with the rest of the party, ices the staircase downwards. After much debate over the use of a flashbang, its decided Max will use their disguise to bring it into the midst of the enemy downstairs. The flashbang stuns several cultists and gives the party a chance to slide down the stairs after many failed dexterity saves, just in time to see wizards teleporting into the room.
-
-Chamae uses Heat Metal on Vlad's armour - a move that takes the heaviest hitter out the fight for the majority of the confrontation. The DM attempts to murder the party several times over, with 30+ enemies in a confined space - alas, the intrepid heroes fight valiantly and survive against all odds. Wynona and Uta'ah absolutely decimate in this battle. Kalamari doesn't even make it to the top of the stairs. It's still an impressive effort. The party suggests crafting him a large skateboard in the future.
+- The party arrived at the [[vineyard]] and silently eliminated the perimeter guard
+- [[Max]] disguised as the twink paladin and entered, shouting about a dragon attack
+- [[Siobhan (Shiverwatcher)|Siobhan]] pretended to attack, drawing attention away from the party
+- [[Wynona]] and [[Jorvak]] created a deadly trap at the doorway for rushing cultists
+- The rest of the party infiltrated through windows with [[High Lady Dawn]]
+- In the basement, [[Vlad]] and a mysterious magic user noticed the disturbance
+- The magic user teleported away—likely [[Merinth Tharrows (The Man)|The Man]]
+- [[Siobhan (Shiverwatcher)|Siobhan]] iced the staircase to block pursuit
+- After debate, [[Max]] used their disguise to deliver a flashbang into the enemy ranks
+- Flashbang stunned cultists; party slid down the stairs after many failed dex saves
+- Wizards began teleporting into the room as the party arrived
+- [[Chamae]] cast Heat Metal on [[Vlad]]’s armor, neutralizing him for most of the fight
+- Party fought through over 30 enemies
+- [[Wynona]] and [[Uta’ah]] dominated the battle with brutal efficiency
+- [[Kalamari]] didn’t make it to the stairs. Party suggested building [[Kalamari]] a large skateboard for future mobility

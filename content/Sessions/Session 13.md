@@ -1,8 +1,24 @@
-Last session began with the party waiting at the transport circle with the Alithi soldiers who you were not the biggest fans of. They offered up a reward of 25gp and a potion that they found (perfume of bewitching) if you would take them through. After a few secret looks between the party, it was quickly decided that you would take the reward and quickly run. Some shenanigans ensued, such as a well placed intimidation from Wynonna, that ended with the party using the transport tokens to activate the circle and leave. The soldiers also escaped, hitching a ride on Gilbert’s shoe. 
-You arrived on the other side in what can only be described as a decrepit old jail cell, which the soldiers quickly pointed out must be below the transport hub. The soldiers, thinking that you did in fact help them leave, assured you that Lord Titus would grant you a favor for their safe return and urged you to meet them at the Monastery of the Eternal Vine in two days.
-When you went through the back door to the outside, you were greeted with the hustle and bustle of a border town, with people moving too and fro - people who to the trained eye look well trained and armed. There were also a few monks moving around in dark green 16th century monk robes. Deciding to find out more about the town you find yourselves in, you went looking for a welcome sign and information which led you inside the transport hall. You were greeted with a very fancy white stone building and a sign reading WELCOME TO KILSA. Inside, you noted three check-in desks, a semi-circle door, and, most importantly, a help desk. Speaking with the young clerk about the nature of the circles did not reveal any answers apart from a suggestion to speak with the local scholars. Some quick questioning from Max and you learned that 3 days had passed from when you entered the circle (even though to you it only felt like a few hours at most).
-You also showed the transport tokens given to you by the soldiers (and not the ones stolen from the paladins) and were hastily escorted into the Manager’s office. There you were offered one weeks stay at the Purple Tulip in exchange for one of the tokens by Manager Bilbo Frankenfert. Deciding to take the free accommodation and get a feel for the town, you quickly left to “freshen up.” On the way you noted some other interesting shops and a few signs and job ads such as: Escort needed (Meet at Pink Lotus); Looking for Protection at the Monastery of the Eternal Vine; and Unhappy in Town? Upset with Alithi? Meet Here (location in code) - the code was quickly cracked by Gilbert revealing that the meet-up was at the green soldier on the Fate Day (the 12th). 
-Arriving at the Tulip, you notice the inn is filled with off-duty soldiers, a bard, lots of travellers, and a rather buff old Innkeep. You quickly redeemed the voucher and settled into your new rooms. 
-The next morning, you decided to investigate some of the potential job offers. This leads you to the Pink Lotus to determine just what kind of an escort they were looking for. You were let into the rather unassuming building easily enough and taken to a private booth to wait for Lord Tom to meet and discuss business with you. Meanwhile, the party had the opportunity to relax. You learned that the contract would be for a group to accompany the caravan on the 7 day journey to the capital to meet Lord titus as well as for the journey back. The caravan was expected in 2 weeks time and they would pay you 50gp for the journey there and 50gp for the journey back. The reason they were hiring a caravan was due to missing dancers and caravans taken on the road there. Deciding the contract needed further reading from the whole party, you mentioned that you would be back in the next few days if you accepted the job.
-The party then decided to go to the Monastery, but was quickly distracted by a bookshop on the way. You purchased a few tomes to learn some new skills and information, and were helped by a rather slow man. You quickly learned that time moves differently in the shop, with what you thought was a 30min journey actually being 3hrs. 
-The session ended with the party at the Monastery having met some of the monks (Blessed be the Vine) and directed to speak with the person looking for the protection.
+- The party waited at the transport circle with [[Alithi (Nation)|Alithi]] soldiers they didn’t particularly like
+- Soldiers offered 25gp and a potion (perfume of bewitching) for safe passage
+- Party accepted the reward and quickly activated the circle to escape
+- [[Wynonna]] intimidated the soldiers; they hitched a ride on [[Gilbert]]’s shoe
+- Arrived in a decrepit jail cell below the transport hub
+- Soldiers believed you helped them and promised [[Lord Regent Titus]] would reward you
+- They urged a meeting at the [[Monastery of the Eternal Vine]] in two days
+- Outside, the town was bustling with armed individuals and monks in green robes
+- You entered the transport hall and saw a sign: WELCOME TO [[Kilsa]]
+- Inside were check-in desks, a semi-circle door, and a help desk
+- Clerk suggested speaking with scholars; [[Max]] learned 3 days had passed
+- Showing soldier tokens got you into Manager [[Bilbo Frankenfert]]’s office
+- He offered a week’s stay at the [[Purple Tulip]] in exchange for a [[Transport Circle Tokens|token]]
+- On the way, you saw shops and job ads including escort and protection offers
+- [[Gilbert]] cracked a coded ad revealing a meet-up at the [[Green Soldier]] on Fate Day
+- At the [[Purple Tulip]], the inn was lively with soldiers, a bard, travellers, and a buff innkeep
+- You redeemed the voucher and settled into your rooms
+- Next morning, you investigated job offers and visited the [[Pink Lotus]]
+- You met [[Lord Tom]] in a private booth to discuss escorting a caravan to the capital
+- The job paid 50gp each way and was due to dancers and caravans going missing
+- You said you’d return in a few days after discussing with the party
+- On the way to the [[Monastery of the Eternal Vine|Monastery]], you were distracted by a bookshop
+- You bought tomes and learned time moved differently inside—3hrs felt like 30min
+- The session ended at the [[Monastery of the Eternal Vine|Monastery]] after meeting monks and being directed to the requester

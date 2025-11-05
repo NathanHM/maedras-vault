@@ -1,11 +1,22 @@
-Last session, the party decided to explore more of the ruins and investigated what you guessed to be a transport hub. Inside was much as you expected an area with a help desk, a few check-in desks but with one glaring difference - there is only one transportation circle that is about double the size of any others you’ve seen. Deciding to investigate, the party notices that the symbols are generally the same to others you’ve seen just etched into the floor and with a fancier script. Gilbert decided to take a quicker look and upon getting to the circle, activated a protective shield and took damage. Father Ellric took notice of how often Gilbert receives damage, and presented 3 potions of healing in the hope that Gilbert would remain alive.
-Seeing the shield activate, you noticed a single crystal dangling above the circle and, using the unseen servant, brought it down and deactivated the shield. Upon inspection, you noticed a glyph of warding embedded in the diamond (worth at least 200gp). Some shenanigans later, you convinced Father Ellric to embed a spell into the diamond - a spell of mass healing. You also notice that the circle is directly above where the pedestal would be in the basement. 
-Leaving the building you slink around the ruins and see more scorched buildings. You quickly notice two people chatting and stealth around the corner to listen in. In doing so, you overhear that as punishment for letting High Lady Dawn escape, they have been tasked with recruiting newbees at the green soldier tomorrow. You also hear them chat a bit about the plan to steal more children from the forest - setting Wynonna off in a rage. One quick murder later, the two cultists lay at your feet. In their pockets you find 2sp and 22cp. You also find some mail - mail that is addressed to each of you. 
-For Gilbert, a note from his mother saying her home is always open and she will come find him if he doesn’t respond after his disappearing act at bard school. This was dated 3 weeks ago. There is also a second note dated more recently, which notes that this young man knew where you were and would pass a note along. 
-For Max, there is a note that simply says I’m in town meet when you can -DI
-For Wynona, there is a feather that she instantly recognises
-For Chamae, there’s a note that says they’re passing through town and have a job for you, and that they would love to see you dated 4 days ago. 
-For Jarvic, there is a letter from a secret admirer that says she will hold him tight in the night with those muscles -xoxo
-From the one cultist you leave alive for questioning, you learn some interesting information such as: the cultists are taking children from everywhere with the intention to steal 48 - the exact number you saw in the mural. You also learn that they are stealing the children from everywhere except Qavrud. When you ask about the stolen mail, you learn that they were told to steal the mail and give it to the party if they discovered the cult’s plans a bit more. Learning all you could, the cultist quickly was murdered by Father Ellric. At this point, Father Ellric decided to burn the bodies and chanted a rather peculiar tune. 
-While Father Ellric burns the bodies, you investigate the nearby building where they were holding High Lady Dawn. In investigating the area, you uncover some handcuffs that were burnt but after a quick Mend, were back to right. You also find a message from High Lady Dawn in the symbol of Vel’Enar that simply says - meet at the Yellow Duck. 
-The party and Father Ellric make their way back to town, and upon your return, Gilbert quickly rushed to the inn to find his mother. As he arrives he finds not his mother, but a note that reads - stop the investigation if you want to see your mother alive - Dad.  Gilbert rushes away and quickly joins the party at the post office where a peculiar postie is being “talked with” to find out more about the missing mail. The session ended with the party learning that the letter Gilbert found is similar to that of The Man, it’s feminine, and the postie thinks that it matches that of Lord High Priest Lord Ferox of Qavrud.
+- The party explored more ruins and investigated a [[Transport Hub]] with a single, oversized [[Transport Circles|Circle]]
+- Symbols matched previous [[Transport Circles|Circles]] but were etched in fancier script
+- [[Gilbert]] triggered a protective shield and took damage; [[Father Ellric]] gave him 3 healing potions
+- A crystal above the circle was brought down with unseen servant, deactivating the shield
+- The crystal held a glyph of warding and was worth at least 200gp
+- [[Father Ellric]] embedded a mass healing spell into the diamond
+- The [[Transport Circles|Circle]] was directly above the basement pedestal
+- Party overheard [[Cult of the Eternal Ember|Cultists]] discussing punishment for losing [[High Lady Dawn|HL Dawn]] and plans to steal more [[Missing Children|children]]
+- [[Wynona]] murdered the [[Cult of the Eternal Ember|Cultists]] in a rage; found 2sp, 22cp, and mail addressed to the party
+- [[Gilbert]] received two notes from his [[Juliana (Gilbert’s Mum)|mother]], one recent via a young messenger
+- [[Max]] received a note from [[DI]] saying “I’m in town meet when you can”
+- [[Wynona]] received a familiar feather
+- [[Chamae]] got a job offer note dated 4 days ago
+- [[Jorvak]] received a love letter from a secret admirer
+- One surviving [[Cult of the Eternal Ember|Cultist]] revealed plan to steal 48 children from across the nations, except [[Qavrud (Nation)|Qavrud]]
+- [[Cult of the Eternal Ember|Cultists]] were told to steal mail and deliver it if the party uncovered their plans
+- [[Father Ellric]] murdered the cultist and burned the bodies while chanting
+- Investigated [[High Lady Dawn|HL Dawn]]’s holding area; found burnt handcuffs and a message in [[Vel’Enar]]’s symbol: “meet at the [[Yellow Duck]]”
+- Returned to town; [[Gilbert]] rushed to the inn and found a threatening note from his [[father]]
+- Note demanded Gilbert stop investigating to save his [[Juliana (Gilbert’s Mum)|mother]]
+- Party interrogated a postie about missing mail
+- Postie said handwriting in [[Gilbert]]’s note was feminine, resembled that of [[Merinth Tharrows (The Man)|The Man]] and [[Lord High Preist Ferox Thal|Lord High Priest Ferox]] of [[Qavrud (Region)|Qavrud]]

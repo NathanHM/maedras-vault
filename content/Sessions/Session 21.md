@@ -1,15 +1,22 @@
-Max disguises themself and questions Bilbo, pretending to be his superior. Cyrena identifies poison in Bilbo's desk and in the teacups they have been offered to drink from and communicates this to Max with the invisible writing tattoo. Bilbo's cup is also poisoned, but he doesn't seem affected when drinking from it. 
+- Back at the tavern, [[Kalamari]] was awakened and gifted abilities by [[Nuloran]]
+- [[Max]] disguised themself and interrogated [[Bilbo Frankenfert|Bilbo]], posing as a superior
+- [[Cyrena]] used her tattoo to alert [[Max]] to poison in Bilbo’s desk and teacups
+- [[Bilbo Frankenfert|Bilbo]] drank from a poisoned cup but showed no ill effects
+- [[Chamae]], [[Wynona]], and [[Jorvak]] retrieved [[Kalamari]], [[High Lady Dawn]], and [[Lera Vale|Lera]]
+- [[Wynona]] cast Speak With Animals and discovered [[Kalamari]]’s dark, flood-obsessed personality
+- [[Wynona]] was oddly charmed by [[Kalamari]]’s villainous ambitions
+- [[Max]] made an anti-patriarchy comment that triggered a guard response at the [[Transport Hub]]
+- [[Max]] and [[Cyrena]] were attacked; the rest of the party arrived mid-fight
+- [[Wynona]] viciously shredded a guard during combat
+- [[Bilbo Frankenfert|Bilbo]] was knocked out and captured
+- Party looted the [[Transport Hub]] while civilians cowered in the circle room
 
-Chamae, Wynona and Jorvak go to find Kalamari and collect him, High Lady Dawn, and Lyra. Wynona casts Speak With Animals and discovers Kalamari’s dark side - he wants to drown the world in a great flood and has an excessively overinflated sense of self importance. Wynona is kind of enamoured.
+Next session
 
-Max makes an anti-patriarchy comment that brings down the law upon Max and Cyrena while they're leaving the Transport Hub, initiating combat with several guards who are trying to arrest them.
-
-The bulk of the party arrives in time to see the fighting and join in. Wynona brutally shreds a guard during the fight. Bilbo is knocked out and captured during the fight and the party raids the transport hub for loot and clues while members of the public cower in a transport circle room. Gilbert and Uta'ah return through the circles mid-battle, unaware they've returned to Kilsa, and prepare for a battle to defend the civilians only to discover the party causing mayhem. 
-
-Gilbert used both a new and old token on an ancient transport circle and returned through a new circle approximately 1 hour in the future (fairly instantaneous from Gilbert and Uta'ah’s point of view.)
-
-A small child tries to wake up their uncle - the guard that Wynona eviscerated - and everyone present feels terrible.
-
-Max, Chamae and Wynona discover a fire-trapped orb with an eternal flame inside. They almost burn down the building by setting off the trap, but luckily Kalamari can cast Create Water and is convinced to help. Bilbo's office is emptied of anything useful or valuable including the poison and eternal flame orb. [what other items did we find?]
-
-Realising an army of guards is approaching, all party members join hands and step into a new transport circle, escaping the law with an unconscious Bilbo.
+- [[Gilbert]] and [[Uta’ah]] returned through the [[Transport Circles|Transport Circle]] mid-battle, confused by the chaos
+- Their journey through the ancient [[Transport Circles|Circle]] took them one hour into the future
+- A child tried to wake their slain uncle, causing emotional turmoil for the party
+- [[Max]], [[Chamae]], and [[Wynona]] found a fire-trapped [[Flame Orb|orb]] with an eternal flame
+- [[Kalamari]] cast Create Water to prevent the building from burning down
+- [[Bilbo Frankenfert|Bilbo]]’s office was looted of poison and the eternal [[flame orb]]
+- Realizing guards were approaching, the party joined hands and escaped through a new [[Transport Circles|Transport Circle]] with unconscious [[Bilbo Frankenfert|Bilbo]] in tow

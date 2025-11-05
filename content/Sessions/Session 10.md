@@ -1,2 +1,13 @@
-The session began with the party at the tavern collating notes and creating some ideas for possible things to investigate. You remembered a few favours owed and people to speak with. (To note, this is just version 1.0 of the conspiracy board, and we will make a full one in the next session everyone is in). The conversation was shortly interrupted by a small carrier children asking for the Mannequin adventures as someone had been kidnapped! They were told to bring you to the mausoleum at once. 
-Upon arriving you quickly ran into Roachy who informed you that some shiny people had come through the circle, and that there were quite a few people waiting for you in the various rooms. At hearing the news, the party rushed into battle to save who they assumed would be Erica, the top child under High Lady Dusk. Wynona quickly dispatched of many a foe with her great axe while going right, with Gilbert quick to send a servant to set one of the archers a flame from a lit candle. Meanwhile, Jorvic engaged with the foes on the left in a double prong approach dealing a punch to the nose to one. The session ended with Wynona seeing down the corridor into the room with the transportation circle, which was filled with paladins in shiny armour and the man who you recognise as the one that disappeared last time a child was abducted. In the circle, poor Evangaline and High Lady Dawn lay asleep. The question now remains - will you make it in time to save them?
+- The session began with the party at the tavern collating notes and brainstorming investigations
+- You recalled favours owed and people to speak with
+- This was version 1.0 of the conspiracy board; full version planned for next session
+- A small carrier child interrupted, reporting a kidnapping and summoning you to the mausoleum
+- At the [[mausoleum]], Roachy said shiny people came through the circle and others were waiting
+- The party rushed into battle, assuming [[Erica]] was the target
+- [[Wynona]] went right and dispatched foes with her great axe
+- [[Gilbert]] sent a servant to ignite an archer with a candle flame
+- [[Jorvak]] attacked from the left, landing a punch to the nose
+- [[Wynona]] saw into the transportation circle room filled with shiny-armoured paladins
+- The man who vanished during the last abduction was present
+- [[Evangaline]] and [[High Lady Dawn]] lay asleep in the circle
+- The question remains - will you make it in time to save them?

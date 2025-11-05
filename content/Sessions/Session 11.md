@@ -1,3 +1,15 @@
-In last week’s session, the party continued to fight their way through cultists and paladins to rescue poor Evangaline and HL Dawn. You bravely decapitated many a cultist and even stole the shield from the paladins to bash them against the head. But when Wynona entered the ritual room, Evangaline was transported through the circle by a paladin; shortly after, the leader (who you had met before and had also escaped then) also fled via the circle with HL Dawn in hand. Once they were through the portal, a Gingerbread Bear appeared and entered into the frey. Thanks to some quick talking from Gilbert, you managed to convince them to fight with you against the paladins as they were stealing and eating gingerbread children. In a rage, the Gingerbread Bear quickly murdered the paladins and returned back through the portal when the fighting was done. In the middle of battle, the party also learned that the paladins had tokens on their belts that seemed to flash and allow the transport circle to work. These matched the unknown symbol in the circle. 
-Having kept one of the cultists alive, you questioned poor Pablo 2 for more information. After receiving a whole life story (and a promise to put his body with Daves and not Pablo 1), you learned that they were asked to bring proof of the dead bodies to the capital to someone named R. Upon looking at the letter, you recognize that the handwriting matches letters you’ve received from T M. You also learned that someone named Hilda Hinkle was going to help in transporting the bodies and that she worked in the church; you also realised that she was likely the magic lady from the shop who gave Gilbert his fortune.
-The session ended with the party grabbing tokens from the dead paladins’ bodies, and jumping through the portal with the intention of heroically rescuing Evangaline and HL Dawn. You traveled through interdimensional tunnels (think warpspeed from Star Trek) with the session ending with everyone arriving on the other side met at sword point.
+- The party continued battling cultists and paladins to rescue [[Evangaline]] and [[High Lady Dawn|HL Dawn]]
+- Many [[Cult of the Eternal Ember|Cultists]] were decapitated and paladin shields were stolen for head-bashing
+- [[Wynona]] entered the ritual room as [[Evangaline]] was transported away by a paladin
+- The leader fled through the circle with [[High Lady Dawn|HL Dawn]] shortly after
+- A Gingerbread Bear appeared and joined the fight
+- [[Gilbert]] convinced the bear to help by revealing paladins were eating gingerbread children
+- The bear slaughtered the paladins and returned through the portal
+- Paladin belt tokens flashed and activated the [[Transport Circles|transport circle]], matching its unknown symbol
+- Pablo 2 was kept alive and questioned, sharing his life story and burial wishes
+- He revealed bodies were to be sent to someone named [[R]] in the capital
+- The letter’s handwriting matched previous notes from [[Merinth Tharrows (The Man)|TM]]
+- [[Hilda Hinkle]] was named as a helper in transporting bodies and worked at the church
+- She was likely the magic lady who gave [[Gilbert]] his fortune
+- The party took [[Transport Circle Tokens|tokens]] from dead paladins and jumped through the portal
+- You travelled through interdimensional tunnels and arrived at sword point on the other side

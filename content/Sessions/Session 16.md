@@ -1,4 +1,18 @@
-Last session, the party meet Uta’ah the acrobat in the post office, where you learned that he was interested in meeting Physiwinkle, the owner of the circus. The party also spent time investigating their notes more, and learned that Chamae’s had a secret message reading ‘You’re not safe, meet us in Stormhaven when you can’ and that Max’s note contained a date. After some discussion with the postie (which was rather emotional) Gilbert offered Uta’ah to join the party for a safe place to sleep. You also learned that that at Queries Queries, the scholar tower, contains a public library that is accessible to the public and might be able to answer some of your questions. 
-You decided then to go meet High Lady Dawn at the Yellow Duck. With some quick distraction by Gilbert and Uta’ah, you were able to speak with HL Dawn. You learned that while she was captured, the cultists talked about how HL Dusk was involved in the kiddnappings and had even sanctioned them. This has led to a crisis of faith, with Dawn unsure of who to trust or what is true anymore. You also learned that she knows of Father Ellric, and is rather convinced he is doing the good thing (which you don’t think is the truth). She mentioned how she was suppose to be at the peace talks in Lucanius between Leader Greenway and Lord Regent Titus; assumes that Dusk will be taking her place instead. Dawn ends the conversation by saying she will spend the night in reflection, as her faith is shaken. As the party leaves the Yellow Duck, you receive 108gp in total (18gp each).
-You decide to go back to the monastery to meet with General David McIver, the head soldier from the portal, to receive the favor promised. After a surprisingly vexing conversation, you’re told to mention his name to Lord Titus and he will grant you a favor that is within his power to do so. 
-From there, the party visited a magic supply shop hoping to receive some potions of disguise self to infiltrate the meeting at the Green solider this evening. You were met with a rather saucy shopkeep, who allowed you to purchase some items at a discount in exchange for some favors. Here, Chamae was quick to notice magic ink and a book of tattoo designs - designs she memorised to apply to the party. Back in the inn, Chamae succeeded in counterfeiting the tattoos for the party. The session ended with Chamae convinced to leave Tenty and some well placed questions asked to the mysterious Max.
+- The party meet [[Uta’ah]] the acrobat at the post office, who wanted to meet circus owner [[Fizziwinkle]]
+- [[Chamae]]’s note revealed a secret message: “You’re not safe, meet us in [[Stormhaven]] when you can”
+- [[Max]]’s note contained a mysterious date
+- [[Gilbert]] invited [[Uta’ah]] to join the party for safety after an emotional chat with the postie
+- Learned [[Queries Queries]] scholar tower has a public library that may hold answers
+- Met [[High Lady Dawn]] at the [[Yellow Duck]] with help from [[Gilbert]] and [[Uta’ah]]’s distraction
+- [[High Lady Dawn|Dawn]] revealed cultists claimed [[High Lady Dusk|HL Dusk]] sanctioned the [[Missing Children|Kidnappings]], shaking her faith
+- She knows [[Father Ellric]] and believes he’s doing good, though the party doubts it
+- [[High Lady Dawn|Dawn]] was meant to attend peace talks in [[Lucanius]]; suspects [[High Lady Dusk|Dusk]] will go instead
+- [[High Lady Dawn|Dawn]] plans to spend the night in reflection
+- Party received 108gp total (18gp each) upon leaving the [[Yellow Duck]]
+- Met [[General David McIver]] at the monastery for the promised favour
+- Told to mention his name to [[Lord Regent Titus]] for a favour within his power
+- Visited a magic shop for disguise potions to infiltrate the [[Green Soldier]] meeting
+- Saucy shopkeep offered discounts in exchange for "favours"
+- [[Chamae]] spotted magic ink and tattoo designs, memorized them for the party
+- [[Chamae]] successfully counterfeited tattoos back at the inn
+- Session ended with [[Chamae]] deciding to leave [[Lifty]] and [[Max]] facing pointed questions

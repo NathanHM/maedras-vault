@@ -1,10 +1,21 @@
-Last session started with Jorvak reviewing the contract from Lord Tom at the Pink Lotus for escorting the dancers to and from the capital and quickly uncovering a concerning clause - if the dancers were not safely escorted there and back, you would take their place at the Pink Lotus. Deciding to return to more pressing matters, you entered the Monestary of the Eternal Vine to meet with Lord Uvas about the request for protection. 
-You first meet with a dithering old man, who offers you only pearls and gold nuggets to protect him from the assassins after him. How does he know? He has received a few notes, one of which was in his porridge. Lord Uvas tries to sweeten the deal with information that might be of interest such as about the missing children. From the information, you learn that strong children have been taken over the last two weeks, about every 4 days, and seem to be headed to the Ruins. 
-Suspecting he knows more than he might be letting on, you quickly discover that Lord Uvas is not the old man he seems. Rather, his name is Father Ellric and this was supposed to be a test to see if you had the resolve to escort him to the Ruins safely - you passed! From him you learn that yes, he knows about the kidnappings and that their purpose is to be a sacrifice for the Eternal Ember to bring about the end of the world, which he is absolutely interested in stopping. You also learn that there is a mysterious artifact, that is flamable/flame/flameboyent, and that the meeting at the Green soldier is a recruiting event for the Eternal Ember, which he states is only for the low minions who won’t know anything. Asking Father Ellric about the circles, you learn that the unidentified symbols are numbers related to coordinates, the missing symbol is key (seems to know the language well), and that rumor holds there is a master circle in the Ruins. Before leaving town for the Ruins, the party stops to buy some potions of fire resistance.
-
-The Ruins are a sprawling site of scorched remnants that stand as a testament to a once-magnificent city that is now lost to time. You see many buildings destroyed by intense heat and fire - walls blacked and stone structures partially melted in some areas. You move into a central area which is dominated by a massive obelisk that radiates faint magical energy. Noticing the stone tablets nearby and the empty key slots, you quickly solve the riddle and for a brief second the obelisk glows and a holographic map of the transport circle network flashes before burning away. With some quick thinking Wynonna memorises the map, meanwhile, Gilbert experiments with different combinations of keys and has a near-death experience. 
-Wandering around the forgotten city, you find a broken mural of a figure holding a flame above their head with their face scratched out with an inscription below reading “The Flame Eternal, Guardian of the Way”. You also noticed hidden in the debris around the mural a tome with cryptic references to “awakening the Ember’s true purpose” and “guiding the faithful to the Flame’s origin.”
-
-You make your way to a building remarkably similar to the transport hall in Kilsa. Investigating the basement first, you find a room referred to as the Vault of the Ascended. It bares four unlit braziers with the inscription above the door “Only the Worthy May Hold the Balance of Power.”
-You notice inscriptions next to each brazier and quickly solve the riddle. Inside, the room is mostly empty except for a pedestal in the middle. Upon inspection, it appears scorched as if something was once there. There is also a fragmented map/compass on one wall that shows four symbols: a flame, a tree, a mountain, and a storm cloud. You suspect these are hinting at other ruins with the flame being one here, the tree a forest in Rulif, the mountain an ancient fortress in the mountain pass of Tayan, and the storm cloud south towards Stormhaven perhaps. The session ended with a note found saying “the burning in the flame”
-
+- [[Jorvak]] reviewed [[Lord Tom]]’s contract and found a clause forcing dancer replacement if escort failed
+- Party returned to the [[Monastery of the Eternal Vine]] to meet [[Father Ellric|Lord Uvas]] about protection
+- [[Father Ellric|Lord Uvas]] was a dithering old man offering pearls and gold to avoid assassins; he has recieved threatening notes
+- [[Father Ellric|Lord Uvas]] offered info about missing children taken every 4 days, heading to the [[Vath’iran Ruins|Ruins]]
+- Revealed to be [[Father Ellric]] testing your resolve; you passed
+- He confirmed [[Missing Children|kidnappings]] are sacrifices for the [[Cult of the Eternal Ember|Eternal Ember]] to end the world
+- Mentioned a mysterious flame-related [[Flame Orb|artifact]] and the [[Green Soldier]] meet-up as low-level recruitment
+- Explained [[Transport Circles|Transport Circle]] symbols are coordinate numbers; missing symbol is key
+- Rumoured master circle located in the [[Vath’iran Ruins|Ruins]]
+- Party bought fire resistance potions before heading out
+- [[Vath’iran Ruins|Ruins]] revealed as scorched remains of a lost city with melted structures
+- Central obelisk glowed briefly after solving riddle, showing [[Transport Map]] before burning away
+- [[Wynonna]] memorized the map; [[Gilbert]] nearly died experimenting with keys
+- Found broken mural of [[The Emberheart|flame-bearing figure]] with scratched face and cryptic tome nearby
+- Tome referenced “awakening the Ember’s true purpose” and “guiding the faithful to the Flame’s origin”
+- Discovered building like [[Kilsa]]’s transport hall; basement called [[Vault of the Ascended]]
+- Vault had four unlit braziers and inscription “Only the Worthy May Hold the Balance of Power”
+- Solved riddle; room held scorched pedestal and fragmented map/compass
+- Map showed symbols: flame, tree, mountain, storm cloud—hinting at other ruin sites
+- Flame linked to current ruins, tree to [[Rulif (Region)|Rulif]] forest, mountain to [[Tayan (Region)|Tayan]] pass, storm to [[Stormhaven]]
+- Session ended with found note saying “the burning in the flame”
