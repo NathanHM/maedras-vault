@@ -34,5 +34,5 @@ Bears a resemblance to [[The Ballad of the Burning Crown]]
 > 🌕 _Final Chorus_  
 > So drink and dance, ye noble fools,  
 > While servants sharpen sacred tools.  
-> The blaze is near, the spark’s been fed—  
+> The blaze is near, the spark's been fed—  
 > The heart once cracked will burn instead.

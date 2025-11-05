@@ -1,3 +1,1 @@
-- Located in [[Rulif (Region)|Rulif (Region)]].
-- Small city
-- 
+- Seaside city located in [[Rulif]]

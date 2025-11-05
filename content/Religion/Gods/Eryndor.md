@@ -25,9 +25,9 @@ Eryndor is depicted as a wild figure with antlers, clothed in furs and surrounde
 ## Tenets  
 - **Respect the Wild**: Nature is sacred and must remain unbroken.  
 - **Live Freely**: Embrace your instincts and live according to your nature.  
-- **Defend Nature’s Balance**: Protect the land and its creatures from harm.  
+- **Defend Nature's Balance**: Protect the land and its creatures from harm.  
 ## Clergy and Worship  
-Eryndor’s clergy are guardians of forests, often living in wilderness areas to protect them. Worship includes offerings to animals and rituals to connect with nature.  
+Eryndor's clergy are guardians of forests, often living in wilderness areas to protect them. Worship includes offerings to animals and rituals to connect with nature.  
 ## Rituals  
 - **Wild Hunt**: A ceremonial hunt honoring the natural cycle of predator and prey.  
-- **Forest’s Blessing**: A ritual to seek Eryndor’s guidance and protection when traveling through forests.
+- **Forest's Blessing**: A ritual to seek Eryndor's guidance and protection when traveling through forests.

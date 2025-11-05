@@ -27,7 +27,7 @@ Lyneth is often depicted in flowing robes, her expression serene and gentle, wit
 - **Promote Peace**: Seek to end conflict and encourage understanding.  
 - **Compassion Above All**: Approach others with empathy and gentleness.  
 ## Clergy and Worship  
-Lyneth’s clergy are often medics and peacekeepers, mediating conflicts and promoting wellness. Worship includes healing rituals and peacemaking ceremonies.  
+Lyneth's clergy are often medics and peacekeepers, mediating conflicts and promoting wellness. Worship includes healing rituals and peacemaking ceremonies.  
 ## Rituals  
 - **Balm of Serenity**: A blessing given to those in emotional turmoil or physical pain.  
 - **The Tranquil Accord**: A ceremonial offering for peace between feuding parties.

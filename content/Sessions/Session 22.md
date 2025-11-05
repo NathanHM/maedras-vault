@@ -1,13 +1,13 @@
 - The party arrived in a dark cellar filled with dusty wine casks and a [[teleportation circle]]
-- Ancient, super-strength wine was claimed; [[Uta’ah]] carried a barrel and drank from it like a cat
-- [[Chamae]] filled [[Lifty]] with barrels, planning to trade or start a travelling tavern—[[Uta’ah]] was fully on board
+- Ancient, super-strength wine was claimed; [[Uta'ah]] carried a barrel and drank from it like a cat
+- [[Chamae]] filled [[Lifty]] with barrels, planning to trade or start a travelling tavern—[[Uta'ah]] was fully on board
 - The building was identified as a [[derelict vineyard]] near the capital
-- Wolves were nearby; [[Uta’ah]] attempted to mark territory to scare them off, and slips in his own urine
+- Wolves were nearby; [[Uta'ah]] attempted to mark territory to scare them off, and slips in his own urine
 - A white dragon appeared, drawn by the scent—introducing herself as [[Siobhan (Shiverwatcher)|Shiverwatcher]] (Siobhan in human form)
-- [[Siobhan (Shiverwatcher)|Siobhan]], a young dragon building her hoard, flirted with [[Uta’ah]] and showed interest in bargaining
+- [[Siobhan (Shiverwatcher)|Siobhan]], a young dragon building her hoard, flirted with [[Uta'ah]] and showed interest in bargaining
 - The party offered unconscious [[Bilbo Frankenfert|Bilbo]] in exchange for her help
 - They learned time had passed since using the [[Transport Circles|Transport Circle]] and they were now near the capital
-- Gilbert’s mother [[Juliana (Gilbert’s Mum)|Juliana]] is being held at a [[vineyard]] en route to the city
-- The party decided to rescue [[Juliana (Gilbert’s Mum)|Juliana]] before heading to the [[Peace Summit]]
+- Gilbert's mother [[Juliana (Gilbert's Mum)|Juliana]] is being held at a [[vineyard]] en route to the city
+- The party decided to rescue [[Juliana (Gilbert's Mum)|Juliana]] before heading to the [[Peace Summit]]
 - [[Siobhan (Shiverwatcher)|Siobhan]] agreed to fly them to the [[vineyard]] and assist in the battle after securing more promises
 - She revealed her sisters also roam the area and frequent the [[White Star Coffee Shop]] in the city where they “hunt”

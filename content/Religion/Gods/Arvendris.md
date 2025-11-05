@@ -27,7 +27,7 @@ Arvendris is depicted as a lively figure with a lyre, adorned in flowing robes o
 - **Inspire Others**: Use your gifts to uplift and connect.  
 - **Celebrate Beauty**: Life is art; appreciate and honor its beauty.  
 ## Clergy and Worship  
-Arvendris’ clergy are often performers or patrons of the arts, leading celebrations that inspire creativity.  
+Arvendris' clergy are often performers or patrons of the arts, leading celebrations that inspire creativity.  
 ## Rituals  
-- **Song of the Heart**: A performance-based ritual where followers create or perform art in Arvendris’ honor.  
-- **The Muse’s Gift**: An offering to Arvendris, seeking inspiration for a creative endeavor.
+- **Song of the Heart**: A performance-based ritual where followers create or perform art in Arvendris' honor.  
+- **The Muse's Gift**: An offering to Arvendris, seeking inspiration for a creative endeavor.

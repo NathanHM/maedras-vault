@@ -7,16 +7,16 @@
 - The [[Transport Circles|Circle]] was directly above the basement pedestal
 - Party overheard [[Cult of the Eternal Ember|Cultists]] discussing punishment for losing [[High Lady Dawn|HL Dawn]] and plans to steal more [[Missing Children|children]]
 - [[Wynona]] murdered the [[Cult of the Eternal Ember|Cultists]] in a rage; found 2sp, 22cp, and mail addressed to the party
-- [[Gilbert]] received two notes from his [[Juliana (Gilbert’s Mum)|mother]], one recent via a young messenger
-- [[Max]] received a note from [[DI]] saying “I’m in town meet when you can”
+- [[Gilbert]] received two notes from his [[Juliana (Gilbert's Mum)|mother]], one recent via a young messenger
+- [[Max]] received a note from [[DI]] saying “I'm in town meet when you can”
 - [[Wynona]] received a familiar feather
 - [[Chamae]] got a job offer note dated 4 days ago
 - [[Jorvak]] received a love letter from a secret admirer
-- One surviving [[Cult of the Eternal Ember|Cultist]] revealed plan to steal 48 children from across the nations, except [[Qavrud (Nation)|Qavrud]]
+- One surviving [[Cult of the Eternal Ember|Cultist]] revealed plan to steal 48 children from across the nations, except [[Qavrud|Qavrud]]
 - [[Cult of the Eternal Ember|Cultists]] were told to steal mail and deliver it if the party uncovered their plans
 - [[Father Ellric]] murdered the cultist and burned the bodies while chanting
-- Investigated [[High Lady Dawn|HL Dawn]]’s holding area; found burnt handcuffs and a message in [[Vel’Enar]]’s symbol: “meet at the [[Yellow Duck]]”
+- Investigated [[High Lady Dawn|HL Dawn]]'s holding area; found burnt handcuffs and a message in [[Vel'Enar]]'s symbol: “meet at the [[Yellow Duck]]”
 - Returned to town; [[Gilbert]] rushed to the inn and found a threatening note from his [[father]]
-- Note demanded Gilbert stop investigating to save his [[Juliana (Gilbert’s Mum)|mother]]
+- Note demanded Gilbert stop investigating to save his [[Juliana (Gilbert's Mum)|mother]]
 - Party interrogated a postie about missing mail
-- Postie said handwriting in [[Gilbert]]’s note was feminine, resembled that of [[Merinth Tharrows (The Man)|The Man]] and [[Lord High Preist Ferox Thal|Lord High Priest Ferox]] of [[Qavrud (Region)|Qavrud]]
+- Postie said handwriting in [[Gilbert]]'s note was feminine, resembled that of [[Merinth Tharrows (The Man)|The Man]] and [[Lord High Priest Ferox Thal|Lord High Priest Ferox]] of [[Qavrud]]

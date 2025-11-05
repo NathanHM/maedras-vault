@@ -1,13 +1,13 @@
-- Last session, [[Max]] wore paladin armour and convinced the party to pretend to be captured or hide in [[Chamae]]’s tent
+- Last session, [[Max]] wore paladin armour and convinced the party to pretend to be captured or hide in [[Chamae]]'s tent
 - Upon entering the [[Transport Circles|transport circle]], the party was met at sword point by wary humans
 - The humans were frightened due to recent gingerbread bear sightings
 - Quick talking calmed them down and prevented a fight
 - The humans had been trapped for weeks under gingerbread attacks
-- They took refuge in the building, unable to reach the mayor’s office
-- The soldiers were from [[Alithi (Nation)|Alithi]] and displaced in time, believing it was 4 months post-[[The War|war]] instead of 20 years
+- They took refuge in the building, unable to reach the mayor's office
+- The soldiers were from [[Alithi|Alithi]] and displaced in time, believing it was 4 months post-[[The War|war]] instead of 20 years
 - They suspected [[Malona]] the mage interfered with the magic, misdirecting them from [[Kilsa]]
 - Of 30 soldiers, only 5 survived the attacks while trying to reach the second transport circle
-- The party used the soldiers as bait to reach the mayor’s house
+- The party used the soldiers as bait to reach the mayor's house
 - Fierce battle with gingerbread people ensued en route
 - A gingerbread dragon attacked as the party entered the manor
 - The session ended with the party and soldiers inside, ready to use the transport circle

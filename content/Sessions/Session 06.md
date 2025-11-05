@@ -1,13 +1,13 @@
 - The session started with the party meeting the mysterious figure [[Max]] in the tavern
-- The party joined a rigged arm wrestling contest and earned 40gp each after [[Gilbert]]’s smooth talking
-- [[Chamae]]’s mannequin received a note from [[Lady Bly]] requesting help with a ghost, inspired by your work with the banshee
+- The party joined a rigged arm wrestling contest and earned 40gp each after [[Gilbert]]'s smooth talking
+- [[Chamae]]'s mannequin received a note from [[Lady Bly]] requesting help with a ghost, inspired by your work with the banshee
 - You decided to begin an initial investigation at [[House de Beauvoir]]
 - The house was drenched in overwhelming colour upon arrival
-- [[Lady Bly]] explained the haunting and possible possession by Nonna’s ghost
-- You investigated Nonna’s room and found the furniture had been moved, prompting a search in the attic
-- In the attic, [[Gilbert]] and [[Jorvak]] distracted [[Mystica]] the housekeeper and learned of tension between [[Nonna]] and [[Lady Bly]] before [[Nonna]]’s death
+- [[Lady Bly]] explained the haunting and possible possession by Nonna's ghost
+- You investigated Nonna's room and found the furniture had been moved, prompting a search in the attic
+- In the attic, [[Gilbert]] and [[Jorvak]] distracted [[Mystica]] the housekeeper and learned of tension between [[Nonna]] and [[Lady Bly]] before [[Nonna]]'s death
 - Meanwhile, [[Max]], [[Wynona]], and [[Chamae]] discovered a bottle of [[Qavrud poison]] hidden under the bed
 - Medical knowledge revealed the poison mimics death during sleep
-- You spoke with the children and learned that young [[Dwayne]] aspired to be a bard and was gifted [[Gilbert]]’s dulcimer
+- You spoke with the children and learned that young [[Dwayne]] aspired to be a bard and was gifted [[Gilbert]]'s dulcimer
 - [[Dwayne]] vowed to sing ballads about [[Gilbert]], his new mentor
 - The children revealed that during possession, they relive memories and are overtaken by [[Nonna]]

@@ -1,1 +1,1 @@
-Graveyard investigations. Heading to White Swan Cafe. Meet with [[Siobhan (Shiverwatcher)]] and [[Juliana (Gilbert’s Mum)]]. Learn about diamond nips and pearl tips.
+Graveyard investigations. Heading to White Swan Cafe. Meet with [[Siobhan (Shiverwatcher)]] and [[Juliana (Gilbert's Mum)]]. Learn about diamond nips and pearl tips.

@@ -27,7 +27,7 @@ Myraes is often depicted as a motherly figure with an open, welcoming expression
 - **Kindness in Action**: Offer help and hospitality to those in need.  
 - **Guard the Hearth**: Protect the sanctity and peace of your home.  
 ## Clergy and Worship  
-Myraes’ clergy are caretakers and advisors, promoting peace and cooperation. Worship often includes shared meals, song, and dance, symbolizing unity and abundance.  
+Myraes' clergy are caretakers and advisors, promoting peace and cooperation. Worship often includes shared meals, song, and dance, symbolizing unity and abundance.  
 ## Rituals  
 - **The Gathering**: A community celebration in which participants share food and stories, giving thanks to Myraes for peace and prosperity.  
 - **The Hearthfire Blessing**: A ritual to bless homes, performed by lighting candles or fires, asking Myraes to protect the household.

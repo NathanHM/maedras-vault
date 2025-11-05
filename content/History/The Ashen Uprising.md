@@ -1,30 +1,23 @@
-## 📖 **The Ashen Uprising – A Brief Historical Summary**
-
-**Timeframe**: Roughly **80 years ago**  
-**Location**: Centered in **Alithi**, but rippled into **Qavrud** and **bordering regions of Rulif**  
-**Key Factions**:
-
-- Disenfranchised workers and lowborn magic-users
-    
-- Radical priests of a _forgotten flame deity_
-    
-- Noble loyalists and crown enforcers
-    
-- Silent intervention from an unknown _“circle-bound order”_
-    
+## A Brief Historical Summary
+**Timeframe**: ~80 years ago  
+**Primary Location**: Southern [[Alithi]]
+**Affected Regions**: [[Qavrud]] and bordering territories of [[Rulif]]  
 
 ---
+### Key Factions Involved
+- **Disenfranchised Workers & Lowborn Magic-Users**: The initial spark of unrest, driven by famine and inequality.  
+- **Radical Priests of a Forgotten [[The Emberheart|Flame Deity]]**: [[Cult of the Eternal Ember|Cultists]] who escalated the rebellion into a fiery crusade.  
+- **Noble Loyalists & Crown Enforcers**: Defenders of the old order, many of whom perished in the flames.  
+- **Circle-Bound Order**: A mysterious group believed to have intervened silently, possibly to contain arcane fallout.  
+---
+### What Happened
+The Ashen Uprising began as a wave of **labour protests and food riots** in southern [[Alithi]], triggered by a **brutal drought and failed harvest**. Tensions soared when **rumours spread of noble hoarding** — not just grain, but magical resources like healing and transport circles.
 
-### 🔥 What Happened
+What began as civil unrest turned apocalyptic when a **sect of radical fire-worshippers**, later identified as **precursors to the [[Eternal Ember Cult]]**, began orchestrating **arsons, blood rituals**, and invoked a force they called **“the Awakening Flame.”**
 
-The **Ashen Uprising** began as a series of **labour protests** and **food riots** in southern Alithi after a brutal drought and failed harvest. Tensions escalated when **rumors spread that nobles were hoarding grain and magical resources**, including access to healing and transportation circles.
+The uprising’s impact was devastating:
+- **Half of [[Sunmore]]** was consumed by fire and later rebuilt.  
+- **Entire noble lines vanished**, many reportedly “purified by fire.”  
+- A **forbidden [[Transport Circles|Transport Circle]]** in **[[Lucanius|Dwucliff Market]]** flared open for three days — **rumoured to have brought something through**, though records remain sealed or lost.
 
-What started as **rebellion** soon turned apocalyptic when a **sect of radical fire-worshippers**, later traced to the **precursors of the Eternal Ember Cult**, began orchestrating arsons, blood rituals, and invoking what they called “the Awakening Flame.”
-
-The fires spread **literally and figuratively**:
-
-- **Half of Sunmore** was burned and later rebuilt.
-    
-- **Entire noble lines vanished** or were “purified by fire.”
-    
-- A **forbidden circle** in Dwucliff Market flared open for three days—rumored to have brought something _through_.
+The Ashen Uprising remains one of the most mysterious and transformative events in regional history, marking the first known emergence of the [[Eternal Ember Cult]] and reshaping the political and magical landscape of [[Alithi]] and its neighbours.

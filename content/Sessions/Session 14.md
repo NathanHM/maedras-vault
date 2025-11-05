@@ -1,21 +1,21 @@
-- [[Jorvak]] reviewed [[Lord Tom]]’s contract and found a clause forcing dancer replacement if escort failed
+- [[Jorvak]] reviewed [[Lord Tom]]'s contract and found a clause forcing dancer replacement if escort failed
 - Party returned to the [[Monastery of the Eternal Vine]] to meet [[Father Ellric|Lord Uvas]] about protection
 - [[Father Ellric|Lord Uvas]] was a dithering old man offering pearls and gold to avoid assassins; he has recieved threatening notes
-- [[Father Ellric|Lord Uvas]] offered info about missing children taken every 4 days, heading to the [[Vath’iran Ruins|Ruins]]
+- [[Father Ellric|Lord Uvas]] offered info about missing children taken every 4 days, heading to the [[Scorched Vath'iran Ruins|Ruins]]
 - Revealed to be [[Father Ellric]] testing your resolve; you passed
 - He confirmed [[Missing Children|kidnappings]] are sacrifices for the [[Cult of the Eternal Ember|Eternal Ember]] to end the world
 - Mentioned a mysterious flame-related [[Flame Orb|artifact]] and the [[Green Soldier]] meet-up as low-level recruitment
 - Explained [[Transport Circles|Transport Circle]] symbols are coordinate numbers; missing symbol is key
-- Rumoured master circle located in the [[Vath’iran Ruins|Ruins]]
+- Rumoured master circle located in the [[Scorched Vath'iran Ruins|Ruins]]
 - Party bought fire resistance potions before heading out
-- [[Vath’iran Ruins|Ruins]] revealed as scorched remains of a lost city with melted structures
+- [[Scorched Vath'iran Ruins|Ruins]] revealed as scorched remains of a lost city with melted structures
 - Central obelisk glowed briefly after solving riddle, showing [[Transport Map]] before burning away
-- [[Wynonna]] memorized the map; [[Gilbert]] nearly died experimenting with keys
+- [[Wynona]] memorized the map; [[Gilbert]] nearly died experimenting with keys
 - Found broken mural of [[The Emberheart|flame-bearing figure]] with scratched face and cryptic tome nearby
-- Tome referenced “awakening the Ember’s true purpose” and “guiding the faithful to the Flame’s origin”
-- Discovered building like [[Kilsa]]’s transport hall; basement called [[Vault of the Ascended]]
+- Tome referenced “awakening the Ember's true purpose” and “guiding the faithful to the Flame's origin”
+- Discovered building like [[Kilsa]]'s transport hall; basement called [[Vault of the Ascended]]
 - Vault had four unlit braziers and inscription “Only the Worthy May Hold the Balance of Power”
 - Solved riddle; room held scorched pedestal and fragmented map/compass
 - Map showed symbols: flame, tree, mountain, storm cloud—hinting at other ruin sites
-- Flame linked to current ruins, tree to [[Rulif (Region)|Rulif]] forest, mountain to [[Tayan (Region)|Tayan]] pass, storm to [[Stormhaven]]
+- Flame linked to current ruins, tree to [[Rulif]] forest, mountain to [[Tayan]] pass, storm to [[Stormhaven]]
 - Session ended with found note saying “the burning in the flame”

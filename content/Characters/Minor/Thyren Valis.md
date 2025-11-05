@@ -1,0 +1,1 @@
+A scholar who collected and documented myths and legends.

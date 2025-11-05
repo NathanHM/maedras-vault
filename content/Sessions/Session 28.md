@@ -18,11 +18,11 @@ Vlad interrogated:-
 - Logistics / Spy Network - The Man - Merenth Tharrows
 - The Shadows - The Flamekeeper - identity unknown even by cult members
 
-        ‘Emberheart’ listening in on interrogation via Vlad, noticed by Gilbert with Detect Thoughts.
+        ‘Emberheart' listening in on interrogation via Vlad, noticed by Gilbert with Detect Thoughts.
 
-        ‘Emberheart’ annoyed with Gilbert for impersonating him when interrogating Bilbo, says that Gilbert has “many parents”.
+        ‘Emberheart' annoyed with Gilbert for impersonating him when interrogating Bilbo, says that Gilbert has “many parents”.
 
-Vel’Enar spoke to Wynona “Gilbert is not alone” - cold touch to head
+Vel'Enar spoke to Wynona “Gilbert is not alone” - cold touch to head
 
 Unresolved Story Threads:
 

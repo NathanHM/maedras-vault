@@ -11,5 +11,5 @@
 - A child named [[Rufus]] asks the party to find his lost pet, a giant crab.
 - During dinner, [[Amaphia Loch]] gives a toast and magical darkness envelops the room.
 - Every fourth person falls magically asleep, including the bride.
-- An amulet is discovered missing from [[Talis Greenway]]’s neck.
+- An amulet is discovered missing from [[Talis Greenway]]'s neck.
 - The session ends with the party outside investigating clues.

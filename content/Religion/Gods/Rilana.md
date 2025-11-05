@@ -1,4 +1,4 @@
-# The Shadowed Huntress, Goddess of Nature’s Balance and Survival
+# The Shadowed Huntress, Goddess of Nature's Balance and Survival
 ### Alignment  
 Neutral  
 ### Domains  
@@ -23,11 +23,11 @@ Mysterious and stoic, Rilana is pragmatic and impartial. She respects strength b
 ## Appearance  
 Rilana is often depicted cloaked in shadows, with animal features that hint at her close bond with nature. Her gaze is calm, piercing, and wise.  
 ## Tenets  
-- **Respect the Cycle**: Nature’s balance is sacred; protect it and abide by its rules.  
+- **Respect the Cycle**: Nature's balance is sacred; protect it and abide by its rules.  
 - **Take Only What Is Needed**: Live in harmony, neither hoarding nor wasting.  
-- **Strength in Wisdom**: Survival is not always about power but understanding one’s place.  
+- **Strength in Wisdom**: Survival is not always about power but understanding one's place.  
 ## Clergy and Worship  
-Rilana’s clergy act as wardens of nature, often mediating disputes over land and resource use. Worship involves meditative hunts and offerings to ensure balance.  
+Rilana's clergy act as wardens of nature, often mediating disputes over land and resource use. Worship involves meditative hunts and offerings to ensure balance.  
 ## Rituals  
-- **Hunter’s Moon Rite**: A ceremonial hunt held under a full moon to honor the bounty of the land and ensure balance.  
+- **Hunter's Moon Rite**: A ceremonial hunt held under a full moon to honor the bounty of the land and ensure balance.  
 - **Offering of Respect**: Hunters leave a small portion of their catch in the woods to thank Rilana and maintain harmony within the ecosystem.

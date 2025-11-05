@@ -1,4 +1,4 @@
-- Last week, the party decided to rescue [[Rufus]]’ pet giant crab, located just past [[Lord Farquaad]]’s house
+- Last week, the party decided to rescue [[Rufus]]' pet giant crab, located just past [[Lord Farquaad]]'s house
 - You conducted reconnaissance at the manor and saw two landscapers on the grounds
 - The property was surrounded by 7ft stone fences and a wrought iron front gate, so you chose to return later
 - At the beach, [[Gilbert]] spoke with local crabs and learned the giant crab had been taken by sky demons (giant eagles)
@@ -6,13 +6,13 @@
 - After the eagles fled with their eggs, the crab was recovered and returned home
 - [[Rufus]] and his father Daniel rewarded the party with 50gp each
 - [[Chamae]] warned the Lochs that the eagles might still pose a threat to the town
-- The party visited shops, including Wander o Wonder, where [[Jorvak]] sought a javelin and [[Gilbert]]’s future was read
+- The party visited shops, including Wander o Wonder, where [[Jorvak]] sought a javelin and [[Gilbert]]'s future was read
 - The party was offered a chance to buy a common magical item
 - Later, you checked on [[Evangaline]], who was unusually energetic and counting poorly in Elvish
-- [[High Lady Dawn]] had taught her Elvish for funeral rites, and you learned children joining the [[Motherhood]] of Vel’enar take a language aptitude test
+- [[High Lady Dawn]] had taught her Elvish for funeral rites, and you learned children joining the [[Motherhood]] of Vel'enar take a language aptitude test
 - [[Evangaline]] recalled the tea on the night of her kidnapping tasted very sweet, like molasses
-- You visited [[Lady Aife Sweet]]’s children Oliver and Olivia to assess their condition
+- You visited [[Lady Aife Sweet]]'s children Oliver and Olivia to assess their condition
 - Both were taught Sylvan by [[Lady Mid]] for lambing rites
 - Oliver admitted jealousy toward his sister, and you suspect he failed the progression test
 - He named Erica and another student as top pupils under [[High Lady Dusk]] and [[Lady Night]]
-- He also shared that Laura McMills’ son studied under [[High Lady Dusk]] (undercommon) and Mr White’s daughter under [[Lady Night]] (primordial)
+- He also shared that Laura McMills' son studied under [[High Lady Dusk]] (undercommon) and Mr White's daughter under [[Lady Night]] (primordial)

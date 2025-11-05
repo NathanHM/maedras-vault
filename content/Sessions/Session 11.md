@@ -8,8 +8,8 @@
 - Paladin belt tokens flashed and activated the [[Transport Circles|transport circle]], matching its unknown symbol
 - Pablo 2 was kept alive and questioned, sharing his life story and burial wishes
 - He revealed bodies were to be sent to someone named [[R]] in the capital
-- The letter’s handwriting matched previous notes from [[Merinth Tharrows (The Man)|TM]]
+- The letter's handwriting matched previous notes from [[Merinth Tharrows (The Man)|TM]]
 - [[Hilda Hinkle]] was named as a helper in transporting bodies and worked at the church
 - She was likely the magic lady who gave [[Gilbert]] his fortune
-- The party took [[Transport Circle Tokens|tokens]] from dead paladins and jumped through the portal
+- The party took [[Transport Circles|tokens]] from dead paladins and jumped through the portal
 - You travelled through interdimensional tunnels and arrived at sword point on the other side

@@ -6,10 +6,10 @@
 - A flaming doorway appeared, passable only by the worthy; party used fire resistance potions to enter
 - [[Gilbert]] and [[Max]] sensed two divine presences—one hot, one a cold sweet kiss
 - After party featured cult merch; [[Gilbert]] took 30 vials of mysterious potion
-- [[Uta’ah]] and [[Chamae]] spoke with [[Lera Vane]], a disillusioned recruit whose brother is a cult higher-up
-- Learned [[Cult of the Eternal Ember|Cult]] spans beyond [[Alithi (Region)|Alithi]] and has ties to [[Qavrud (Nation)|Qavrud]]
+- [[Uta'ah]] and [[Chamae]] spoke with [[Lera Vane]], a disillusioned recruit whose brother is a cult higher-up
+- Learned [[Cult of the Eternal Ember|Cult]] spans beyond [[Alithi]] and has ties to [[Qavrud|Qavrud]]
 - Guards led party and priest to a back room; party realized it was a trap
-- [[Wynona]], [[Uta’ah]], [[Max]], and [[Chamae]] launched coordinated attacks
+- [[Wynona]], [[Uta'ah]], [[Max]], and [[Chamae]] launched coordinated attacks
 - [[Gilbert]] cast command and disguised himself as a witch exposing herself, frightening enemies
 - Cult leader escaped via dimension door with [[Max]] tagging along
 - As a divine consequence, an [[Kalamari|Octopus]] was summoned. Gilbert hit a Nat 20 to convince it to work with the party. 
@@ -23,13 +23,13 @@
 - Discovered triple-flame emblem linked to [[Sunken Sanctum]] south of [[Stormhaven]]
 - Hidden message revealed with heat:
 	- "[[Father Aldren]] watches but cannot act. The vine reaches deep; roots burn next moon"
-- Coordinates pointed to abandoned [[Alithi (Region)|Alithi]] [[Vineyard]]—now a [[Cult of the Eternal Ember|Cult]] outpost
-- Convinced priest [[Gilbert]] is [[the Emberheart]]; priest revealed key intel:
-	- [[Juliana (Gilbert’s Mum)|Gilbert's Mum]] held at the [[vineyard]]
-    - [[Lord High Preist Ferox Thal|Lord High Priest Ferox]] and [[Kaedric Thal|Kaedric]] share origins; [[Kaedric Thal|Kaedric]] had a lost son
+- Coordinates pointed to abandoned [[Alithi]] [[Vineyard]]—now a [[Cult of the Eternal Ember|Cult]] outpost
+- Convinced priest [[Gilbert]] is [[The Emberheart]]; priest revealed key intel:
+	- [[Juliana (Gilbert's Mum)|Gilbert's Mum]] held at the [[vineyard]]
+    - [[Lord High Priest Ferox Thal|Lord High Priest Ferox]] and [[Kaedric Thal|Kaedric]] share origins; [[Kaedric Thal|Kaedric]] had a lost son
     - Potions have unpredictable effects
     - Plan to assassinate [[Lord Regent Titus|Lord Titus]] at [[Peace Summit]]
-    - [[Halric Dain]] seeks [[Alithi (Nation)|Alithi]]’s collapse
+    - [[Halric Dain]] seeks [[Alithi|Alithi]]'s collapse
     - [[Rellis Torne]] fuels road conflict for fame
     - [[Merinth Tharrows (The Man)|The Man]] is a real but unknown force
     - Priest does not know [[Lord Farquaad]]

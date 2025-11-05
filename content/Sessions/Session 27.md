@@ -1,20 +1,20 @@
 - [[Bilbo Frankenfert|Bilbo]] is found tied between wine barrels and questioned first; [[Vlad]] is tied to a tree
 - [[Gilbert]] casts Zone of Truth and uses Detect Thoughts to guide questioning from behind Bilbo
-- [[Max]] disguises as [[Vlad]] to assist [[Uta’ah]]; [[Cyrena]] fails to convince [[Bilbo Frankenfert|Bilbo]] this is a job review,
-- [[Gilbert]] assumes the identity of [[the Emberheart]] to gain [[Bilbo Frankenfert|Bilbo]]’s trust
+- [[Max]] disguises as [[Vlad]] to assist [[Uta'ah]]; [[Cyrena]] fails to convince [[Bilbo Frankenfert|Bilbo]] this is a job review,
+- [[Gilbert]] assumes the identity of [[The Emberheart]] to gain [[Bilbo Frankenfert|Bilbo]]'s trust
 - [[Bilbo Frankenfert|Bilbo]] reveals the [[Flame Orb|orbs]] are used for cult communication, scrying, and possibly teleportation anchors
-- [[Oracles]] use the orbs but lose their eyes in the process; orbs contain part of [[the Emberheart]]’s corporeal form
-- [[Juliana (Gilbert’s Mum)|Juliana]] may have scried through an orb unharmed, possibly blessed by [[Thalana]], goddess of Nights & Secrets
-- [[Flame Orb|Orbs]]’ flames cannot be extinguished; party now holds two, causing concern
-- Cult believes in the [[Burning Dawn]]—[[The Emberheart|Emberheart]]’s rebirth will burn the world, and they think they’ll be saved
-- [[Bilbo Frankenfert|Bilbo]] claims [[Lord High Preist Ferox Thal|Lord Ferox]] and [[Kaedric Thal]] may be twin brothers; [[Lord High Preist Ferox Thal|Ferox]] has a missing son
+- [[Oracles]] use the orbs but lose their eyes in the process; orbs contain part of [[The Emberheart]]'s corporeal form
+- [[Juliana (Gilbert's Mum)|Juliana]] may have scried through an orb unharmed, possibly blessed by [[Thalana]], goddess of Nights & Secrets
+- [[Flame Orb|Orbs]]' flames cannot be extinguished; party now holds two, causing concern
+- Cult believes in the [[Burning Dawn]]—[[The Emberheart|Emberheart]]'s rebirth will burn the world, and they think they'll be saved
+- [[Bilbo Frankenfert|Bilbo]] claims [[Lord High Priest Ferox Thal|Lord Ferox]] and [[Kaedric Thal]] may be twin brothers; [[Lord High Priest Ferox Thal|Ferox]] has a missing son
 - [[Lord Farquaad|Farquaad]] is estranged from his sister due to matriarchal inheritance; [[Chamae]] identifies her as [[Merinth Tharrows (The Man)|Merinth Tharrows]]
-- It’s confirmed that [[Merinth Tharrows (The Man)|Merenth Tharrows is The Man]]
+- It's confirmed that [[Merinth Tharrows (The Man)|Merenth Tharrows is The Man]]
 - [[Fizziwinkle]], [[Vlad]], [[Bilbo Frankenfert|Bilbo]], and [[Lord Farquaad|Farquaad]] are drinking buddies
-- Cult activity is strong in [[Verdant Pyre]] near [[Wynona]]’s home, guarded by dangerous mushroom people
-- Several party members’ loved ones are held at the Fortress of [[Ashenhold]] in [[Tayan (Region)|Tayan]]
-- [[Ashenhold]] is built on ancient [[Vath’ira]] ruins known as the [[Pyre Vault]]
-- [[Heart of Cinders]] is believed to be kept there, once worshipped by the [[Vath’ira]]
-- [[Tayan (Nation)|Tayan]] builders sealed the ruins in fear; [[Cult of the Eternal Ember|Ember cult]] is drawn to the site
-- [[Bilbo Frankenfert|Bilbo]] falls asleep mid-interrogation; [[Uta’ah]] nearly kicks him to death but is stopped due to [[Siobhan (Shiverwatcher)|Siobhan]]’s claim
+- Cult activity is strong in [[Verdant Pyre]] near [[Wynona]]'s home, guarded by dangerous mushroom people
+- Several party members' loved ones are held at the Fortress of [[Ashenhold]] in [[Tayan]]
+- [[Ashenhold]] is built on ancient [[Vath'ira]] ruins known as the [[Pyre Vault]]
+- [[Heart of Cinders]] is believed to be kept there, once worshipped by the [[Vath'ira]]
+- [[Tayan|Tayan]] builders sealed the ruins in fear; [[Cult of the Eternal Ember|Ember cult]] is drawn to the site
+- [[Bilbo Frankenfert|Bilbo]] falls asleep mid-interrogation; [[Uta'ah]] nearly kicks him to death but is stopped due to [[Siobhan (Shiverwatcher)|Siobhan]]'s claim
 - [[Bilbo Frankenfert|Bilbo]] is healed and re-stuffed among the barrels for safekeeping

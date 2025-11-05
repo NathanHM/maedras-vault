@@ -4,3 +4,32 @@ aliases:
   - Circles
   - Circle
 ---
+## Origins & Early Use
+- The earliest known references to transport circles describe them as creations of an ancient cabal of scholars, artificers, and priests who sought to connect the great cities of the world. The records do not name this cabal directly, but they may have been tied to the fallen Vath'ira civilization or an even older culture.  
+- Legends claim the circles were originally fuelled by a mysterious core of energy — often described as a flame that never dies or a light that endures beneath the earth. Some scholars believe this refers to the Emberheart or its scattered fragments.  
+- Early texts suggest the circles were designed as neutral ground — sanctuaries of safe travel meant to foster peace between rival kingdoms and faiths. Over time, however, their purpose was corrupted.  
+
+## The Token System
+- The token system appears to have been introduced later in the circles’ history. Some texts theorize that the original circles required no tokens — instead, travellers attuned themselves to the magic through meditation, prayer, or runic chants.  
+- The introduction of tokens coincides with records of a devastating war, in which factions vied to control the circles. Some scholars speculate that tokens were created to restrict access and prevent enemy forces from using the circles for military advantage.  
+- Ancient brass discs have been recovered from old ruins, engraved with strange runes resembling those found at the scorched ruins the players explored. These discs may have been prototype tokens — potentially tied to the Vath'iran language.  
+
+## Theories on the Source of Power
+The true source of the circles’ power is debated among scholars. Theories include:  
+1. **The Heart of the Earth**: Some believe the magic is drawn from deep geothermal energy — the same power that fuelled the now-lost Pyre Vault beneath Ashenhold.  
+2. **The Breath of the Gods**: Religious scholars claim the circles were powered by the divine — a sacred gift from Vel'Enar or another forgotten god. This theory suggests the tokens themselves may have been crafted from relics of the gods.  
+3. **The Emberheart's Echo**: A more dangerous theory proposes that the circles were tied to the slumbering Emberheart, or that scattered fragments of the Emberheart serve as the energy core for each circle. This idea may link the circles’ power to the fiery devastation that consumed Vath'ira.  
+
+## The Lost Circle Network
+- Some maps found in scholarly texts depict a much larger network of transport circles than currently known. According to these records, some circles were constructed in remote wildernesses, forgotten caverns, and even atop ancient burial sites.  
+- Certain records speak of “key tokens” — rare, gem-encrusted discs capable of opening any circle in the network, including those long sealed or forgotten.  
+- Cryptic writings warn that some circles were deliberately sealed or sabotaged to contain something dangerous — perhaps corrupted spirits, unstable magic, or forgotten entities tied to the Eternal Ember Cult.  
+
+## The Scholars’ Warning
+One entry — penned by a reclusive scholar known as [[Veylin the Gray]] — warns against overusing the circles. Veylin claims that prolonged use causes an unseen force to "awaken and watch" those who rely too heavily on the network. He writes:
+
+> "The tokens guide us — yes. But they are not mere keys; they are marks. Each use  
+> leaves a trace, a thread that the forgotten flame may follow. Beware the path you  
+> burn."  
+
+This unsettling warning hints that something — or someone — may be tracking or influencing those who rely too much on the transport circle.

@@ -1,1 +1,1 @@
-Investigating under library. Flame Elemental. [[Gilbert]] pisses on [[Maedra]]. Mind control over Gilbert and Cyrena. 
+Investigating under library. Flame Elemental. [[Gilbert]] pisses on [[Maedra Lurith]]. Mind control over Gilbert and Cyrena. 

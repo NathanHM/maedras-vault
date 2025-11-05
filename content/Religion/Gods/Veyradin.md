@@ -27,7 +27,7 @@ Veyradin is a tall, armored figure, his face serious and unwavering, with a torc
 - **Protect the Innocent**: Justice must shield those in need.  
 - **Seek Truth Relentlessly**: Lies and deceit undermine justice.  
 ## Clergy and Worship  
-Veyradin’s clergy are advocates for law and justice, often mediating disputes. Worship includes oath-swearing ceremonies and seeking Veyradin’s blessing in legal matters.  
+Veyradin's clergy are advocates for law and justice, often mediating disputes. Worship includes oath-swearing ceremonies and seeking Veyradin's blessing in legal matters.  
 ## Rituals  
 - **Oath of Justice**: A swearing of loyalty or truth before a trial or important decision.  
-- **Rite of Balance**: A ritual invoking Veyradin’s guidance to weigh options and ensure a fair
+- **Rite of Balance**: A ritual invoking Veyradin's guidance to weigh options and ensure a fair

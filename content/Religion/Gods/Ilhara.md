@@ -27,7 +27,7 @@ Ilhara is depicted as a veiled figure with a silver-threaded web in her hands, e
 - **Fortune is Fickle**: Luck can change with a breath; accept it with grace.  
 - **Weave Your Path**: Take responsibility for the choices you make.  
 ## Clergy and Worship  
-Ilhara’s clergy are advisors and oracles, helping people understand their destinies. Worship involves casting lots or reading omens.  
+Ilhara's clergy are advisors and oracles, helping people understand their destinies. Worship involves casting lots or reading omens.  
 ## Rituals  
 - **Thread of Fate**: A ritual in which followers tie a thread to represent a desired path or choice.  
-- **The Wheel of Fortune**: A ceremonial spinning of a wheel to seek Ilhara’s guidance on a matter of luck or destiny.
+- **The Wheel of Fortune**: A ceremonial spinning of a wheel to seek Ilhara's guidance on a matter of luck or destiny.

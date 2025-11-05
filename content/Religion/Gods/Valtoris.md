@@ -31,7 +31,7 @@ Often depicted as a figure cloaked in shadow, Valtoris carries a lantern symboli
 - **Find Peace in Transitions**: Do not resist the inevitable, for it is part of a greater balance.
 - **Let Go**: Do not cling to what must pass; honor its place in the cycle and move on.
 ## Clergy and Worship
-Valtoris’s clergy offer funeral services, guiding the bereaved toward acceptance. Rituals are performed at dusk, symbolizing life’s quiet close.
+Valtoris's clergy offer funeral services, guiding the bereaved toward acceptance. Rituals are performed at dusk, symbolizing life's quiet close.
 ## Rituals
 - **Twilight Farewell**: A quiet service to honor the deceased, lighting candles to guide their souls onward.
 - **Reflective Vigil**: Worshippers reflect on their lives, releasing regrets and preparing for new cycles.

@@ -1,4 +1,4 @@
-- The party meets [[J’arrl]] and [[Jorvak]] in the gardens.
+- The party meets [[J'arrl]] and [[Jorvak]] in the gardens.
 - Together, they locate the missing necklace inside a floating protective bubble in a bush.
 - After failed attempts to break the pearl hosting the spell, the party decides to bring both the necklace and pearl to [[Talis Greenway]].
 - On the way, they are ambushed by bandits, who are swiftly defeated.
@@ -9,4 +9,4 @@
 - They discover [[Cult of the Eternal Ember|cultists]] performing a ritual; all but one are defeated.
 - [[Evangaline]] is rescued unharmed.
 - Gold goblets worth 69gp each are found in the ritual chamber.
-- The session ends with the party deciding to return [[Evangaline]] to her father near the baker’s house.
+- The session ends with the party deciding to return [[Evangaline]] to her father near the baker's house.

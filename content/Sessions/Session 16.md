@@ -1,11 +1,11 @@
-- The party meet [[Uta’ah]] the acrobat at the post office, who wanted to meet circus owner [[Fizziwinkle]]
-- [[Chamae]]’s note revealed a secret message: “You’re not safe, meet us in [[Stormhaven]] when you can”
-- [[Max]]’s note contained a mysterious date
-- [[Gilbert]] invited [[Uta’ah]] to join the party for safety after an emotional chat with the postie
+- The party meet [[Uta'ah]] the acrobat at the post office, who wanted to meet circus owner [[Fizziwinkle]]
+- [[Chamae]]'s note revealed a secret message: “You're not safe, meet us in [[Stormhaven]] when you can”
+- [[Max]]'s note contained a mysterious date
+- [[Gilbert]] invited [[Uta'ah]] to join the party for safety after an emotional chat with the postie
 - Learned [[Queries Queries]] scholar tower has a public library that may hold answers
-- Met [[High Lady Dawn]] at the [[Yellow Duck]] with help from [[Gilbert]] and [[Uta’ah]]’s distraction
+- Met [[High Lady Dawn]] at the [[Yellow Duck]] with help from [[Gilbert]] and [[Uta'ah]]'s distraction
 - [[High Lady Dawn|Dawn]] revealed cultists claimed [[High Lady Dusk|HL Dusk]] sanctioned the [[Missing Children|Kidnappings]], shaking her faith
-- She knows [[Father Ellric]] and believes he’s doing good, though the party doubts it
+- She knows [[Father Ellric]] and believes he's doing good, though the party doubts it
 - [[High Lady Dawn|Dawn]] was meant to attend peace talks in [[Lucanius]]; suspects [[High Lady Dusk|Dusk]] will go instead
 - [[High Lady Dawn|Dawn]] plans to spend the night in reflection
 - Party received 108gp total (18gp each) upon leaving the [[Yellow Duck]]

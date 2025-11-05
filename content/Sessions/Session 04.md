@@ -1,14 +1,14 @@
 - The session began with the party returning [[Evangaline]] to her father.
 - Rumours were circulating that the [[Motherhood]] was involved in child abductions for a ritual of eternal youth.
-- [[Evangaline]]’s father doubted [[High Lady Dawn]]’s involvement and asked the party to investigate further.
+- [[Evangaline]]'s father doubted [[High Lady Dawn]]'s involvement and asked the party to investigate further.
 - He suggested speaking with [[Lady Aife Sweet]], [[Laura McMills]] at the harbour, and [[Mr White]] the cobbler—each had children who returned changed.
 - [[Lady Aife Sweet]] claimed her son was normal, but no one had seen him since his return.
 - The visit ended with a promise to send word when [[Evangaline]] woke.
 - The party returned to the masquerade for dinner and to return the stolen carriage before resting.
-- After a long lie-in, the party revisited [[Evangaline]]’s house due to no word being sent.
+- After a long lie-in, the party revisited [[Evangaline]]'s house due to no word being sent.
 - They found her in an unnatural slumber and summoned [[High Lady Dawn]], who successfully woke her.
 - The party chose to let her recover before questioning her further.
-- In the meantime, they visited [[Lady Aife Sweet]]’s sweet shop and bought confections.
+- In the meantime, they visited [[Lady Aife Sweet]]'s sweet shop and bought confections.
 - They discovered the mysterious key was not made of chocolate.
 - [[Lady Aife Sweet]] took them upstairs to see her children.
 - One of the children in the living room was actually a mannequin.

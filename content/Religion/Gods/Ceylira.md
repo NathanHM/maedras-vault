@@ -23,11 +23,11 @@ Gentle and compassionate, Ceylira exudes warmth and encouragement, always offeri
 ## Appearance  
 Ceylira appears as a radiant figure cloaked in gold and warm pastels, with a wreath of flowers in her hair, symbolizing the dawn of life.  
 ## Tenets  
-- **Embrace New Beginnings**: Every sunrise is a new chance; don’t let the past hold you.  
+- **Embrace New Beginnings**: Every sunrise is a new chance; don't let the past hold you.  
 - **Heal and Grow**: Healing brings strength and fosters growth.  
 - **Light the Path**: Guide others to hope, offering them strength and warmth.  
 ## Clergy and Worship  
-Ceylira’s clergy tend to the sick and provide counsel, helping people start fresh. Worship involves sunrise prayers and meditative healing practices.  
+Ceylira's clergy tend to the sick and provide counsel, helping people start fresh. Worship involves sunrise prayers and meditative healing practices.  
 ## Rituals  
-- **The Dawn’s Grace**: A morning ceremony to greet the sun and offer thanks for new beginnings.  
+- **The Dawn's Grace**: A morning ceremony to greet the sun and offer thanks for new beginnings.  
 - **Healing Embrace**: A blessing given to the sick or injured, asking Ceylira to restore them to health.

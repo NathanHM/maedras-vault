@@ -9,7 +9,7 @@
 - After debate, [[Max]] used their disguise to deliver a flashbang into the enemy ranks
 - Flashbang stunned cultists; party slid down the stairs after many failed dex saves
 - Wizards began teleporting into the room as the party arrived
-- [[Chamae]] cast Heat Metal on [[Vlad]]’s armor, neutralizing him for most of the fight
+- [[Chamae]] cast Heat Metal on [[Vlad]]'s armor, neutralizing him for most of the fight
 - Party fought through over 30 enemies
-- [[Wynona]] and [[Uta’ah]] dominated the battle with brutal efficiency
-- [[Kalamari]] didn’t make it to the stairs. Party suggested building [[Kalamari]] a large skateboard for future mobility
+- [[Wynona]] and [[Uta'ah]] dominated the battle with brutal efficiency
+- [[Kalamari]] didn't make it to the stairs. Party suggested building [[Kalamari]] a large skateboard for future mobility

@@ -27,7 +27,7 @@ Thalana is portrayed as a darkly cloaked figure with glowing eyes, symbolizing b
 - **Truths Are Veiled**: Not all is as it seems; question appearances.  
 - **Embrace Mystery**: Secrets are treasures; uncover them with reverence.  
 ## Clergy and Worship  
-Thalana’s clergy often work as advisors, dream interpreters, or spies. Worship includes rituals to seek guidance through dreams or uncover hidden truths.  
+Thalana's clergy often work as advisors, dream interpreters, or spies. Worship includes rituals to seek guidance through dreams or uncover hidden truths.  
 ## Rituals  
-- **Dreamer’s Night**: A ceremony inviting Thalana to share visions or omens through dreams.  
-- **The Shadow’s Insight**: A ritual for those seeking hidden knowledge, involving meditation or symbolic offerings.
+- **Dreamer's Night**: A ceremony inviting Thalana to share visions or omens through dreams.  
+- **The Shadow's Insight**: A ritual for those seeking hidden knowledge, involving meditation or symbolic offerings.

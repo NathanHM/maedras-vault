@@ -1,7 +1,7 @@
-- The party waited at the transport circle with [[Alithi (Nation)|Alithi]] soldiers they didn’t particularly like
+- The party waited at the transport circle with [[Alithi|Alithi]] soldiers they didn't particularly like
 - Soldiers offered 25gp and a potion (perfume of bewitching) for safe passage
 - Party accepted the reward and quickly activated the circle to escape
-- [[Wynonna]] intimidated the soldiers; they hitched a ride on [[Gilbert]]’s shoe
+- [[Wynonna]] intimidated the soldiers; they hitched a ride on [[Gilbert]]'s shoe
 - Arrived in a decrepit jail cell below the transport hub
 - Soldiers believed you helped them and promised [[Lord Regent Titus]] would reward you
 - They urged a meeting at the [[Monastery of the Eternal Vine]] in two days
@@ -9,8 +9,8 @@
 - You entered the transport hall and saw a sign: WELCOME TO [[Kilsa]]
 - Inside were check-in desks, a semi-circle door, and a help desk
 - Clerk suggested speaking with scholars; [[Max]] learned 3 days had passed
-- Showing soldier tokens got you into Manager [[Bilbo Frankenfert]]’s office
-- He offered a week’s stay at the [[Purple Tulip]] in exchange for a [[Transport Circle Tokens|token]]
+- Showing soldier tokens got you into Manager [[Bilbo Frankenfert]]'s office
+- He offered a week's stay at the [[Purple Tulip]] in exchange for a [[Transport Circles|token]]
 - On the way, you saw shops and job ads including escort and protection offers
 - [[Gilbert]] cracked a coded ad revealing a meet-up at the [[Green Soldier]] on Fate Day
 - At the [[Purple Tulip]], the inn was lively with soldiers, a bard, travellers, and a buff innkeep
@@ -18,7 +18,7 @@
 - Next morning, you investigated job offers and visited the [[Pink Lotus]]
 - You met [[Lord Tom]] in a private booth to discuss escorting a caravan to the capital
 - The job paid 50gp each way and was due to dancers and caravans going missing
-- You said you’d return in a few days after discussing with the party
+- You said you'd return in a few days after discussing with the party
 - On the way to the [[Monastery of the Eternal Vine|Monastery]], you were distracted by a bookshop
 - You bought tomes and learned time moved differently inside—3hrs felt like 30min
 - The session ended at the [[Monastery of the Eternal Vine|Monastery]] after meeting monks and being directed to the requester
