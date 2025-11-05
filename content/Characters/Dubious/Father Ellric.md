@@ -1,0 +1,5 @@
+---
+aliases:
+  - Ellric
+  - Lord Uvas
+---

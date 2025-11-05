@@ -1,0 +1,12 @@
+- The party meets [[J’arrl]] and [[Jorvak]] in the gardens.
+- Together, they locate the missing necklace inside a floating protective bubble in a bush.
+- After failed attempts to break the pearl hosting the spell, the party decides to bring both the necklace and pearl to [[Talis Greenway]].
+- On the way, they are ambushed by bandits, who are swiftly defeated.
+- [[Gilbert]] charms the surviving bandit, revealing they were hired by a mysterious figure signing as [[Merinth Tharrows (The Man)|TM]].
+- The necklace is returned to [[Talis Greenway]]; each party member receives 67gp and a mysterious key to the city (possibly made of chocolate).
+- [[High Lady Dawn]] delivers the dossier and urges immediate investigation.
+- The party steals a carriage and returns to the graveyard.
+- They discover [[Cult of the Eternal Ember|cultists]] performing a ritual; all but one are defeated.
+- [[Evangaline]] is rescued unharmed.
+- Gold goblets worth 69gp each are found in the ritual chamber.
+- The session ends with the party deciding to return [[Evangaline]] to her father near the baker’s house.

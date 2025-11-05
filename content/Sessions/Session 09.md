@@ -1,0 +1,24 @@
+- Party confronted [[Lord Farquaad]] and learned he pays carrier children well  
+- [[Rupert]] escorted party into manor; questioned [[Lord Farquaad]] about kidnappings  
+- [[Lord Farquaad]] didn’t deny involvement, claimed his status made it unlikely  
+- He was asked by someone signed [[Merinth Tharrows (The Man)|TM]] to support paladins in blue for a house and favor  
+- [[Lord Farquaad]] believes [[Merinth Tharrows (The Man)|TM]] is Tom Macavoy from [[Alithi (Nation)]]  
+- He doesn’t know the gingerbread man and believes his sister is dead  
+- He buys less fudge due to a toothache and invited party to investigate  
+- [[Rupert]] confirmed letters from [[Merinth Tharrows (The Man)|TM]] matched handwriting from ball note  
+- Gilbert given silver to see doctor as Rupert thought he was unwell  
+- Accountant revealed money is transferred via banks, not handed to [[Vlad|Vladimir Vladishkov]] 
+- [[Lord Farquaad]] allegedly allergic to [[lavender]]; molasse ordered 3 months ago  
+- Cook Fionna said lord has more guests and orders exotic fruits from Hubert monthly  
+- Molasse used for gingerbread; Manny turned into cupboard of biscuits  
+- [[Lavender]] allergy is new; Fionna denied occult involvement  
+- [[Vel’Enar (Rulif)|Vel’Enar’s teachings]] forbid ritual magic and other religions are considered occult  
+- Felix said kitchen staff spread rumours quickly  
+- Fionna planned to speak to gardeners about removing lavender  
+- Stable keeps shared war stories involving Malona, [[Lord Farquaad]], and Bartholomew  
+- More guests than usual; exotic horses including unicorns and hairy-footed breeds  
+- Guests included banker, seamstress, and [[Lady Bly]]; some wore [[Alithi (Nation)]] colors  
+- [[Lord Farquaad]] still rides his horse Starry daily  
+- Starry is grumpy and complains about his enclosure
+- Starry meets paladins in northern meadow; one has giant shiny stick ([[Vlad]])
+- Six days have passed since the ball

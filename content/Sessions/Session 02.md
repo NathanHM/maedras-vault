@@ -1,0 +1,15 @@
+- It is the morning of the ball, and the party gathers in the tavern.
+- A sad man shares that his daughter, [[Evangaline]], is missing.
+- He believes she will return but fears she will be changed.
+- [[Evangaline]] is the 12th child to go missing in 12 weeks from the church graveyard.
+- The party meets Cleric [[High Lady Dawn]] of the Reverent Mothers, who promises a dossier at the ball.
+- Investigations reveal the culprit wears blue; some church paladins wear blue sashes.
+- [[Lord Farquaad]] is suspected to be involved.
+- The party attends the masquerade and greets the hosts.
+- They participate in strength contests, gambling ([[Gilbert]] develops a gambling addiction), and gather rumours.
+- [[Wynona]] is challenged to a duel by a mysterious person known as [[Merinth Tharrows (The Man)|The Man]].
+- A child named [[Rufus]] asks the party to find his lost pet, a giant crab.
+- During dinner, [[Amaphia Loch]] gives a toast and magical darkness envelops the room.
+- Every fourth person falls magically asleep, including the bride.
+- An amulet is discovered missing from [[Talis Greenway]]’s neck.
+- The session ends with the party outside investigating clues.
