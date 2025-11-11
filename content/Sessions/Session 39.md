@@ -1,1 +1,10 @@
-Graveyard investigations. Heading to White Swan Cafe. Meet with [[Siobhan (Shiverwatcher)]] and [[Juliana (Gilbert's Mum)]]. Learn about diamond nips and pearl tips.
+- The party investigate some of the [[Rumours from Rexius#Echoes in the Graveyard – Graveyard, Honi|graves that have been robbed]]. [[Max]] identifies them as ancient, from [[Vath'ira|Vath'iran]] civilization. 
+- The graves have had ancient rituals carried out around them, and the party find more of the stones they found in the Fathers' safe. They suspect that the Fathers are the guilty party, but having freed the nuns, gathered evidence and harvested [[Floral Myths and Legends of the Known Realms#5. The Vine of Whispering Hands|Gravegrasp]], feel they have done enough to deal with this issue for now.
+- The party heads off to [[Lucanius#Notable Buildings & Locations#South Districts|The White Swan Coffee House]], where they meet with [[Reeva]], [[Siobhan|Siobhan]] and [[Juliana|Juliana]].
+- There they sell off most of the Gravegrasp to Reeva
+- Siobhan and [[Uta'ah]] head off for some private time whilst [[Gilbert]] questions Juliana on the possible identity of his [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|father]].
+- Juliana reveals herself to have a free and open history, and is unable to give any specific answer as to who Gilbert's father may have been.
+- The party manages to narrow down the possibility to three candidates:
+	- A barbarian human, described as being good with his hips
+	- A roguish elf, said to be very talented with rope
+	- An Elf Juliana remembers for his diamond nipple and pearl penis piercings.

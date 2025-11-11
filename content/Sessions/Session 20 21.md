@@ -1,0 +1,25 @@
+- A disguised [[Max]] speaks with the Paladin [[Vladimir Vladishkov]] who requests a report on the party's activities, and to take the party to the [[vineyard]] where [[Fizziwinkle]] and [[Lord Farquad]] will be
+- Vlad is drinking buddies with [[Bilbo Frankenfert]]; [[Gilbert]] uses detect thoughts and senses some level of deception
+- Max attempts seduction; Vlad is tempted but resists and leaves
+- Party sneaks back to the [[Purple Tulip]] disguised as ghosts and takes a long rest
+- In the morning, a suspicious breakfast is delivered to the party's room
+- The innkeeper confesses to Gilbert he poisoned it to save his wife
+- Gilbert narrowly saves [[Uta'ah]] from the poisoned coffee; [[Chamae]] identifies the [[Midnight Tears|poison]] as the same from the ball. The poison smells of [[Lavender]]
+- Max is disguised as a busty woman and is hit on by Bjork the Orc
+- At the magic shop, shopkeeper is upset by Gilbert's failure to keep to his arrangement but is appeased by the promise to return that night
+- Chamae purchases some magic ink for more tattoos
+- The party successfully prays for [[Kalamari]] to become a Warlock
+- The party try to deliver a report to [[Vladimir Vladishkov|Vlad]] at the [[Pink Lotus]]; [[Chamae#Chamae's Constructs|Manny]] enters, disguised as the twink paladin
+- He soon returns with a note: “You're good at following instructions. Can you follow the second? See you at the vineyard in 8 days”
+- Gilbert loots the tills and finds contracts signed by Flora Leaf and [[Rose]], and a ledger with familiar symbols. Gilbert is sprayed by blue paint.
+- The party meet [[Cyrena]] who joins the party after hearing tales from [[Lera Vane|Lera]] and [[High Lady Dawn]]
+- The party visit the library with floor-to-ceiling books and rolling ladders
+- An elderly woman helps, mistaking a gnome for a child in a suit
+- Uta'ah learns [[Fizziwinkle]] last lived in [[Lucanius|the capital]]'s wealth district
+- Gilbert swings on ladder and is fined 10gp; Uta'ah becomes part of a scholar's gravity thesis
+- The party find a book with suspicious handwriting like [[Father Ellric]]'s
+- Gilbert discovers the contracts are magically cursed, and if destroyed will harm both the person who signed the contract and the person who destroyed it
+- The party research [[transport circles]] until they overhear guards searching for the party
+- The party rush to the basement circle beneath the transport hub; a vibe check reveals magic is flowing through the area
+- Gilbert approaches with two tokens, one old, one new, tempted to see what happens if a circle is touched with both simultaneously; Uta'ah tackles him to prevent this and both vanish through portal
+- The rest of the party is left behind, unaware of where they went

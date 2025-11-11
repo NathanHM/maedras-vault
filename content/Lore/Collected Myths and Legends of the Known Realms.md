@@ -16,9 +16,9 @@ Travelers claim the statue's gaze shifts with the seasons, always staring toward
 **Scholarly Notes**:  
 The Silent Watcher myth appears remarkably consistent across multiple cultures. I suspect the statue may have connections to pre-[[Vath'ira|Vath'iran]] civilizations. Some travellers claim strange runes line its base — possibly tied to the transport circles.  
 ## 3. The Mother's Tithe  
-**Origin**: [[Worship of Vel'Enar (Rulif)|Church of Vel'Enar]] Canon  
+**Origin**: [[Motherhood of Vel'Enar|Church of Vel'Enar]] Canon  
 **Summary**:  
-An old parable within the [[Worship of Vel'Enar (Rulif)|Church]] tells of a grieving mother who pleaded with [[Vel'Enar]] to spare her sick child. In desperation, she burned her family's harvest in offering. The child recovered, but the mother was cursed to hear the whispers of her lost crops in the wind — forever mourning her sacrifice.  
+An old parable within the [[Motherhood of Vel'Enar|Church]] tells of a grieving mother who pleaded with [[Vel'Enar]] to spare her sick child. In desperation, she burned her family's harvest in offering. The child recovered, but the mother was cursed to hear the whispers of her lost crops in the wind — forever mourning her sacrifice.  
 **Scholarly Notes**:  
 Though moral in tone, this tale bears striking similarities to reports of the [[Cult of the Eternal Ember|Eternal Ember Cult]]'s beliefs. Their practice of fire-based sacrifice may have drawn from this tale's themes. Additionally, references to “whispers in the wind” mirror descriptions of the Whispering Ashes found in the [[Ashenhold]].  
 ## 4. The River's Chain  

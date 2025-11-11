@@ -1,5 +1,4 @@
 ---
 aliases:
-  - Ellric
   - Lord Uvas
 ---

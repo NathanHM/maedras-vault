@@ -1,0 +1,21 @@
+- As the party rises in the morning to prepare for [[The Peace Summit|the summit]], they discuss which gods they each suspect who they have been [[Divine Touch|Divine Touched]] by.
+	- [[Gilbert]] believes to have been chosen by [[Ilhara]]
+	- [[Wynona]] thinks [[Othelar]] makes sense for her
+	- [[Chamae]] suspects [[Ilyra]] for herself
+	- [[Uta'ah]] now believes he may be linked to [[Lyneth]]
+	- [[Cyrena]] looks to either [[Eryndor]] or [[Virelya]]
+	- [[Max]] can't decide between [[Caelith]], [[Ilhara]] or [[Thalana]]
+- Max sends for the [[Jameson Ludwig|scholar]] they met last night, intending to ask more questions about [[Transport Circles|the circles]]
+- Jameson arrives, and becomes convinced that [[Chamae#Chamae's Constructs|Manny]] is [[Vath'ira|Vath'iran]] when he learns from the mannequin that Chamae managed to change a symbol, which he has not heard of before. 
+- Jameson informs the party that time is always lost when using the transport circles, but that time is usually contained to minutes and he has only heard of one other case where a significant amount of time was lost, the [[General David McIver|soldiers]] the party encountered earlier in the campaign.
+- Upon mentioning [[Maedra Lurith|Maedra]], Jameson reveals he is afraid of her. He reports there are rumours that the [[Fey]] warned the Vath'irans that their transport circlea would upset the natural balance. The fall of the Vath'irans may have been a consequence of ignoring this warning, or it may be that the Fey intervened and are responsible themselves.
+- He also reports that if a transport token is degraded, it may be possible for a circle to spit out a traveller either forward or backward in time.
+- Though Jameson is knowledgeable on the subject, not everything he knows is to be taken as a given. Like any fanatic, he is willing to accept leaps in logic and believe wholeheartedly in theories.
+- The party set off to meet [[Lord Regent Titus|Titus]] and prepare for [[the Peace Summit]].
+- The group take their positions as guards in the room as the key players make their entrance.
+	- Titus arrives with his bodyguards, garbed in yellow [[Alithi]] colours.
+	- [[Lord Votrin]] arrives with his guards, carrying scrolls.
+	- Tiberius, the tipsy head priest of [[Church of The Eternal Vine|the Eternal Vine]] arrives with an aide.
+	- [[Lowri Greenway]] joins, nervously fiddling with her wedding ring.
+	- [[High Lady Dawn]] and [[High Lady Dusk]] arrive and stand by Lowri Greenway.
+	- Finally [[Lord High Priest Ferox Thal|Lord Ferox]] arrives, accompanied by a person Gilbert recognises as [[Vaela]], his rival from bard college.

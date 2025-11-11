@@ -1,5 +1,5 @@
 ## Foreign Policy and Neutrality
-Qavrud maintains a neutral stance in external affairs, focusing primarily on the [[Worship of Virelya (Quvard)|worship]] of their god, [[Virelya]]. Its leaders actively discourage entanglement in foreign politics, promoting a philosophy of indirect influence and spiritual introspection over overt action.
+Qavrud maintains a neutral stance in external affairs, focusing primarily on the [[Worship of Virelya|worship]] of their god, [[Virelya]]. Its leaders actively discourage entanglement in foreign politics, promoting a philosophy of indirect influence and spiritual introspection over overt action.
 ## Religious Philosophy and Daily Life
 Religious philosophy is deeply woven into the fabric of Qavrudian society. Citizens are expected to:
 - Follow prescribed rites  

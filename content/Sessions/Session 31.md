@@ -1,0 +1,8 @@
+- The party arrives at [[Lucanius]], the capital of [[Alithi]].
+- The city has security guarding the entrance, checking entrants against documents.
+- The party manages to get themselves and their [[Kalamari|octopus]] into the city without drawing too much attention
+- The party meets a young Dragonborn, [[Cobalt]], who helps the party become acquainted with the city
+- Cobalt wishes to visit the [[Lucanius#**Notable Buildings & Locations**#Eastern Districts|Forgotten Archives]]
+- [[Cyrena]] is fond of Cobalt, which is set off by [[Uta'ah]]'s oddly intense distaste for him
+- Cobalt introduces the part to [[Rexius]], another Dragonborn, who tells the party about the [[Rumours from Rexius|going-ons]] within the city they make take interest in before [[the peace summit]] begina.
+- The party inadvertently summon another octopus, [[Paella]], who joins Kalamari as they set off with [[Lera Vane|Lera]] on their own investigations

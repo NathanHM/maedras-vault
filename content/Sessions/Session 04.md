@@ -1,19 +1,19 @@
 - The session began with the party returning [[Evangaline]] to her father.
-- Rumours were circulating that the [[Motherhood]] was involved in child abductions for a ritual of eternal youth.
-- [[Evangaline]]'s father doubted [[High Lady Dawn]]'s involvement and asked the party to investigate further.
-- He suggested speaking with [[Lady Aife Sweet]], [[Laura McMills]] at the harbour, and [[Mr White]] the cobbler—each had children who returned changed.
-- [[Lady Aife Sweet]] claimed her son was normal, but no one had seen him since his return.
-- The visit ended with a promise to send word when [[Evangaline]] woke.
+- Rumours were circulating that the [[Church of Vel'Enar|Motherhood]] was involved in [[The Missing Children|child abductions]] for a ritual of eternal youth.
+- Evangaline's father doubted [[High Lady Dawn]]'s involvement and asked the party to investigate further.
+- He suggested speaking with [[Lady Aife Sweet]] Laura McMills at the harbour, and Mr White the cobbler—each had a child who returned changed.
+- He tells that Lady Aife Sweet claimed her son was normal, but no one had seen him since his return.
+- The visit ended with a promise to send word when Evangaline woke.
 - The party returned to the masquerade for dinner and to return the stolen carriage before resting.
-- After a long lie-in, the party revisited [[Evangaline]]'s house due to no word being sent.
-- They found her in an unnatural slumber and summoned [[High Lady Dawn]], who successfully woke her.
+- After a long lie-in, the party revisited Evangaline's house due to no word being sent.
+- They found her in an unnatural slumber and summoned High Lady Dawn, who successfully woke her.
 - The party chose to let her recover before questioning her further.
-- In the meantime, they visited [[Lady Aife Sweet]]'s sweet shop and bought confections.
-- They discovered the mysterious key was not made of chocolate.
-- [[Lady Aife Sweet]] took them upstairs to see her children.
+- In the meantime, they visited Lady Aife's sweet shop and bought confections.
+- They discovered the mysterious key was in fact not made of chocolate.
+- Lady Aife Sweet took them upstairs to see her children.
 - One of the children in the living room was actually a mannequin.
 - The party insisted on seeing her son, who was found upstairs in a similar unnatural slumber.
-- [[High Lady Dawn]] was summoned again and woke the boy.
+- High Lady Dawn was summoned again and woke the boy.
 - The party decided to let him recover before questioning.
 - The session ended with the party purchasing two majestic war horses and a cart for easier travel.
-- With their new mounts, they set off to speak with [[Lord Farquaad]] at his estate.
+- With their new mounts, they set off to speak with [[Lord Farquad]] at his estate.

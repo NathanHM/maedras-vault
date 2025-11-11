@@ -1,18 +1,16 @@
-- The party meet [[Uta'ah]] the acrobat at the post office, who wanted to meet circus owner [[Fizziwinkle]]
-- [[Chamae]]'s note revealed a secret message: “You're not safe, meet us in [[Stormhaven]] when you can”
-- [[Max]]'s note contained a mysterious date
-- [[Gilbert]] invited [[Uta'ah]] to join the party for safety after an emotional chat with the postie
-- Learned [[Queries Queries]] scholar tower has a public library that may hold answers
-- Met [[High Lady Dawn]] at the [[Yellow Duck]] with help from [[Gilbert]] and [[Uta'ah]]'s distraction
-- [[High Lady Dawn|Dawn]] revealed cultists claimed [[High Lady Dusk|HL Dusk]] sanctioned the [[Missing Children|Kidnappings]], shaking her faith
-- She knows [[Father Ellric]] and believes he's doing good, though the party doubts it
-- [[High Lady Dawn|Dawn]] was meant to attend peace talks in [[Lucanius]]; suspects [[High Lady Dusk|Dusk]] will go instead
-- [[High Lady Dawn|Dawn]] plans to spend the night in reflection
-- Party received 108gp total (18gp each) upon leaving the [[Yellow Duck]]
-- Met [[General David McIver]] at the monastery for the promised favour
-- Told to mention his name to [[Lord Regent Titus]] for a favour within his power
-- Visited a magic shop for disguise potions to infiltrate the [[Green Soldier]] meeting
-- Saucy shopkeep offered discounts in exchange for "favours"
-- [[Chamae]] spotted magic ink and tattoo designs, memorized them for the party
-- [[Chamae]] successfully counterfeited tattoos back at the inn
-- Session ended with [[Chamae]] deciding to leave [[Lifty]] and [[Max]] facing pointed questions
+- The party meets [[Uta'ah]] the acrobat at the post office; he seeks a meeting with [[Master Fizziwinkle's Travelling Wonders|circus]] owner [[Fizziwinkle]]
+- [[Chamae]]'s note reveals a secret message: “You're not safe, meet us in [[Stormhaven]] when you can”
+- [[Max]]'s note contains a date
+- [[Gilbert]] invites Uta'ah to join the party for safety after an emotional chat with the postie
+- [[Queries Queries]] scholar tower has a public library that may hold answers
+- The party meet [[High Lady Dawn]] at the [[Yellow Duck]] with help from a distraction by Gilbert and Uta'ah
+- Dawn reveals the cultists claimed that [[High Lady Dusk]] sanctioned the [[The Missing Children|kidnappings]], shaking her faith
+- She knows [[Father Ellric]] and believes he is doing good, though the party doubts it
+- Dawn is meant to attend [[The Peace Summit|peace talks]] in [[Lucanius]]; assumes High Lady Dusk will go in her place if she is believed missing
+- Dawn plans to spend the night in reflection
+- The party meet with [[General David McIver]] for the promised favour. He says to mention his name to [[Lord Regent Titus]] for a favour within his power. The party additionally gaslight him into giving them additional gold, 108gp total (18gp each)
+- The party visit a magic shop for disguise potions to infiltrate the [[Green Soldier]] meeting
+- A saucy shop keep offers discounts in exchange for "favours"
+- Chamae spots magic ink and tattoo designs, memorizes them for the party
+- Chamae successfully counterfeits tattoos back at the inn
+- Session ends with Chamae deciding to leave [[Chamae#Chamae's Constructs|Lifty]], and Max facing pointed questions

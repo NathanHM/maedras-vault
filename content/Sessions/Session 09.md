@@ -1,24 +1,25 @@
-- Party confronted [[Lord Farquaad]] and learned he pays carrier children well  
-- [[Rupert]] escorted party into manor; questioned [[Lord Farquaad]] about kidnappings  
-- [[Lord Farquaad]] didn't deny involvement, claimed his status made it unlikely  
-- He was asked by someone signed [[Merinth Tharrows (The Man)|TM]] to support paladins in blue for a house and favor  
-- [[Lord Farquaad]] believes [[Merinth Tharrows (The Man)|TM]] is Tom Macavoy from [[Alithi]]  
-- He doesn't know the gingerbread man and believes his sister is dead  
-- He buys less fudge due to a toothache and invited party to investigate  
-- [[Rupert]] confirmed letters from [[Merinth Tharrows (The Man)|TM]] matched handwriting from ball note  
-- Gilbert given silver to see doctor as Rupert thought he was unwell  
-- Accountant revealed money is transferred via banks, not handed to [[Vlad|Vladimir Vladishkov]] 
-- [[Lord Farquaad]] allegedly allergic to [[lavender]]; molasse ordered 3 months ago  
-- Cook Fionna said lord has more guests and orders exotic fruits from Hubert monthly  
-- Molasse used for gingerbread; Manny turned into cupboard of biscuits  
-- [[Lavender]] allergy is new; Fionna denied occult involvement  
-- [[Worship of Vel'Enar (Rulif)|Vel'Enar's teachings]] forbid ritual magic and other religions are considered occult  
-- Felix said kitchen staff spread rumours quickly  
-- Fionna planned to speak to gardeners about removing lavender  
-- Stable keeps shared war stories involving Malona, [[Lord Farquaad]], and Bartholomew  
-- More guests than usual; exotic horses including unicorns and hairy-footed breeds  
-- Guests included banker, seamstress, and [[Lady Bly]]; some wore [[Alithi]] colors  
-- [[Lord Farquaad]] still rides his horse Starry daily  
-- Starry is grumpy and complains about his enclosure
-- Starry meets paladins in northern meadow; one has giant shiny stick ([[Vlad]])
-- Six days have passed since the ball
+- The party visit [[High Lady Dawn]] at the church, and decide to inspect the Graveyard where [[Evangaline]] was taken for anything they missed.
+- [[Max]] and [[Gilbert]] talk to a cockroach, who agrees to watch [[The Mausoleum]] for the party.
+- The graveyard contains a [[Transport Circles|transport circle]] that one of [[Evangaline]]'s [[The Missing Children| kidnappers]] used to escape
+- The party leaves to confront [[Lord Farquad]] and learns he pays carrier children well  
+- Rupert, Farquad's right hand, escorts the party into the man, and they question Lord Farquad about kidnappings
+- Lord Farquad doesn't deny involvement, claiming his status makes it unlikely  
+- He was asked to support the [[The Sashed Paladins|paladins]] in blue by someone signed [[Merinth Tharrows|TM]]  for a house and favour 
+- Lord Farquad believes TM is Tom Macavoy from [[Alithi]]  
+- He doesn't know the gingerbread man (?) and claims his sister is dead, though he himself is not the one staying in the Family's home in the capital  
+- He invites the party to investigate his house, as he has nothing to hide
+- Rupert confirms letters from TM match handwriting from the ball note  
+- Gilbert is given silver to see a doctor as Rupert thinks he is unwell  
+- Farquad's accountant reveals money is being transferred via banks to the head of the [[The Sashed Paladins|paladins]], [[Vladimir Vladishkov|Vladimir Vladishkov]]
+- The Chef, Fionna, reveals Lord Farquad is allegedly allergic to [[lavender]]; an order of molasses was placed three months ago  
+- Fionna says the lord has been receiving more frequent guests and had been ordering exotic fruit.
+- She claims the molasses is used for gingerbread.
+- The lavender allergy is new; Fionna denies occult involvement  
+- She tells the party that [[Motherhood of Vel'Enar|Vel'Enar's teachings]] forbid ritualistic magic and other religions are considered occult
+- A stable keeps shares war stories involving Malona, Lord Farquad, and Bartholomew  
+- More guests has meant more exotic horses and carriages, including unicorns and hairy-footed breeds 
+- Guests include a banker, seamstress, and [[Lady Bly]]; some wear [[Alithi]] colours  
+- Lord Farquad still rides his horse Starry daily  
+- Starry is grumpy and complains about his enclosure  
+- Starry meets paladins in the northern meadow; [[Vladimir Vladishkov|one has a giant shiny stick]]
+- Six days have passed since the ball  

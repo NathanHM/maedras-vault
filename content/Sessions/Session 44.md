@@ -1,0 +1,10 @@
+- The party interrogates the other paladin, but he has little information that was not already gleaned. The party let him go.
+- Looking around, the party investigate the leaders table where [[Lord High Priest Ferox Thal|Ferox]] was sat, but are able to find little of note.
+- [[Gilbert]] and [[Cyrena]] enter the palace where they encounter and discuss some conspiracy theories with a couple of guards, Frankie and Benny. The siblings are able to convince the guards that they are part to be given access, and are provided with guard outfits for the party.
+- Meanwhile [[Max]] decides to investigate the West Wing by exploring via rooftop. A combo set-up by [[Wynona]] and [[Uta'ah]] manages to catapult Max onto the roof, where they are promptly electrocuted and sent back down to the ground, dropping unconscious as alarms are activated.
+- The party hide in the maze where they are joined by Gilbert and Cyrena. The group changes into the guard uniforms as Chamae heals Max.
+- They manage to slip into the palace and are allowed to move freely due to their disguises.
+- Max, Uta'ah and Chamae head directly to where the [[Talis Greenway|Greenways]] are based, where they hope to find [[High Lady Dawn]] and receive some much needed healing. Wynona, Gilbert and Cyrena instead make a detour by Ferox's room to see what they may over hear.
+- Chamae also sends [[Chamae#Chamae's Constructs|Shiny]] to investigate the West Wing where [[The Peace Summit|the summit]] will be held, and is vaguely able to detect evocation and divination magic, designed to protect the area. Shiny is unable to enter the room
+- Gilbert, Cyrena and Wynona cannot get too close to Ferox's room as it is guarded, but they over hear sounds that remind Gilbert of the lullaby his mother sang. The guards seem nonplussed by this. Gilbert feels the voice of the woman in the room is familiar somehow.
+- As the trio return to the Greenways, Cyrena is temporarily forgotten by Gilbert and Wynona as a [[Divine Consequence]]. Suddenly unaware of who she is and why she is following them, the siblings break out into a brawl.

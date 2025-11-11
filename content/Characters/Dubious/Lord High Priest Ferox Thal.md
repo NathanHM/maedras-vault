@@ -1,10 +1,3 @@
----
-aliases:
-  - Ferox
-  - Lord Ferox
-  - High Priest Ferox
-  - Lord High Priest Ferox
----
 # Notes on Lord Ferox Thal
 
 A scholar recently researching Lord Ferox Thal has uncovered several intriguing details:

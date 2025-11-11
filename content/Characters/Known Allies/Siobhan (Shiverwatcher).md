@@ -1,6 +1,0 @@
----
-aliases:
-  - Siobhan
-  - Shiv
-  - Shiverwatcher
----

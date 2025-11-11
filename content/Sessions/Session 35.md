@@ -1,1 +1,13 @@
-Investigating under library. Flame Elemental. [[Gilbert]] pisses on [[Maedra Lurith]]. Mind control over Gilbert and Cyrena. 
+- The party heads downstairs to enter the now unlocked door
+- As they pass through, they find themselves in another room with another door sealed with glyphs. The room is also full of some old books
+- Before the party has the chance to properly investigate, [[Gilbert]] attempts to open the door. The door reacts by unleashing a fire elemental.
+- The elemental is immune to fire and non-magical attacks, so it is largely left to [[Uta'ah]] to kill the elemental, burning his fists as he does so.
+- With the elemental defeated, the party investigates the glyphs. They see glyphs representing a flame, a flower, roots, and a circle. The party deduce that these glyphs demand a Ritual of Memory and Rebirth. They must burn a plant without destroying the roots, then place the roots in a circle of the resultant ash. Saying the name of the flower completes the ritual.
+- [[Chamae]] and [[Cyrena]] collect some dandelions and manage to complete the ritual successfully, opening the door.
+- As the party enter the sub-basement, they finally find the book the party has been searching for on a pedestal, with a flame sigil on the front.
+- Gilbert, overcome with the sudden need to pee, chooses that the best place to go is immediately on [[Maedra Lurith|Maedra]]. Unpleased by this, Maedra activates some magic that does not immediately reveal itself.
+- Uta'ah picks up the book and Chamae reads the contents over his shoulder.
+- The book is by a forgotten [[Vath'ira|Vath'iran]] scholar, and details the origins of the [[transport circles]] and tokens. Tokens are vassals of sacrifice and memory, and the transport circles were once alive and connected to the primordial flame.
+- There is also a scrap of paper within the book, mentioning the [[Verdant Pyre]] and a failed ignition at the [[Sunken Sanctum]]. Uta'ah manages to pocket this piece of paper before Maedra spots it.
+- Maedra asks what the book says. Finding it curious that Maedra does not seem willing to read the book herself, Uta'ah points out that their deal was only to help Maedra in to the library, and they never agreed to tell her the contents of the book.
+- Re-negotiating their deal, Uta'ah asks for more gold, to know why Maedra can't read the book herself, and what she intends to do with the knowledge. Maedra agrees to tell why she cannot read the book, and an additional 600 gold, but not what she intends to do with the knowledge. Accepting the deal, Maedra supplies the gold, and confirms that she is [[Fey]], and cannot read the book because it contains Cold Iron. Chamae informs her of the information included in the book.

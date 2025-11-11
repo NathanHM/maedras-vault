@@ -1,2 +1,3 @@
+ Date:                         15/05/2025
 
-Arrive in and enter the [[Lucanius]]. Recieve rumors from [[Cobalt]] and [[Rexius]]. 
+- oop its backstories time

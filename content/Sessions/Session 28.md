@@ -1,43 +1,20 @@
-Vlad interrogated:-
-
-- Taius Greenway targeted 
-- Matrimonial leader of Rulif (Fey) 
-- Married to Lori Greenway - political leader of Rulif
-- All family members including son Dane targets for cult
-- Cult tried to steal necklace of protection so Taius could be killed
-- Cult wanted to bring Feywild to the realm in order to create chaos
-- Ashenhold (pop. approx. 75 soldiers at time of questioning, 100 people on avg.)
-- The Ember Hand - 12 Paladins, only 7 ever active at one time
-- Peace summit - cult wants summit to fail by killing leaders so war starts
-- Children are kidnapped to steal their potential
-- All children taken are Divine Touched
-- Party members are also Divine Touched
-- Transport circles are used to feed the Emberheart power
-- Emberheart cult leadership structure revealed
-- Religious Figurehead - Lord Ferox - High Priest of Emberheart (secret) - High Priest of Qavrud (public knowledge)
-- Logistics / Spy Network - The Man - Merenth Tharrows
-- The Shadows - The Flamekeeper - identity unknown even by cult members
-
-        ‘Emberheart' listening in on interrogation via Vlad, noticed by Gilbert with Detect Thoughts.
-
-        ‘Emberheart' annoyed with Gilbert for impersonating him when interrogating Bilbo, says that Gilbert has “many parents”.
-
-Vel'Enar spoke to Wynona “Gilbert is not alone” - cold touch to head
-
-Unresolved Story Threads:
-
-        All of it.
-
-Key Decisions Made:
-
-        Kill a Russian guy. Only a little torture.
-
-        Began travelling to capital city.
-
-Notable NPCs Encountered:
-
-Vlad (Dead)
-
-Items Acquired:
-
-        Knowledge, the greatest gift of all.
+- [[Bilbo Frankenfert|Bilbo]] is found tied between wine barrels and questioned first; [[Vladimir Vladishkov|Vlad]] is tied to a tree
+- [[Gilbert]] casts Zone of Truth and uses Detect Thoughts to guide questioning from behind Bilbo
+- [[Max]] disguises as Vlad to assist [[Uta'ah]]; [[Cyrena]] fails to convince Bilbo that this is a job review
+- Gilbert assumes the identity of [[the Emberheart]] once more to gain Bilbo's trust
+- Bilbo reveals the [[Flame Orb|orbs]] are used for [[Cult of the Eternal Ember|cult]] communication, scrying, and possibly teleportation anchors.
+- Cult Oracles use the orbs but lose their eyes in the process; orbs contain part of the Emberheart's corporeal form, nothing can extinguish their flames
+- [[Juliana]] may have scried through an orb unharmed, possibly due to being blessed by [[Thalana]], goddess of Nights & Secrets
+- Orbs' flames cannot be extinguished; the party now holds two, causing concern they may be used to spy on them
+- The cult believes in the [[Burning Dawn]] - [[the Emberheart]]'s rebirth will burn the world, and they think they'll be saved
+- Bilbo claims [[Lord High Priest Ferox Thal|Lord Ferox]] and [[Kaedric Thal]] may be twin brothers; [[Kaedric Thal|Kaedric]] has a missing son
+- [[Lord Farquad|Farquad]] is estranged from his sister due to matriarchal inheritance; [[Chamae]] identifies her as [[Merinth Tharrows]]
+- It's confirmed that Merinth Tharrows is The Man
+- [[Fizziwinkle]], Vlad, Bilbo, and Farquad are drinking buddies
+- Cult activity is strong in the [[Verdant Pyre]] near [[Wynona]]'s home, guarded by dangerous mushroom people
+- Several party members' loved ones are held at the Fortress of [[Ashenhold]] in [[Tayan]]
+- Ashenhold is built on ancient [[Vath'ira|Vath'iran]] ruins known as the Pyre Vault
+- The Heart of Cinders is believed to be kept there, once worshipped by the Vath'irans
+- Tayan builders sealed the ruins in fear; Ember cult is drawn to the site
+- Bilbo falls asleep mid-interrogation; Uta'ah nearly kicks him to death but is stopped due to Siobhan's claim
+- Bilbo is healed and re-stuffed among the barrels for safekeeping

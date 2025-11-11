@@ -1,1 +1,0 @@
-Exploring [[Lucanius]]. [[Gilbert]] meets [[Maedra Lurith]]. Set up for library.

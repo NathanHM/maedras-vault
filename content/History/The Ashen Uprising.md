@@ -16,7 +16,7 @@ The Ashen Uprising began as a wave of **labour protests and food riots** in sout
 What began as civil unrest turned apocalyptic when a **sect of radical fire-worshippers**, later identified as **precursors to the [[Eternal Ember Cult]]**, began orchestrating **arsons, blood rituals**, and invoked a force they called **“the Awakening Flame.”**
 
 The uprising’s impact was devastating:
-- **Half of [[Sunmore]]** was consumed by fire and later rebuilt.  
+- **Half of Sunmore** was consumed by fire and later rebuilt.  
 - **Entire noble lines vanished**, many reportedly “purified by fire.”  
 - A **forbidden [[Transport Circles|Transport Circle]]** in **[[Lucanius|Dwucliff Market]]** flared open for three days — **rumoured to have brought something through**, though records remain sealed or lost.
 

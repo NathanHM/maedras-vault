@@ -1,21 +1,21 @@
-- [[Jorvak]] reviewed [[Lord Tom]]'s contract and found a clause forcing dancer replacement if escort failed
-- Party returned to the [[Monastery of the Eternal Vine]] to meet [[Father Ellric|Lord Uvas]] about protection
-- [[Father Ellric|Lord Uvas]] was a dithering old man offering pearls and gold to avoid assassins; he has recieved threatening notes
-- [[Father Ellric|Lord Uvas]] offered info about missing children taken every 4 days, heading to the [[Scorched Vath'iran Ruins|Ruins]]
-- Revealed to be [[Father Ellric]] testing your resolve; you passed
-- He confirmed [[Missing Children|kidnappings]] are sacrifices for the [[Cult of the Eternal Ember|Eternal Ember]] to end the world
-- Mentioned a mysterious flame-related [[Flame Orb|artifact]] and the [[Green Soldier]] meet-up as low-level recruitment
-- Explained [[Transport Circles|Transport Circle]] symbols are coordinate numbers; missing symbol is key
-- Rumoured master circle located in the [[Scorched Vath'iran Ruins|Ruins]]
-- Party bought fire resistance potions before heading out
-- [[Scorched Vath'iran Ruins|Ruins]] revealed as scorched remains of a lost city with melted structures
-- Central obelisk glowed briefly after solving riddle, showing [[Transport Map]] before burning away
-- [[Wynona]] memorized the map; [[Gilbert]] nearly died experimenting with keys
-- Found broken mural of [[The Emberheart|flame-bearing figure]] with scratched face and cryptic tome nearby
-- Tome referenced “awakening the Ember's true purpose” and “guiding the faithful to the Flame's origin”
-- Discovered building like [[Kilsa]]'s transport hall; basement called [[Vault of the Ascended]]
-- Vault had four unlit braziers and inscription “Only the Worthy May Hold the Balance of Power”
-- Solved riddle; room held scorched pedestal and fragmented map/compass
-- Map showed symbols: flame, tree, mountain, storm cloud—hinting at other ruin sites
-- Flame linked to current ruins, tree to [[Rulif]] forest, mountain to [[Tayan]] pass, storm to [[Stormhaven]]
-- Session ended with found note saying “the burning in the flame”
+- [[Jorvak]] reviews [[Lord Tom]]'s contract and finds a clause forcing dancer replacement if escort fails. What a smart cookie.
+- The party returns to the [[Monastery of the Eternal Vine]] to meet [[Father Ellric|Lord Uvas]] about protection  
+- Lord Uvas is a dithering old man offering pearls and gold to avoid assassins; he has received threatening notes  
+- Uvas offers info about missing children taken every four days, heading to the [[Scorched Vath'iran Ruins|ruins]]
+- Uvas reveals himself to be Father Ellric, and has been testing the party's resolve  
+- He confirms [[The Missing Children|kidnappings]] are sacrifices for the [[Cult of the Eternal Ember|Eternal Ember]] to end the world  
+- He mentions a mysterious flame-related [[Flame Orb|artifact]] and the [[Green Soldier]] meet-up as low-level recruitment  
+- He explains [[Transport Circles|transport circle]] symbols are coordinate numbers; the missing symbol is key 
+- A master circle is rumoured to be located in the ruins  
+- The party buys fire resistance potions before heading out  
+- The ruins are revealed to be the scorched remains of a lost city with melted structures  
+- A central obelisk dominates the ruins and emanates magic. It glows briefly after the party solve a riddle with stone tablets as keys, showing a [[transport map]] before burning away  
+- [[Wynona]] memorizes the map; [[Gilbert]] nearly dies experimenting with combinations of keys
+- The party finds a broken mural of a [[The Emberheart|figure]] holding a flame above their head with their face scratched out. The inscription below reads "The Flame Eternal, Guardian of the Way"  
+- A cryptic tome found nearby references “awakening the Ember's true purpose” and “guiding the faithful to the Flame's origin”  
+- The party discovers a building like Kilsa's transport hall; the basement is called the [[Scorched Vath'iran Ruins#Vault of the Ascended|Vault of the Ascended]]  
+- The Vault has four unlit braziers and an inscription: “Only the Worthy May Hold the Balance of Power”  
+- After solving a riddle, the room reveals a scorched pedestal in the middle and a fragmented map/compass on the wall.  
+- The map shows four symbols: a flame, a tree, a mountain, and a storm cloud—hinting at other ruin sites.
+- Flame links to current ruins, the tree to a forest in [[Rulif]], the mountain to a pass in [[Tayan]], and the storm to [[Stormhaven]]  
+- The session ends with the party finding a note saying “the burning in the flame”  

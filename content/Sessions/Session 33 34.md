@@ -1,0 +1,23 @@
+- The party makes their way to the [[Lucanius#**Notable Buildings & Locations**#Eastern Districts|Forgotten Archives]], accompanied by [[Maedra Lurith|Maedra]] and [[High Lady Dawn]]
+- As they enter the library they find it run down and abandoned, however they detect there is some kind of magic affecting their perception of the area.
+- As they make their way to the basement, the party defuses a tripwire. [[Chamae]] identifies that the trap was meant to release cold iron, which is harmful to [[Fey]].
+- The party makes their way to the basement, where they discover a door sealed with magic. The door has three glyphs sealing it. The party successfully figure out that each glyph is a lock, with a corresponding glyph acting as a key somewhere hidden in the library.
+- On the door is a glyph of fire, a glyph of thorns, and a glyph of a circle. The fire glyph will require ice, the thorn glyph will require blood, and the circle glyph will require a pact to be made.
+- The basement has multiple alcoves containing statues garbed in golden robes. [[Gilbert]] attempts to don one of the robes, but the statue reveals itself as a construct, and grips him by the throat.
+- The party leap into action, and swiftly take down the constructs. Maedra watches from the side-lines, offering no aid.
+- [[Cyrena]] attempts to don one of the sets of robes but finds herself overcome by a sense of weariness and dismay. High Lady Dawn manages to lift the curse.
+- Suspecting the chandelier in the basement may be linked to the circle glyph, Gilbert cuts his leg and attempts to throw some blood on the chandelier. [[Uta'ah]] use his ice breath attack on it. These attempts result in absolutely nothing.
+- The party makes their way back upstairs to investigate and find the glyphs, unlocking the door.
+- The party split up as they investigate, each checking out different rooms.
+- As the party investigate, they begin to see through the illusion magic and find the library full of strange curios. They speculate that the library may be a weak point between the real world and the [[Feywild]].
+- [[Wynona]] finds a book, The Very, Very Hungry Chimera's Birthday Party. The book reminds her of the one her previous party used to help her learn to read.
+- Wynona also finds one of the glyphs, carved into a window frame. Unsure what to do with the glyph, she instead uses her axe to cleave the windowsill free and bring it to the party, but the glyph begins to fade as it moves from the moonlight.
+- Chamae finds one of the creatures, a small living lamp, named [[Chamae#Chamae's Constructs|Lin Lampwell Miranda]]. As she searches she looks into a chest which reveals itself to be a Mimic and grabs Chamae.
+- As [[Max]] investigates they accidentally trigger a trap and set off an explosion. Charred but standing, they find a room with a statue covered in thorned roses. The statue also has a glyph on it.
+- Uta'ah enters a room and is attacked by an Animated Sword. He manages to defeat the sword in a fist fight, then takes the sword and three others with him, hoping to train them to fight for him.
+- Gilbert joins Max, and pricks his finger on the thorns. This time his blood does succesfully cause the glyph to glow.
+- As Wynona shows Dawn and Maedra the windowsill, they tell her it must be restored to the window for the glyph to be activated. Wynona and Uta'ah go to aid Chamae. Together they defeat the Mimic.
+- Gilbert goes to mend the windowsill, but Max, distrustful of their intentions and suspecting them of intending to light up the library with a Fireball, attempts to prevent them. 
+- Eventually the group calms down and Maedra reveals that to unseal the glyph, Uta'ah must use his ice breath on it. Uta'ah sheepishly admits he has used it already, and they must wait for it to recharge.
+- After some time, Uta'ah manages to breathe on the glyph, activating it. Meanwhile Cyrena hunts for the third and final glyph. Finding the circle amongst the library's more adult section, she realises she needs to make a pact. Joined by Gilbert, they make a sacred one word pact. "Family."
+- Whilst searching the library, the party finds a few items of value. A folding boat they may be able to use if they need to reach the [[sunken sanctum]], some books that may help them grow in their abilities, and a collected set of notes on [[Lord High Priest Ferox Thal|Ferox]]. The notes speculate that Ferox may be using [[Qavrud]]'s influence to make deals to destabilize other regions, including deals with the Fey.

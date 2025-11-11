@@ -1,31 +1,29 @@
-- You took the suspected poison to [[High Lady Dawn]] to identify its effects and check for traces on [[Nonna]]'s body
-- The poison mimics sleep but causes death and is produced by [[Qavrud|Qavrud]]
-- You acquired holy water and confirmed salt could trap the ghost
-- The party discussed the ball incident with [[High Lady Dawn]]
-- She suspects [[Alithi|Alithi]] was behind the job and warned that [[Dane Greenway]], son of High Leader [[Talis Greenway]], might be the next target
-- With time before sunset, the party checked in on McMills' son and Mr. White's granddaughter
-- McMills' son was on a boat with his father, and the mother promised to contact you in the morning
-- Mr. White's granddaughter recalled being given sweet tea and told to pass a test by paladins
-- She woke up in a graveyard four weeks ago with no memory of what happened next
-- [[Jorvak]] ordered new boots that would be ready in three days
-- As night approached, you returned to the de Beauvoir house to prepare for the ghost
-- Children were placed in the red sitting room surrounded by salt circles
-- [[Nonna]]'s ghost appeared and refused to be reasoned with
-- The party trapped [[Nonna]] in a salt circle and convinced her to talk
-- She agreed to leave and not possess the children if [[Lady Bly]] was brought to justice
-- You sent a letter to [[High Lady Dawn]] and the local Sheriff requesting help
-- [[Sheriff Francois]] agreed to wait until morning so you could get paid by [[Lady Bly]]
-- After resting, you received 25 gold from [[Lady Bly]]
-- As [[Max]] cuffed [[Lady Bly]], a card appeared revealing another important location
-- [[Lady Bly]] was arrested and the party began searching for the Lord
-- You investigated her suspected office above the butchers
-- [[Gilbert]] played music while [[Max]] picked the lock unnoticed
-- Inside, you found a coded ledger and a hollowed book disguised as [[Qavrud|Qavrud]] religious text
-- The hidden book was actually about [[The Eternal Vine (Alithi)|Alithi religions]]
-- Initial entries showed trade deals for [[Qavrud|Qavrud]] plants in exchange for hides
-- Further investigation revealed code in bastardised old Qavrudian with symbols for [[Lavender]], trade, mystery, and death
-- You presented the documents to the Sheriff and received 20sp each
-- The session ended with the party returning to the tavern and finding a note from the McMills
-- You visited them and found the son no longer speaks since the kidnapping
-- Through charades and misspelled words, he revealed his spirit had gone elsewhere
-- He saw three [[paladins in blue]], a green flower, heard the word Alithi, four [[paladins in yellow]], and one blue-clad man with a sword taller than himself ([[Vlad]])
+- The party takes the suspected poison to [[High Lady Dawn]] to identify its effects and ask if traces were found on [[Nonna]]'s body  
+- The [[Midnight Tears|poison]] mimics sleep but causes death and is produced by [[Qavrud|Qavrud]]  
+- The party acquires holy water and confirms salt can trap the ghost  
+- The party discusses the ball incident with High Lady Dawn. She suspects [[Alithi|Alithi]] is behind the job and warns that [[Dinn Greenway]], son of High Leader [[Talis Greenway]], might be the next target  
+- With time before sunset, the party checks in on McMills' son and Mr. White's granddaughter  
+- McMills' son is on a boat with his father, and the mother promises to contact the party in the morning  
+- Mr. White's granddaughter recalls being given sweet tea and told to pass a test by [[The Sashed Paladins|paladins]]  
+- She then woke up in a graveyard some four weeks ago with no memory of what happened next  
+- [[Jorvak]] orders new boots that will be ready in three days  
+- As night approaches, the party returns to the [[House de Beauvoir|de Beauvoir house]] to prepare for the ghost  
+- The children are placed in the red sitting room, surrounded by salt circles  
+- [[Nonna]]'s ghost appears and the party traps her in a salt circle and convinces her to talk
+- She agrees to leave and not possess the children if [[Lady Bly]] is brought to justice  
+- The party sends a letter to High Lady Dawn and [[Sheriff Francois]] requesting help  
+- Sheriff Francois agrees to wait until morning so the party can get paid by Lady Bly  
+- After resting, the party receives 25 gold from Lady Bly  
+- As Max cuffs Lady Bly, a card appears revealing another important location  
+- Lady Bly is arrested and the party begins searching for the Lord of the House.  
+- The party investigates her suspected office above the butchers  
+- Gilbert plays music while Max picks the lock unnoticed  
+- Inside, the party finds a coded ledger and a hollowed book disguised as a book about [[Worship of Virelya (Quvard)|Qavrud religion]] 
+- The hidden book is actually about [[Worship of The Eternal Vine (Alithi)|Alithi religions]]  
+- Initial entries show trade deals for Qavrud plants in exchange for hides  
+- Further investigation reveals code in bastardised old Qavrudian with symbols for [[Lavender]], trade, mystery, and death  
+- The party presents the documents to the Sheriff and receive 20sp each  
+- The session ends with the party returning to the tavern and finding a note from the McMills  
+- The party visits them and finds the son no longer speaks since the [[The Missing Children|kidnapping]]  
+- Through charades and misspelled words, he reveals he saw another place via his spirit
+- He saw three paladins in blue, a green flower, heard the word Alithi, four paladins in yellow, and one [[Vladimir Vladishkov|blue-clad man]] with a sword taller than himself. 

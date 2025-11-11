@@ -1,1 +1,0 @@
-Searching library for sigils

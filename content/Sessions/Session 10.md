@@ -1,13 +1,12 @@
-- The session began with the party at the tavern collating notes and brainstorming investigations
-- You recalled favours owed and people to speak with
-- This was version 1.0 of the conspiracy board; full version planned for next session
-- A small carrier child interrupted, reporting a kidnapping and summoning you to the mausoleum
-- At the [[mausoleum]], Roachy said shiny people came through the circle and others were waiting
-- The party rushed into battle, assuming [[Erica]] was the target
-- [[Wynona]] went right and dispatched foes with her great axe
-- [[Gilbert]] sent a servant to ignite an archer with a candle flame
-- [[Jorvak]] attacked from the left, landing a punch to the nose
-- [[Wynona]] saw into the transportation circle room filled with shiny-armoured paladins
-- The man who vanished during the last abduction was present
-- [[Evangaline]] and [[High Lady Dawn]] lay asleep in the circle
-- The question remains - will you make it in time to save them?
+- The session begins with the party at the tavern collating notes and brainstorming investigations  
+- The party recalls favours owed and people to speak with  
+- Thus version 1.0 of the conspiracy board is born
+- A small carrier child interrupts, reporting a [[The Missing Children|kidnapping]] and summoning the party to [[The Mausoleum]]
+- At the mausoleum, Roachy says shiny people come through the circle and others are waiting  
+- The party rushes into battle, assuming Erica, the top student of [[High Lady Dusk]], is the target  
+- [[Wynona]] goes right and dispatches foes with her great axe  
+- [[Gilbert]] sends a servant to ignite an archer with a candle flame  
+- [[Jorvak]] attacks from the left, landing a punch to the nose  
+- [[Wynona]] sees into the transportation circle room filled with shiny-armoured paladins  
+- The man who vanished during the last abduction is present  
+- [[Evangaline]] and [[High Lady Dawn]] lie asleep in the circle

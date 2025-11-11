@@ -1,7 +1,7 @@
-### [[Echoes in the Graveyard]] – Graveyard, Honi  
+### Echoes in the Graveyard – [[Lucanius#Notable Buildings & Locations#South Districts|Old Graveyard of Saint Immurel]], Honi  
 - A series of grave robbings have disturbed local families in the Honi District. A priestess from the local chapel is looking to hire someone to investigate  
 
-### Under the White Star – [[White Swan Coffee Shop]], Ostyer  
+### Under the White Star – [[Lucanius#Notable Buildings & Locations#South Districts|The White Swan Coffee House]], Ostyer  
 - A scholar is looking for help as they think they're being stalked by someone  
 
 ### The Broken Shoe – Farrier, Ust End  
@@ -40,14 +40,14 @@
 ### Saltcoil Wharf – The Docks, Honi  
 - Crates marked with strange flame sigils have been seen unloaded at night  
 
-### Whispering Brew – White Swan Coffee Shop, Ostyer  
+### Whispering Brew – [[Lucanius#Notable Buildings & Locations#South Districts|The White Swan Coffee House]], Ostyer  
 - The barista claims a regular left behind a “talking” stone and is interested in having someone find out more information  
 
 ### Further Leads:  
 - Elaric Voss is in a panic as diplomatic courier carrying documents for the peace summit is missing, and the summit's legitimacy depends on the documents they carry  
 - Filos Tren is rumoured to have strange visions since he recently restored a statue as is said to be “touched by [[Vel'Enar]]”  
 - Drask Tellen recently treated a patient whose burns never healed and whose mutterings mention “the [[Ashenhold]]”  
-- [[Maedra Lurith]] needs help getting past some political red tape and minor wards to retrieve a forbidden tome on ancient [[transport circle]]  
+- [[Maedra Lurith]] needs help getting past some political red tape and minor wards to retrieve a forbidden tome on ancient [[transport circles]]  
 - Mirava is looking for someone to investigate the strange ash-like residue in the recent coffee shipments  
 - Zellin “Five-Pints” Farro is a gossip and for the right price, might be able to tell you some interesting information  
 - Graye “Salttooth” Mender's nephew is missing, and he last worked as a dockhand  

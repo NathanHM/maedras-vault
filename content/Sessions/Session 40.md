@@ -1,0 +1,10 @@
+- The party continues their conversation with [[Juliana|Juliana]] in the [[Lucanius#Notable Buildings & Locations#South Districts|The White Swan Coffee House]], where they over hear a [[Bard’s Song|song]] being sung by a bard.
+- Juliana takes the bard upstairs, and [[Gilbert]] is traumatised as he realises the noises he hears coming from upstairs was the favourite lullaby from his childhood
+- [[Wynona]] is told by an old lady at the café that the last time she heard the song was during [[the Ashen Uprising]], which the party figures to have been some 80 years ago.
+- Later, [[Chamae]] is able to recall that the song is part of a ritual used to awaken sleeper agents across the city. The original version, [[the Ballad of the Burning Crown]], was sung during the Ashen Uprising.
+- The party garb themselves in appropriate wear to attend the opening party of the peace summit, with [[Uta'ah]] wearing a particularly slutty tux supplied by [[Siobhan|Siobhan]].
+- As the party arrive at the party, they finally meet with [[High Lady Dusk]]. She claims that sometimes war is as necessary as peace in order to maintain balance, and attempts to teach the party with a fable about Ravens, though the party gets confused and try to interpret with their own fable about Spider-Man
+- They reunite with the [[Talis Greenway|Greenways]], who are relieved to see that [[High Lady Dawn|Dawn]] is alright, and they agree that the party will communicate all they have learned to them later.
+- Gilbert, Wynona and Uta'ah preform on stage for the celebrations, and manage to wow the crowd and earn themselves 5000 gold.
+- The party attempts to cash in their favour with [[Lord Regent Titus]] to get into [[the peace summit]], but he refuses. The party then instead challenge him to an arm-wrestle with Wynona. Winning the contest and smashing Titus through the table, the party wins the right to serve as his guard during the peace talks, an additional 5000 gold and Titus's unwanted affection for Wynona.
+- As the party proceeds, Lady Dusk eventually bids the party and Dawn adieu, and goes off to join her date for the evening, Ferox

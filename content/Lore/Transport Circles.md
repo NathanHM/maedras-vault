@@ -1,9 +1,3 @@
----
-aliases:
-  - Transport Circle
-  - Circles
-  - Circle
----
 ## Origins & Early Use
 - The earliest known references to transport circles describe them as creations of an ancient cabal of scholars, artificers, and priests who sought to connect the great cities of the world. The records do not name this cabal directly, but they may have been tied to the fallen Vath'ira civilization or an even older culture.  
 - Legends claim the circles were originally fuelled by a mysterious core of energy — often described as a flame that never dies or a light that endures beneath the earth. Some scholars believe this refers to the Emberheart or its scattered fragments.  
@@ -26,7 +20,7 @@ The true source of the circles’ power is debated among scholars. Theories incl
 - Cryptic writings warn that some circles were deliberately sealed or sabotaged to contain something dangerous — perhaps corrupted spirits, unstable magic, or forgotten entities tied to the Eternal Ember Cult.  
 
 ## The Scholars’ Warning
-One entry — penned by a reclusive scholar known as [[Veylin the Gray]] — warns against overusing the circles. Veylin claims that prolonged use causes an unseen force to "awaken and watch" those who rely too heavily on the network. He writes:
+One entry — penned by a reclusive scholar known as Veylin the Gray — warns against overusing the circles. Veylin claims that prolonged use causes an unseen force to "awaken and watch" those who rely too heavily on the network. He writes:
 
 > "The tokens guide us — yes. But they are not mere keys; they are marks. Each use  
 > leaves a trace, a thread that the forgotten flame may follow. Beware the path you  

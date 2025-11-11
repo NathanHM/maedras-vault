@@ -1,8 +1,3 @@
----
-aliases:
-  - Vath'iran
-  - Vath'irans
----
 ## Vath'ira’s Golden Age
 Before its fall, Vath'ira was a beacon of progress and power. The city’s wealth stemmed from its mastery of magical engineering, particularly its study of transport circles. Vath'ira’s scholars were among the first to map the complex arcane patterns that allowed these circles to function. It’s believed that the city's hidden vault — deep beneath its central plaza — was one of the original nexus points for the circle network.
 

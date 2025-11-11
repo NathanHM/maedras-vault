@@ -1,18 +1,17 @@
-- Last week, the party decided to rescue [[Rufus]]' pet giant crab, located just past [[Lord Farquaad]]'s house
-- You conducted reconnaissance at the manor and saw two landscapers on the grounds
-- The property was surrounded by 7ft stone fences and a wrought iron front gate, so you chose to return later
-- At the beach, [[Gilbert]] spoke with local crabs and learned the giant crab had been taken by sky demons (giant eagles)
-- [[Jorvak]] went invisible to scout the eagle nest, and the party convinced the eagles to leave peacefully
-- After the eagles fled with their eggs, the crab was recovered and returned home
-- [[Rufus]] and his father Daniel rewarded the party with 50gp each
-- [[Chamae]] warned the Lochs that the eagles might still pose a threat to the town
-- The party visited shops, including Wander o Wonder, where [[Jorvak]] sought a javelin and [[Gilbert]]'s future was read
-- The party was offered a chance to buy a common magical item
-- Later, you checked on [[Evangaline]], who was unusually energetic and counting poorly in Elvish
-- [[High Lady Dawn]] had taught her Elvish for funeral rites, and you learned children joining the [[Motherhood]] of Vel'enar take a language aptitude test
-- [[Evangaline]] recalled the tea on the night of her kidnapping tasted very sweet, like molasses
-- You visited [[Lady Aife Sweet]]'s children Oliver and Olivia to assess their condition
-- Both were taught Sylvan by [[Lady Mid]] for lambing rites
-- Oliver admitted jealousy toward his sister, and you suspect he failed the progression test
-- He named Erica and another student as top pupils under [[High Lady Dusk]] and [[Lady Night]]
-- He also shared that Laura McMills' son studied under [[High Lady Dusk]] (undercommon) and Mr White's daughter under [[Lady Night]] (primordial)
+- Last week, the party decided to rescue [[Rufus]]' pet giant crab, located just past [[Lord Farquad]]'s house  
+- The party conducts reconnaissance at the manor and sees two landscapers, and that the property is surrounded by 7ft stone fences and a wrought iron front gate, so they decide to return later  
+- At the beach, [[Gilbert]] speaks with local crabs and learns the giant crab has been taken by sky demons (giant eagles)  
+- An invisible [[Jorvak]] is sent to scout the eagle nest, and the party convinces the eagles to leave peacefully  
+- After the eagles flee with their eggs, the crab is recovered and returned home  
+- Rufus and his father Daniel reward the party with 50gp each  
+- [[Chamae]] warns the Lochs that the eagles might still pose a threat to the town  
+- The party visits shops, including [[Wander o Wonder]], where Jorvak seeks a javelin and Gilbert's future is read  
+- The party is offered a chance to buy a common magical item  
+- Later, the party checks on [[Evangaline]], who is more energetic and counting poorly in Elvish, which [[High Lady Dawn]] teaches her for funeral rites  
+- The party learns children joining the [[Church of Vel'Enar|Motherhood of Vel'enar]] take a language aptitude test  
+- Evangaline recalls the tea on the night of her kidnapping tastes very sweet, like molasses  
+- The party visits [[Lady Aife Sweet]]'s children Oliver and Olivia to assess their condition  
+- Both are taught Sylvan by [[Lady Mid]] for lambing rites  
+- Oliver admits jealousy toward his sister, and the party suspects he fails the progression test  
+- He names Erica and another student as top pupils under [[High Lady Dusk]] and [[Lady Night]] respectively  
+- He also shares that Laura McMills' son studies undercommon with High Lady Dusk and Mr White's daughter learns primordial with Lady Night  

@@ -1,0 +1,17 @@
+- Listen, I wasn't here for this one, so somebody else is gonna need to flesh this out.
+- [[Lord Votrin|Votrin]] wants to discuss the disruptions to trade, and [[the missing children]]. He takes these issues as an excuse to pitch a deal on hiring mercenaries to the other leaders.
+- [[Lowri Greenway]] makes a plea for peace between the nations
+- [[Lord Regent Titus|Titus]] disavows the attack from the water elemental, and says he is investigating the cause.
+- [[Lord High Priest Ferox Thal|Ferox]] gives a speech that seems laden with dog whistles signalling his involvement with [[Cult of the Eternal Ember|the cult]].
+- [[High Lady Dawn|Dawn]] makes a speech in favour of peace, followed by [[High Lady Dusk|Dusk]] who echoes her sentiments, albeit more cautiously.
+- Ferox seems somewhat surprised by the differences between Dawn and Dusks speeches.
+- Suspicious of the wine, [[Wynona]] intimidates [[The Peace Summit|the summit]] and insists they take out the wine to be checked. The drink is clean, so they bring it back in.
+- Lowri Greenway asks the table to share any information they have regarding the attack from the other night, as they have all sent agents to investigate. Votrin claims to know the truth, but places the information behind an offer of gold.
+- Ferox attempts to brew tension by suggesting it was one of the leaders testing the others.
+- With some keen insight, [[Chamae]] realises that this is not Ferox speaking, but instead it is [[the Emberheart]] himself speaking through him.
+- Titus speculates that the attack from the water elemental was perpetrated by [[Kalamari|octopi]], who appear to have been causing trouble around the city.
+- Lowri Greenway grants the party the chance to talk, as they had been investigating on her behalf.
+- Wynona manages to convince the summit that the party had been investigating matters since arriving in the city, and the elemental was intended to be a fire elemental summoned by the cult, potentially in the attempt to start another [[The Ashen Uprising|Ashen Uprising]].
+- Titus endorses the party, and backs them to investigate and find out who has been funding [[The Sashed Paladins|the blue sashed paladins]]. Ferox and Dusk seem displeased, but the party is officially recognised and endorsed as investigators by the summit.
+- Ferox questions Lowri on the location of her [[Dinn Greenway|son]], and mentions suspicions that the child is [[Divine Touch|Divine Touched]].
+- Votrin speaks about rumours from the scholars' guild, that information has been recently uncovered about a [[Vath'ira|Vath'iran]] religious convergence called the Hour of Flame.

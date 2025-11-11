@@ -1,0 +1,19 @@
+- [[Gilbert]] and [[Uta'ah]] return through the upstairs [[Transport Circles|transport circle]] mid-battle, confused by the chaos
+- Their journey through the ancient [[Transport Circles|circle]] takes them one hour into the future
+- A child tries to wake their slain uncle, causing emotional turmoil for the party
+- [[Max]], [[Chamae]], and [[Wynona]] find a booby-trapped [[Flame Orb|orb]], burning with a flame within. Taking the orb sets off a Fireball.
+- [[Kalamari]] casts Create Water to prevent the building from burning down
+- [[Bilbo Frankenfert|Bilbo]]'s office is looted of the poison and the eternal flame orb
+- Realizing guards are approaching, the party joins hands and escapes through a new transport circle with unconscious Bilbo in tow- The party arrived in a dark cellar filled with dusty wine casks
+- Ancient, super-strength wine was claimed; Uta'ah carried a barrel and drank from it like a cat
+- Chamae filled [[Chamae#Chamae's Constructs|Lifty]] with barrels, planning to trade or start a travelling tavern - Uta'ah was fully on board
+- The building was identified as a [[Derelict Vineyard]] near the [[Lucanius|capital]]
+- The party detect wolves nearby; Uta'ah attempted to scare them off by marking territory and convince them a dragon is nearby
+- A white dragon appears, drawn by the scent—introducing herself as [[Siobhan|Shiverwatcher]], or Siobhan
+- Siobhan, a young dragon building her hoard, flirted with Uta'ah and showed interest in bargaining
+- The party offered unconscious Bilbo in exchange for her help
+- They learned time had passed since using the transport circle and they were now near the capital
+- Gilbert's mother [[Juliana|Juliana]] is being held at a [[vineyard]] en route to the city
+- The party decided to rescue Juliana before heading to [[The Peace Summit]]
+- Siobhan agreed to fly them to the vineyard and assist in the battle after securing a promise from Uta'ah to "visit"
+- She revealed her sisters also roam the area and frequent the [[Lucanius#**Notable Buildings & Locations**#South Districts|The White Swan Coffe House]] in the city where they “hunt”

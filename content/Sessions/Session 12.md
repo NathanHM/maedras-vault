@@ -1,13 +1,12 @@
 - Last session, [[Max]] wore paladin armour and convinced the party to pretend to be captured or hide in [[Chamae]]'s tent
-- Upon entering the [[Transport Circles|transport circle]], the party was met at sword point by wary humans
-- The humans were frightened due to recent gingerbread bear sightings
-- Quick talking calmed them down and prevented a fight
-- The humans had been trapped for weeks under gingerbread attacks
-- They took refuge in the building, unable to reach the mayor's office
-- The soldiers were from [[Alithi|Alithi]] and displaced in time, believing it was 4 months post-[[The War|war]] instead of 20 years
-- They suspected [[Malona]] the mage interfered with the magic, misdirecting them from [[Kilsa]]
-- Of 30 soldiers, only 5 survived the attacks while trying to reach the second transport circle
-- The party used the soldiers as bait to reach the mayor's house
-- Fierce battle with gingerbread people ensued en route
-- A gingerbread dragon attacked as the party entered the manor
-- The session ended with the party and soldiers inside, ready to use the transport circle
+- Upon entering the [[Transport Circles|transport circle]], the party is met at sword point by a wary and haggard group of [[General David McIver|soldiers]]
+- The soldiers are frightened due to recent gingerbread bear sightings    
+- They have been trapped for weeks under gingerbread attacks  
+- They had taken refuge in this building, unable to reach the mayor's office  
+- The soldiers are from [[Alithi]] and displaced in time, believing it is 4 months post-[[The War|war]] instead of 20 years  
+- They suspect Malona the mage interfered, misdirecting them from the border town of [[Kilsa]]  
+- Of 30 soldiers, only 5 survived the attacks while trying to reach a second transport circle in the Mayor's office
+- The party decide to use the soldiers as bait to reach the Mayor's house  
+- A fierce battle with the gingerbread people ensues en route  
+- A gingerbread dragon attacks as the party enters the manor  
+- The session ends with the party and soldiers inside, ready to use the transport circle  

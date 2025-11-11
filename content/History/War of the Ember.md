@@ -1,4 +1,3 @@
-
 Centuries ago, a splinter sect — the forerunners of the [[Cult of the Eternal Ember|Eternal Ember Cult]] — believed [[the Emberheart]] was not a force to be contained, but a slumbering god that could purify the world through flame.
 
 This sparked the War of the Ember, a brutal conflict that nearly reduced the region to ash. The cult sought to release [[the Emberheart]], believing it would purge the "unworthy" and reshape the world in fire.
@@ -7,7 +6,7 @@ In a desperate bid to contain the threat, the [[Wardens of the Ember|Wardens]] c
 
 ---
 ## The Cult’s Infiltration
-[[The Eternal Ember Cult]] saw [[Vath'ira]] as a key to their ambitions — believing the city's vault held relics tied to [[the Emberheart]], their imprisoned deity. Through bribery, coercion, and deception, the [[Cult of the Eternal Ember|Cult]] gradually infiltrated [[Vath'ira]]’s power structure. Key members of the city's elite — merchants, scholars, and even minor council members — were seduced by promises of power and protection from the growing tensions among the nations.
+[[Cult of the Eternal Ember|The Eternal Ember Cult]] saw [[Vath'ira]] as a key to their ambitions — believing the city's vault held relics tied to [[the Emberheart]], their imprisoned deity. Through bribery, coercion, and deception, the [[Cult of the Eternal Ember|Cult]] gradually infiltrated [[Vath'ira]]’s power structure. Key members of the city's elite — merchants, scholars, and even minor council members — were seduced by promises of power and protection from the growing tensions among the nations.
 
 To the [[Cult of the Eternal Ember|Cult]], the vault beneath [[Vath'ira]] was more than just a treasure trove — they believed it was built upon an ancient [[Ley Lines|ley line]] where [[the Emberheart]]’s power still smouldered. By igniting this dormant power, they hoped to release a shard of [[the Emberheart]]’s strength, beginning their divine purge of the world.
 ## The Burning Rite

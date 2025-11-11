@@ -1,5 +1,21 @@
-
-The party travels via horse and cart to the city. Each character tells a story in an effort to learn more about each other. High Lady Dawn tells us about Vel'Enar. Chamae and Gilbert bully Uta'ah. Sibling reveal?? (Barbarians are not siblings, everyone is very shocked.)
-
-
-Date:                         15/05/2025
+- The party interrogate [[Vladimir Vladishkov|Vlad]] for information, with [[Gilbert]] casting Zone of Truth to ensure honesty
+- [[Lord High Priest Ferox Thal|Lord Ferox]] is secretly the high priest of the Emberheart [[Cult of the Eternal Ember|cult]]’s religious wing.
+- [[Merinth Tharrows|The Man]] leads the cult’s spy and logistics operations.
+- A third figure, [[The Flamekeeper]], operates in the shadows and instructed [[Bilbo Frankenfert|Bilbo]] to poison the party.
+- “Flamekeeper” is also a general role within the cult, the name of the oracles.
+- The party are all [[Divine Touch|Divine Touched]], making them ideal sacrifices.
+- Children noticed by gods may receive blessings and are destined for great adventures
+- The cult intends to sacrifice the party to [[the Emberheart]], similar to how they use [[The Missing Children|children]]’s souls.
+- High Leader [[Talis Greenway]] is [[Fey]] and protected by a necklace; the cult tried to steal it to kill her and her [[Dinn Greenway|child]].
+- Fey lineage may allow the [[Feywild]] to bleed into this world, enabling more fey killings for cult benefit.
+- [[Ashenhold]] is built atop the vault where the First Flame Flickered and houses oracles.
+- Ashenhold has approximately 75 soldiers.
+- The [[Sunken Sanctum]] is sealed by three nodes, hidden around the world
+- The Ashenhold node is still hidden.
+- The [[Scorched Vath'iran Ruins|Burnt City]] node was accidentally undone by the party.
+- The [[Verdant Pyre]] node is currently being dealt with by the cult.
+- Once all three nodes are gone, the Sunken Sanctum may open.
+- [[The Peace Summit]] is a trap designed to destroy peace and incite war among nations, empowering the Emberheart through mass bloodshed.
+- Vlad leads 12 Paladins, [[the Ember Hand]]; only 7 walk openly at a time while the others operate covertly.
+- Gilbert uses Detect Thoughts on Vlad, realises the Emberheart is listening in. The Emberheart is unhappy with Gilbert for mimicking him
+- The party decapitates Vlad, burying his head apart from his body

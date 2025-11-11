@@ -1,1 +1,8 @@
-Chastising [[Gilbert]]. Talking flowers
+- The party heads back to the [[Lucanius#**Notable Buildings & Locations**#South Districts|Niconbury Tavern]] to reconvene after the events in the library.
+- There the group chastise [[Gilbert]] for his actions with [[Maedra Lurith|Maedra]], his carelessness endangering [[Cyrena]] and the party
+- Gilbert apologises and resolves to be more cautious and thoughtful, [[Uta'ah]] relents that he can't be too upset with Gilbert, as he invited him into the party, and the party is now his family
+- As the morning arrives the crew heads off to the [[Lucanius#Notable Buildings & Locations#Western Districts|Flower Market]], following a hunch that they may be able find [[Floral Myths and Legends of the Known Realms#5. The Vine of Whispering Hands|Gravegrasp]] and [[Rumours from Rexius#Further Leads|sell it]] to the floralist [[Reeva]].
+- The party arrives in the market and meet with Reeva, but they struggle to communicate with her as she only speaks in riddles and rhymes, communicating her meaning via the flowers she mentioned.
+- [[Chamae]] was able to translate between Reeva and the party, serving as an intermediary as Reeva and [[Wynona]] begin to hit it off
+- Chamae also commissioned Reeva to make a colourless and odourless [[lavender]] tincture, that the party thought they may be able to use to trick people
+- Reeva agreed to meet the party later in [[Lucanius#Notable Buildings & Locations#South Districts|The White Swan Coffee House]], where the party was going to meet with [[Siobhan|Siobhan]] and [[Juliana|Juliana]]

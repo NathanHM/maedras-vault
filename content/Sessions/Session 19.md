@@ -1,19 +1,14 @@
-- The party debated whether to murder or spy on the priest; voted for murder
-- Priest tried to escape with dimension door but was stopped by [[Max]] and decapitated
-- [[Kalamari]] needed water to reoxygenate; party secured the lover room at the [[Yellow Duck]] with a large bath
-- [[Lera]] was found and convinced of the party's identity; [[Uta'ah]] had a heart-to-heart with her
-- [[Gilbert]] broke a mirror, gaining bad luck for 4 sessions (Nat 2s count as Nat 1s)
-- [[High Lady Dawn]] shared a [[High Lady Dawn's Vision|vision]] of four nations, flickering flames, and a choice between light and darkness
-- Vision included symbols of [[The Eternal Vine (Alithi)|Eternal Vine]] and [[The Eternal Ember|Eternal Ember]], and a figure cloaked in fire and shadow
-- [[Vel'Enar]] whispered guidance: “Choose the branch that bends… Seek the ember beneath stone…”
-- Party experienced a [[The Party's Shared Dream|shared dream]] of a split-sky field, obsidian tree, and tokens of the four nations
-- Black flame token triggered fiery cracks and a wave of ash; figure offered ember and vine
-- Voice warned: “Balance frays… Seek the ember beneath the stone…”
-- Party decided to recreate symbols from the vision at the next [[Transport Circles|Transport Circle]]
-- [[Chamae]] noted tree's dual nature mirrored in local plant life
-- Received flash of cult's next target: [[Dane Greenway|Lowri Greenway's child]]
-- Mimicing the choice, [[Gilbert]] closed his fist on a vine and candle; gained Insight advantage for 24 hours
-- Fire flickered around [[Gilbert]], making him more detectable to [[Cult of the Eternal Ember|Cult]] members
-- Detect thoughts revealed focused attention; [[Gilbert]] spotted a paladin downstairs
-- Party escaped through a window with [[Kalamari]], [[High Lady Dawn|Dawn]], and [[Lera Vale|Lera]]
-- Session ended with the party outside rushing to the [[Purple Tulip]]—except [[Max]], still downstairs with the disguised as a twinky Paladin
+- The party debates whether to murder or spy on the priest; they vote to murder
+- Priest tries to escape with dimension door but is stopped by [[Max]] and decapitated
+- [[Kalamari]] needs water to reoxygenate; the party secures the lover room at the [[Yellow Duck]] with a large bath
+- [[Lera Vane|Lera]] is found and convinced of the party's identity; [[Uta'ah]] has a heart-to-heart with her
+- [[Gilbert]] breaks a mirror, gaining bad luck for 4 sessions (Nat 2s count as Nat 1s)
+- [[High Lady Dawn]] shares a [[High Lady Dawn's Vision|vision]] of four nations, flickering flames, and a choice between light and darkness
+- The party experience a [[The Party's Shared Dream|shared dream]] of a split-sky field, obsidian tree, and tokens of the four nations
+- The party decide to recreate symbols from the vision at the next [[Transport Circles|transport circle]] they visit
+- The party receive flash of the cult's next target: [[Dinn Greenway]]
+- Mimicking the choice, Gilbert closes his fist on a vine and candle; he gains Insight advantage for 24 hours
+- Fire flickers around Gilbert, making him more detectable to [[Cult of the Eternal Ember|cult members]]
+- Detect thoughts reveals attention is focused on Gilbert. Going downstairs, he spots a paladin
+- The party escapes through a window with Kalamari, Dawn and Lera
+- The session ends with the party outside rushing to the [[Purple Tulip]]—except Max, still downstairs disguised as a twinky Paladin
