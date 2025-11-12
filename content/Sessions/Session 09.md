@@ -1,5 +1,5 @@
 - The party visit [[High Lady Dawn]] at the church, and decide to inspect the Graveyard where [[Evangaline]] was taken for anything they missed.
-- [[Max]] and [[Gilbert]] talk to a cockroach, who agrees to watch [[The Mausoleum]] for the party.
+- [[Max]] and [[Gilbert]] talk to a cockroach, who agrees to watch [[Stormhaven#The Mausoleum|The Mausoleum]] for the party.
 - The graveyard contains a [[Transport Circles|transport circle]] that one of [[Evangaline]]'s [[The Missing Children| kidnappers]] used to escape
 - The party leaves to confront [[Lord Farquad]] and learns he pays carrier children well  
 - Rupert, Farquad's right hand, escorts the party into the man, and they question Lord Farquad about kidnappings

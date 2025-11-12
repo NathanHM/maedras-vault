@@ -1,5 +1,5 @@
 - The party interrogate [[Vladimir Vladishkov|Vlad]] for information, with [[Gilbert]] casting Zone of Truth to ensure honesty
-- [[Lord High Priest Ferox Thal|Lord Ferox]] is secretly the high priest of the Emberheart [[Cult of the Eternal Ember|cult]]’s religious wing.
+- [[Lord High Priest Ferox Thal|Lord Ferox]] is secretly the high priest of the Emberheart [[The Eternal Ember Cult|cult]]’s religious wing.
 - [[Merinth Tharrows|The Man]] leads the cult’s spy and logistics operations.
 - A third figure, [[The Flamekeeper]], operates in the shadows and instructed [[Bilbo Frankenfert|Bilbo]] to poison the party.
 - “Flamekeeper” is also a general role within the cult, the name of the oracles.
@@ -16,6 +16,6 @@
 - The [[Verdant Pyre]] node is currently being dealt with by the cult.
 - Once all three nodes are gone, the Sunken Sanctum may open.
 - [[The Peace Summit]] is a trap designed to destroy peace and incite war among nations, empowering the Emberheart through mass bloodshed.
-- Vlad leads 12 Paladins, [[the Ember Hand]]; only 7 walk openly at a time while the others operate covertly.
+- Vlad leads 12 Paladins, [[The Eternal Ember Cult#The Ember Hand|the Ember Hand]]; only 7 walk openly at a time while the others operate covertly.
 - Gilbert uses Detect Thoughts on Vlad, realises the Emberheart is listening in. The Emberheart is unhappy with Gilbert for mimicking him
 - The party decapitates Vlad, burying his head apart from his body

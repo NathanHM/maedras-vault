@@ -1,10 +1,10 @@
 - [[Jorvak]] reviews [[Lord Tom]]'s contract and finds a clause forcing dancer replacement if escort fails. What a smart cookie.
-- The party returns to the [[Monastery of the Eternal Vine]] to meet [[Father Ellric|Lord Uvas]] about protection  
+- The party returns to the [[Kilsa#Monastery of The Eternal Vine|Monastery of the Eternal Vine]] to meet [[Father Ellric|Lord Uvas]] about protection  
 - Lord Uvas is a dithering old man offering pearls and gold to avoid assassins; he has received threatening notes  
 - Uvas offers info about missing children taken every four days, heading to the [[Scorched Vath'iran Ruins|ruins]]
-- Uvas reveals himself to be Father Ellric, and has been testing the party's resolve  
-- He confirms [[The Missing Children|kidnappings]] are sacrifices for the [[Cult of the Eternal Ember|Eternal Ember]] to end the world  
-- He mentions a mysterious flame-related [[Flame Orb|artifact]] and the [[Green Soldier]] meet-up as low-level recruitment  
+- Uvas reveals himself to be [[Father Ellric]], and has been testing the party's resolve  
+- He confirms [[The Missing Children|kidnappings]] are sacrifices for the [[The Eternal Ember Cult|Eternal Ember]] to end the world  
+- He mentions a mysterious flame-related artifact and the [[Kilsa#Green Soldier|Green Soldier]] meet-up as low-level recruitment  
 - He explains [[Transport Circles|transport circle]] symbols are coordinate numbers; the missing symbol is key 
 - A master circle is rumoured to be located in the ruins  
 - The party buys fire resistance potions before heading out  

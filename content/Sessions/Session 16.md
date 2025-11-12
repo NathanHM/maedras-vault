@@ -2,14 +2,14 @@
 - [[Chamae]]'s note reveals a secret message: “You're not safe, meet us in [[Stormhaven]] when you can”
 - [[Max]]'s note contains a date
 - [[Gilbert]] invites Uta'ah to join the party for safety after an emotional chat with the postie
-- [[Queries Queries]] scholar tower has a public library that may hold answers
-- The party meet [[High Lady Dawn]] at the [[Yellow Duck]] with help from a distraction by Gilbert and Uta'ah
+- [[Kilsa#Queries Queries|Queries Queries]] scholar tower has a public library that may hold answers
+- The party meet [[High Lady Dawn]] at the [[Kilsa#Yellow Duck|Yellow Duck]] with help from a distraction by Gilbert and Uta'ah
 - Dawn reveals the cultists claimed that [[High Lady Dusk]] sanctioned the [[The Missing Children|kidnappings]], shaking her faith
 - She knows [[Father Ellric]] and believes he is doing good, though the party doubts it
 - Dawn is meant to attend [[The Peace Summit|peace talks]] in [[Lucanius]]; assumes High Lady Dusk will go in her place if she is believed missing
 - Dawn plans to spend the night in reflection
 - The party meet with [[General David McIver]] for the promised favour. He says to mention his name to [[Lord Regent Titus]] for a favour within his power. The party additionally gaslight him into giving them additional gold, 108gp total (18gp each)
-- The party visit a magic shop for disguise potions to infiltrate the [[Green Soldier]] meeting
+- The party visit a magic shop for disguise potions to infiltrate the [[Kilsa#Green Soldier|Green Soldier]] meeting
 - A saucy shop keep offers discounts in exchange for "favours"
 - Chamae spots magic ink and tattoo designs, memorizes them for the party
 - Chamae successfully counterfeits tattoos back at the inn

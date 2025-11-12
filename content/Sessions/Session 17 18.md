@@ -1,13 +1,13 @@
-- The party begins at [[Yellow Duck|the inn]] where [[Gilbert]] summons an elephant, injuring everyone
+- The party begins at [[Kilsa#Yellow Duck||the inn]] where [[Gilbert]] summons an elephant, injuring everyone
 - [[Max]] gives a tarot reading; an inverted shield, inverted Fool, and the well—sparking speculation
-- The party infiltrates the [[Green Soldier]] meeting in a confusing clash of pirate and Wizard of Oz-themed costumes
+- The party infiltrates the [[Kilsa#Green Soldier|Green Soldier]] meeting in a confusing clash of pirate and Wizard of Oz-themed costumes
 - They party symbolically burn a vine or flower to gain access with minimal suspicion
 - The head priest gives a fiery speech about purging decay and rebirth through flame
 - A flaming doorway appears, passable only by the worthy; party uses fire resistance potions to enter
 - Gilbert and Max sense two divine presences—one hot, the other a cold sweet kiss
 - After party features cult merch; Gilbert takes 30 vials of mysterious potion
 - [[Uta'ah]] and [[Chamae]] speak with [[Lera Vane]], a disillusioned recruit whose brother is a cult higher-up
-- Learns [[Cult of the Eternal Ember|Cult]] spans beyond [[Alithi]] and has ties to [[Qavrud|Qavrud]]
+- Learns [[The Eternal Ember Cult|Cult]] spans beyond [[Alithi]] and has ties to [[Qavrud|Qavrud]]
 - Guards lead party and priest to a back room; party realizes it is a trap
 - [[Wynona]], Uta'ah Max, and Chamae launch coordinated attacks
 - Gilbert casts command and disguises himself as a witch exposing herself, horrifying the enemies

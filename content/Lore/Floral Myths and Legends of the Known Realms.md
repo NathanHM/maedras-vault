@@ -1,4 +1,4 @@
-*Collected by Scholar [[Thyren Valis]] of the Ivory Spire*  
+*Collected by Scholar Thyren Valis of the Ivory Spire*  
 
 Throughout the lands of [[Rulif|Rulif]], [[Qavrud|Qavrud]], [[Alithi|Alithi]], and [[Tayan|Tayan]], the natural world is steeped in legend. Vines and flowers, with their uncanny ability to thrive in both life and death, have long been symbols of power, sacrifice, and renewal. The following myths may offer insight to travellers who walk the paths between wild groves and forgotten shrines.  
 ## 1. The Thorned Crown  
@@ -19,9 +19,9 @@ The imagery of a binding vine appears repeatedly in [[Qavrud|Qavrudian]] murals.
 **Origin**: [[Motherhood of Vel'Enar|Church of Vel'Enar]] Doctrine  
 **Summary**:  
 A revered legend within the [[Motherhood of Vel'Enar|Church of Vel'Enar]] tells of a divine flower that bloomed at the dawn of creation. The Ember Bloom, said to bear petals of pure flame, emerged from the ashes of the world’s first fire. Legends claim the flower’s light guided [[Vel'Enar]] to shape the cycle of life and death.  
-Clerics say that when the bloom's petals fall, they transform into fiery feathers that carry prayers directly to [[Vel'Enar]]'s court. Some sects claim that the [[Cult of the Eternal Ember|Eternal Ember Cult]] seeks to twist the Ember Bloom's power to awaken their [[The Emberheart|god]].  
+Clerics say that when the bloom's petals fall, they transform into fiery feathers that carry prayers directly to [[Vel'Enar]]'s court. Some sects claim that [[the Eternal Ember Cult]] seeks to twist the Ember Bloom's power to awaken their [[The Emberheart|god]].  
 **Scholarly Notes**:  
-The Ember Bloom may symbolize a potent magical artifact or lost ritual. Given the [[Cult of the Eternal Ember|Cult]]’s focus on flame and rebirth, relics tied to this legend may be crucial in understanding their goals.  
+The Ember Bloom may symbolize a potent magical artifact or lost ritual. Given the [[The Eternal Ember Cult|cult]]’s focus on flame and rebirth, relics tied to this legend may be crucial in understanding their goals.  
 ## 4. The Garden of Endless Tears  
 **Origin**: [[Tayan|Tayan]] Funeral Tradition  
 **Summary**:  
@@ -37,4 +37,4 @@ The myth warns that those who listen too closely risk becoming vessels for restl
 **Scholarly Notes**:  
 While likely exaggerated, some herbalists claim the Gravegrasp is real — a rare plant whose leaves can be brewed into a potent mind-enhancing elixir. However, prolonged use is said to cause unsettling visions and fragmented memories.  
 ## Conclusion:  
-These myths, though often allegorical, may prove valuable to those navigating the lands of [[Rulif|Rulif]], [[Qavrud|Qavrud]], [[Alithi|Alithi]], and [[Tayan|Tayan]]. The persistence of vine and flower symbolism throughout multiple cultures suggests a deeper connection to forgotten magics — and perhaps even to the mysteries of the [[Transport Circles]] or the rise of the [[Cult of the Eternal Ember|Eternal Ember Cult]].
+These myths, though often allegorical, may prove valuable to those navigating the lands of [[Rulif|Rulif]], [[Qavrud|Qavrud]], [[Alithi|Alithi]], and [[Tayan|Tayan]]. The persistence of vine and flower symbolism throughout multiple cultures suggests a deeper connection to forgotten magics — and perhaps even to the mysteries of the [[Transport Circles]] or the rise of [[the Eternal Ember Cult]].

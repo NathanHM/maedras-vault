@@ -11,7 +11,7 @@
 - Siobhan gives the lookalikes necklaces and vanishes with them
 - A secret compartment upstairs contains another eternal [[flame orb]], trapped like [[Bilbo Frankenfert|Bilbo]]'s
 - [[Chamae]] uses catapult to retrieve the orb; [[Kalamari]] extinguishes the resulting blaze
-- The [[vineyard]] is a favourite of Siobhan's, and the party avoids damaging it further
+- The [[Vineyard]] is a favourite of Siobhan's, and the party avoids damaging it further
 - More poison is found, nearly empty, with signs of a large wine order recently filled
 - The poison is identified as [[Qavrud|Qavrudian]], similar to [[Midnight Tears]]
 - Implication arises that poisoned wine has been sent to the city for the summit

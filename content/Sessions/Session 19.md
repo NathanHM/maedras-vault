@@ -1,6 +1,6 @@
 - The party debates whether to murder or spy on the priest; they vote to murder
 - Priest tries to escape with dimension door but is stopped by [[Max]] and decapitated
-- [[Kalamari]] needs water to reoxygenate; the party secures the lover room at the [[Yellow Duck]] with a large bath
+- [[Kalamari]] needs water to reoxygenate; the party secures the lover room at the [[Kilsa#Yellow Duck|Yellow Duck]] with a large bath
 - [[Lera Vane|Lera]] is found and convinced of the party's identity; [[Uta'ah]] has a heart-to-heart with her
 - [[Gilbert]] breaks a mirror, gaining bad luck for 4 sessions (Nat 2s count as Nat 1s)
 - [[High Lady Dawn]] shares a [[High Lady Dawn's Vision|vision]] of four nations, flickering flames, and a choice between light and darkness
@@ -8,7 +8,7 @@
 - The party decide to recreate symbols from the vision at the next [[Transport Circles|transport circle]] they visit
 - The party receive flash of the cult's next target: [[Dinn Greenway]]
 - Mimicking the choice, Gilbert closes his fist on a vine and candle; he gains Insight advantage for 24 hours
-- Fire flickers around Gilbert, making him more detectable to [[Cult of the Eternal Ember|cult members]]
+- Fire flickers around Gilbert, making him more detectable to [[The Eternal Ember Cult|cult members]]
 - Detect thoughts reveals attention is focused on Gilbert. Going downstairs, he spots a paladin
 - The party escapes through a window with Kalamari, Dawn and Lera
-- The session ends with the party outside rushing to the [[Purple Tulip]]—except Max, still downstairs disguised as a twinky Paladin
+- The session ends with the party outside rushing to the [[Kilsa#Purple Tulip|Purple Tulip]]—except Max, still downstairs disguised as a twinky Paladin

@@ -1,15 +1,15 @@
-- Last week, the party decided to rescue [[Rufus]]' pet giant crab, located just past [[Lord Farquad]]'s house  
+- Last week, the party decided to rescue Rufus' pet giant crab, located just past [[Lord Farquad]]'s house  
 - The party conducts reconnaissance at the manor and sees two landscapers, and that the property is surrounded by 7ft stone fences and a wrought iron front gate, so they decide to return later  
 - At the beach, [[Gilbert]] speaks with local crabs and learns the giant crab has been taken by sky demons (giant eagles)  
 - An invisible [[Jorvak]] is sent to scout the eagle nest, and the party convinces the eagles to leave peacefully  
 - After the eagles flee with their eggs, the crab is recovered and returned home  
 - Rufus and his father Daniel reward the party with 50gp each  
 - [[Chamae]] warns the Lochs that the eagles might still pose a threat to the town  
-- The party visits shops, including [[Wander o Wonder]], where Jorvak seeks a javelin and Gilbert's future is read  
+- The party visits shops, including [[Stormhaven#Wander o Wonder|Wander o Wonder]], where Jorvak seeks a javelin and Gilbert's future is read  
 - The party is offered a chance to buy a common magical item  
 - Later, the party checks on [[Evangaline]], who is more energetic and counting poorly in Elvish, which [[High Lady Dawn]] teaches her for funeral rites  
-- The party learns children joining the [[Church of Vel'Enar|Motherhood of Vel'enar]] take a language aptitude test  
-- Evangaline recalls the tea on the night of her kidnapping tastes very sweet, like molasses  
+- The party learns children joining the [[Motherhood of Vel'Enar]] take a language aptitude test  
+- Evangaline recalls the tea on the night of her [[The Missing Children|kidnapping]] tastes very sweet, like molasses  
 - The party visits [[Lady Aife Sweet]]'s children Oliver and Olivia to assess their condition  
 - Both are taught Sylvan by [[Lady Mid]] for lambing rites  
 - Oliver admits jealousy toward his sister, and the party suspects he fails the progression test  

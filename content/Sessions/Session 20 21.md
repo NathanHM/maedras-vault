@@ -1,7 +1,7 @@
 - A disguised [[Max]] speaks with the Paladin [[Vladimir Vladishkov]] who requests a report on the party's activities, and to take the party to the [[vineyard]] where [[Fizziwinkle]] and [[Lord Farquad]] will be
 - Vlad is drinking buddies with [[Bilbo Frankenfert]]; [[Gilbert]] uses detect thoughts and senses some level of deception
 - Max attempts seduction; Vlad is tempted but resists and leaves
-- Party sneaks back to the [[Purple Tulip]] disguised as ghosts and takes a long rest
+- Party sneaks back to the [[Kilsa#Purple Tulip|Purple Tulip]] disguised as ghosts and takes a long rest
 - In the morning, a suspicious breakfast is delivered to the party's room
 - The innkeeper confesses to Gilbert he poisoned it to save his wife
 - Gilbert narrowly saves [[Uta'ah]] from the poisoned coffee; [[Chamae]] identifies the [[Midnight Tears|poison]] as the same from the ball. The poison smells of [[Lavender]]
@@ -9,7 +9,7 @@
 - At the magic shop, shopkeeper is upset by Gilbert's failure to keep to his arrangement but is appeased by the promise to return that night
 - Chamae purchases some magic ink for more tattoos
 - The party successfully prays for [[Kalamari]] to become a Warlock
-- The party try to deliver a report to [[Vladimir Vladishkov|Vlad]] at the [[Pink Lotus]]; [[Chamae#Chamae's Constructs|Manny]] enters, disguised as the twink paladin
+- The party try to deliver a report to [[Vladimir Vladishkov|Vlad]] at the [[Kilsa#Pink Lotus|Pink Lotus]]; [[Chamae#Chamae's Constructs|Manny]] enters, disguised as the twink paladin
 - He soon returns with a note: “You're good at following instructions. Can you follow the second? See you at the vineyard in 8 days”
 - Gilbert loots the tills and finds contracts signed by Flora Leaf and [[Rose]], and a ledger with familiar symbols. Gilbert is sprayed by blue paint.
 - The party meet [[Cyrena]] who joins the party after hearing tales from [[Lera Vane|Lera]] and [[High Lady Dawn]]

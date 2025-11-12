@@ -1,7 +1,7 @@
-- The party arrive at the [[vineyard]] and silently eliminate the perimeter guard
+- The party arrive at the [[Vineyard]] and silently eliminate the perimeter guard
 - [[Max]] disguised themself as the twink paladin and enters the vineyard, shouting about a dragon attack
 - [[Siobhan]] pretends to attack, drawing attention away from the party
-- [[Wynona]] and [[Jorvak]] create a bottleneck at the doorway for rushing [[Cult of the Eternal Ember|cultists]]
+- [[Wynona]] and [[Jorvak]] create a bottleneck at the doorway for rushing [[The Eternal Ember Cult|cultists]]
 - The rest of the party infiltrate through windows with [[High Lady Dawn]]
 - In the basement, [[Vladimir Vladishkov|Vlad]] and a mysterious magic user notice the disturbance
 - The magic user teleported away - possibly [[Fizziwinkle]] or [[Lord Farquad]]

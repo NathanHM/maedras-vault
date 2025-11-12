@@ -15,7 +15,7 @@
 - The group take their positions as guards in the room as the key players make their entrance.
 	- Titus arrives with his bodyguards, garbed in yellow [[Alithi]] colours.
 	- [[Lord Votrin]] arrives with his guards, carrying scrolls.
-	- Tiberius, the tipsy head priest of [[Church of The Eternal Vine|the Eternal Vine]] arrives with an aide.
+	- Tiberius, the tipsy head priest of [[the Eternal Vine]] arrives with an aide.
 	- [[Lowri Greenway]] joins, nervously fiddling with her wedding ring.
 	- [[High Lady Dawn]] and [[High Lady Dusk]] arrive and stand by Lowri Greenway.
 	- Finally [[Lord High Priest Ferox Thal|Lord Ferox]] arrives, accompanied by a person Gilbert recognises as [[Vaela]], his rival from bard college.

@@ -1,3 +1,11 @@
+## Bio
+- 
+
+---
+## Involvement
+- 
+
+---
 # Notes on Lord Ferox Thal
 
 A scholar recently researching Lord Ferox Thal has uncovered several intriguing details:

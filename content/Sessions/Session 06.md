@@ -1,9 +1,9 @@
 - The session starts with the party meeting the mysterious figure [[Max]] in the tavern  
 - The party joins a rigged arm wrestling contest and earns 40gp each after [[Gilbert]]'s smooth talking  
 - [[Chamae]]'s mannequin receives a note from [[Lady Bly]] requesting help with a ghost, inspired by the party's work with the banshee  
-- The party decides to begin an initial investigation at [[House de Beauvoir]]  
+- The party decides to begin an initial investigation at [[Stormhaven#House de Beauvoir|House de Beauvoir]]  
 - The house is drenched in overwhelming colour upon arrival  
-- Lady Bly explains the haunting and possible possession by [[Nonna]]'s ghost  
+- Lady Bly explains the haunting and possible possession by Nonna's ghost  
 - The party investigates Nonna's room and finds the furniture has been moved, prompting a search in the attic  
 - In the attic, Gilbert and [[Jorvak]] distract Mystica the housekeeper and learn of tension between Nonna and Lady Bly before Nonna's death  
 - Meanwhile, Max, [[Wynona]], and Chamae discover a bottle of [[Midnight Tears|Qavrudian poison]] hidden under the bed  

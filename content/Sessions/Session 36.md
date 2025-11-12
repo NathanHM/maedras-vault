@@ -1,4 +1,4 @@
-- As the party prepares to leave the library, they hear commotion from the room outside. Peering out they find that [[Cult of the Eternal Ember|the cult]] has arrived to take the book, just as the [[Fey]] have arrived to stop [[Maedra Lurith|Maedra]].
+- As the party prepares to leave the library, they hear commotion from the room outside. Peering out they find that [[The Eternal Ember Cult|the cult]] has arrived to take the book, just as the [[Fey]] have arrived to stop [[Maedra Lurith|Maedra]].
 - Already hurt from the fights and traps on their way in, [[Uta'ah]] and [[Chamae]] intend to escape, leaving as the two forces seem preoccupied with each other. Unbeknownst to them, Maedra managed to steal some of [[Gilbert]]'s blood, and has used it two take control of him, and through his shared ancestry and new pact with [[Cyrena]], her too.
 - As Uta'ah and Chamae attempt to rush through the conflict, Gilbert instead lets off a Fireball in the room, incinerating all the books within and damaging all, but not dropping any of the combatants. 
 - [[High Lady Dawn]] realises that Maedra has taken control of the siblings, and lifts the control from Cyrena.

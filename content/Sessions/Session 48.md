@@ -2,7 +2,7 @@
 - [[Lord Votrin|Votrin]] wants to discuss the disruptions to trade, and [[the missing children]]. He takes these issues as an excuse to pitch a deal on hiring mercenaries to the other leaders.
 - [[Lowri Greenway]] makes a plea for peace between the nations
 - [[Lord Regent Titus|Titus]] disavows the attack from the water elemental, and says he is investigating the cause.
-- [[Lord High Priest Ferox Thal|Ferox]] gives a speech that seems laden with dog whistles signalling his involvement with [[Cult of the Eternal Ember|the cult]].
+- [[Lord High Priest Ferox Thal|Ferox]] gives a speech that seems laden with dog whistles signalling his involvement with [[The Eternal Ember Cult|the cult]].
 - [[High Lady Dawn|Dawn]] makes a speech in favour of peace, followed by [[High Lady Dusk|Dusk]] who echoes her sentiments, albeit more cautiously.
 - Ferox seems somewhat surprised by the differences between Dawn and Dusks speeches.
 - Suspicious of the wine, [[Wynona]] intimidates [[The Peace Summit|the summit]] and insists they take out the wine to be checked. The drink is clean, so they bring it back in.

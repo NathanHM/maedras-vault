@@ -7,6 +7,6 @@ Tayan’s society is structured around a highly regulated and hierarchical guild
 - **Social Pride**: Citizens are proud of the guild system, viewing it as a source of order and identity. Everyone knows their boundaries and roles, fostering a sense of unity and discipline.
 ## Outsiders and the Tarnished
 - **Outsiders**: Non-guild members or rogue traders are often viewed with suspicion and may be cast out or penalized for unsanctioned activity.  
-- **[[The Tarnished]]**: Those who break guild laws are labelled as Tarnished — a marginalized class with limited rights and social standing.  
+- **The Tarnished**: Those who break guild laws are labelled as Tarnished — a marginalized class with limited rights and social standing.  
 - **Social Impact**: While the existence of the Tarnished reinforces adherence to guild law, it also breeds discontent among the disenfranchised, hinting at potential unrest beneath Tayan’s orderly surface.
 ![[Continent Map.png]]

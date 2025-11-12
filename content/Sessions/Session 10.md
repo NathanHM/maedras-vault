@@ -1,7 +1,7 @@
 - The session begins with the party at the tavern collating notes and brainstorming investigations  
 - The party recalls favours owed and people to speak with  
 - Thus version 1.0 of the conspiracy board is born
-- A small carrier child interrupts, reporting a [[The Missing Children|kidnapping]] and summoning the party to [[The Mausoleum]]
+- A small carrier child interrupts, reporting a [[The Missing Children|kidnapping]] and summoning the party to [[Stormhaven#The Mausoleum|The Mausoleum]]
 - At the mausoleum, Roachy says shiny people come through the circle and others are waiting  
 - The party rushes into battle, assuming Erica, the top student of [[High Lady Dusk]], is the target  
 - [[Wynona]] goes right and dispatches foes with her great axe  

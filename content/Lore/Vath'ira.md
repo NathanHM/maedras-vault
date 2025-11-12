@@ -5,4 +5,4 @@ This discovery granted Vath'ira enormous influence. Merchants, diplomats, and sc
 
 This delicate balance, however, made Vath'ira a target.
 ## The Collapse of Vath'ira
-This delicate balance, however, made Vath'ira a target. Vath'ira was destroyed by the [[Cult of the Eternal Ember|Cult]] in the [[War of the Ember]]. The remnants of Vath'ira are now [[Scorched Vath'iran Ruins|Scorched Ruins]].
+This delicate balance, however, made Vath'ira a target. Vath'ira was destroyed by the [[The Eternal Ember Cult|cult]] in the [[War of the Ember]]. The remnants of Vath'ira are now [[Scorched Vath'iran Ruins|Scorched Ruins]].

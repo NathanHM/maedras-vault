@@ -1,2 +1,0 @@
-- Tavern
-- Located in [[Kilsa]], [[Rulif]]

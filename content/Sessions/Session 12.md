@@ -4,7 +4,7 @@
 - They have been trapped for weeks under gingerbread attacks  
 - They had taken refuge in this building, unable to reach the mayor's office  
 - The soldiers are from [[Alithi]] and displaced in time, believing it is 4 months post-[[The War|war]] instead of 20 years  
-- They suspect Malona the mage interfered, misdirecting them from the border town of [[Kilsa]]  
+- They suspect Malona, a Rulif mage, interfered, misdirecting them from the border town of [[Kilsa]]
 - Of 30 soldiers, only 5 survived the attacks while trying to reach a second transport circle in the Mayor's office
 - The party decide to use the soldiers as bait to reach the Mayor's house  
 - A fierce battle with the gingerbread people ensues en route  

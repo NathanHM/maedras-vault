@@ -1,6 +1,6 @@
 - [[Max]] took on the visage of [[Lord Farquad]] and spoke with the paladins. 
-- They uncover that Yarvig hopes to be promoted to become the head of [[the Ember Hand]], usurping [[Vladimir Vladishkov|Vlad]] as the leader of the group.
-- The Ember Hand and [[Cult of the Eternal Ember|the cult]]'s forces in the city are based out of a secret barracks underneath the guards barracks, accessible via transport circle.
+- They uncover that Yarvig hopes to be promoted to become the head of [[The Eternal Ember Cult#The Ember Hand|the Ember Hand]], usurping [[Vladimir Vladishkov|Vlad]] as the leader of the group.
+- The Ember Hand and [[The Eternal Ember Cult|the cult]]'s forces in the city are based out of a secret barracks underneath the guards barracks, accessible via transport circle.
 - The paladins then head out to the courtyard, as Max watches from the balcony.
 - [[Lord High Priest Ferox Thal|Lord Ferox]] has also noticed the change made to the runes on the [[Transport Circles|transport circle]], and sends an assistant to rectify the issue.
 - [[Uta'ah]] positions himself on a pillar high above the tampered sigil, whilst [[Chamae]], [[Gilbert]] and [[Chamae#Chamae's Constructs|Manny]] run interference with the priestess, assistant and [[Canapé Kid]] all approaching the sigil.

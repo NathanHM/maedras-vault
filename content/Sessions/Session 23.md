@@ -13,7 +13,7 @@
 - Siobhan, a young dragon building her hoard, flirted with Uta'ah and showed interest in bargaining
 - The party offered unconscious Bilbo in exchange for her help
 - They learned time had passed since using the transport circle and they were now near the capital
-- Gilbert's mother [[Juliana|Juliana]] is being held at a [[vineyard]] en route to the city
+- Gilbert's mother [[Juliana|Juliana]] is being held at a [[Vineyard]] en route to the city
 - The party decided to rescue Juliana before heading to [[The Peace Summit]]
 - Siobhan agreed to fly them to the vineyard and assist in the battle after securing a promise from Uta'ah to "visit"
 - She revealed her sisters also roam the area and frequent the [[Lucanius#**Notable Buildings & Locations**#South Districts|The White Swan Coffe House]] in the city where they “hunt”

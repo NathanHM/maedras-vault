@@ -2,7 +2,7 @@
 - [[Gilbert]] casts Zone of Truth and uses Detect Thoughts to guide questioning from behind Bilbo
 - [[Max]] disguises as Vlad to assist [[Uta'ah]]; [[Cyrena]] fails to convince Bilbo that this is a job review
 - Gilbert assumes the identity of [[the Emberheart]] once more to gain Bilbo's trust
-- Bilbo reveals the [[Flame Orb|orbs]] are used for [[Cult of the Eternal Ember|cult]] communication, scrying, and possibly teleportation anchors.
+- Bilbo reveals the [[Flame Orb|orbs]] are used for [[The Eternal Ember Cult|cult]] communication, scrying, and possibly teleportation anchors.
 - Cult Oracles use the orbs but lose their eyes in the process; orbs contain part of the Emberheart's corporeal form, nothing can extinguish their flames
 - [[Juliana]] may have scried through an orb unharmed, possibly due to being blessed by [[Thalana]], goddess of Nights & Secrets
 - Orbs' flames cannot be extinguished; the party now holds two, causing concern they may be used to spy on them

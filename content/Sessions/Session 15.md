@@ -5,17 +5,17 @@
 - The diamond is capable of holding a spell and is worth at least 200gp  
 - [[Father Ellric]] puts a spell of Mass Healing into the diamond  
 - The circle is directly above the where the pedestal would be in the basement  
-- Sneaking outside the building, the party overhears [[Cult of the Eternal Ember|cultists]] discussing punishment for losing [[High Lady Dawn]] and plans to steal more [[The Missing Children|children]]. They are recruiting tomorrow at the [[Green Soldier]]  
+- Sneaking outside the building, the party overhears [[The Eternal Ember Cult|cultists]] discussing punishment for losing [[High Lady Dawn]] and plans to steal more [[The Missing Children|children]]. They are recruiting tomorrow at the [[Kilsa#Green Soldier|Green Soldier]]
 - [[Wynona]] murders the cultists in a rage; finds 2sp, 22cp, and mail addressed to the party  
-- Gilbert receives two notes from his [[Juliana|mother]], one recent via a young messenger  
+- Gilbert receives two notes from his [[Juliana|mother]], one recent via a young messenger
 - [[Max]] receives a note signed from DI saying “I'm in town meet when you can”  
 - [[Wynona]] receives a feather she recognises 
-- [[Chamae]] gets a mysterious job offer note, dated four days ago  
+- [[Chamae]] gets a job offer from her friend Quarkus, dated four days ago  
 - [[Jorvak]] receives a love letter from a secret admirer  
-- One surviving cultist reveals the plan is to steal exactly 48 children from across the nations, except [[Qavrud|Qavrud]]  
+- One surviving cultist reveals the plan is to steal exactly 48 children from across the nations, except [[Qavrud]] where the children are given willingly
 - The cultists are told to steal mail and deliver it if the party uncovers their plans  
 - [[Father Ellric]] murders the cultist and burns the bodies while chanting  
-- The party investigates the area where High Lady Dawn was being; they find burnt handcuffs and a message in [[Vel'Enar]]'s symbol: “meet at the [[Yellow Duck]]”  
+- The party investigates the area where High Lady Dawn was being held; they find burnt handcuffs and a message in [[Vel'Enar]]'s symbol: “meet at the [[Kilsa#Yellow Duck|Yellow Duck]]”
 - The party returns to town; Gilbert rushes to the inn and finds a note addressed from his [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|father]], threatening him to stop the investigation if he wants to see his mother again
 - The party interrogates a postie about the missing mail  
-- The postie says handwriting in Gilbert's note is feminine, resembling that of [[Merinth Tharrows|The Man]] and [[Lord High Priest Ferox Thal|Lord High Priest Ferox]] of [[Qavrud]]  
+- The postie says handwriting in Gilbert's note is feminine, resembling that of [[Merinth Tharrows|The Man]] and [[Lord High Priest Ferox Thal|Lord High Priest Ferox]] of [[Qavrud]]

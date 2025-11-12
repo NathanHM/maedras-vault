@@ -1,5 +1,5 @@
-- The party takes the suspected poison to [[High Lady Dawn]] to identify its effects and ask if traces were found on [[Nonna]]'s body  
-- The [[Midnight Tears|poison]] mimics sleep but causes death and is produced by [[Qavrud|Qavrud]]  
+- The party takes the suspected poison to [[High Lady Dawn]] to identify its effects and ask if traces were found on Nonna's body  
+- The [[Midnight Tears|poison]] mimics sleep but can cause death in higher dosage and is produced by [[Qavrud|Qavrud]]  
 - The party acquires holy water and confirms salt can trap the ghost  
 - The party discusses the ball incident with High Lady Dawn. She suspects [[Alithi|Alithi]] is behind the job and warns that [[Dinn Greenway]], son of High Leader [[Talis Greenway]], might be the next target  
 - With time before sunset, the party checks in on McMills' son and Mr. White's granddaughter  
@@ -7,19 +7,19 @@
 - Mr. White's granddaughter recalls being given sweet tea and told to pass a test by [[The Sashed Paladins|paladins]]  
 - She then woke up in a graveyard some four weeks ago with no memory of what happened next  
 - [[Jorvak]] orders new boots that will be ready in three days  
-- As night approaches, the party returns to the [[House de Beauvoir|de Beauvoir house]] to prepare for the ghost  
+- As night approaches, the party returns to the [[Stormhaven#House de Beauvoir|de Beauvoir house]] to prepare for the ghost  
 - The children are placed in the red sitting room, surrounded by salt circles  
-- [[Nonna]]'s ghost appears and the party traps her in a salt circle and convinces her to talk
+- Nonna's ghost appears and the party traps her in a salt circle and convinces her to talk
 - She agrees to leave and not possess the children if [[Lady Bly]] is brought to justice  
-- The party sends a letter to High Lady Dawn and [[Sheriff Francois]] requesting help  
+- The party sends a letter to High Lady Dawn and Sheriff Francois requesting help  
 - Sheriff Francois agrees to wait until morning so the party can get paid by Lady Bly  
 - After resting, the party receives 25 gold from Lady Bly  
 - As Max cuffs Lady Bly, a card appears revealing another important location  
 - Lady Bly is arrested and the party begins searching for the Lord of the House.  
 - The party investigates her suspected office above the butchers  
 - Gilbert plays music while Max picks the lock unnoticed  
-- Inside, the party finds a coded ledger and a hollowed book disguised as a book about [[Worship of Virelya (Quvard)|Qavrud religion]] 
-- The hidden book is actually about [[Worship of The Eternal Vine (Alithi)|Alithi religions]]  
+- Inside, the party finds a coded ledger and a hollowed book disguised as a book about [[Worship of Virelya|Qavrud religion]] 
+- The hidden book is actually about [[The Eternal Vine|Alithi religions]]  
 - Initial entries show trade deals for Qavrud plants in exchange for hides  
 - Further investigation reveals code in bastardised old Qavrudian with symbols for [[Lavender]], trade, mystery, and death  
 - The party presents the documents to the Sheriff and receive 20sp each  

@@ -1,5 +1,5 @@
 - The party set out individually to investigate different leads in [[Lucanius]]
-- [[Gilbert]] heads off to the Library to attempt to investigate the history of [[the Emberheart]], [[Cult of the Eternal Ember|the cult]] and the [[sunken sanctum]].
+- [[Gilbert]] heads off to the Library to attempt to investigate the history of [[the Emberheart]], [[The Eternal Ember Cult|the cult]] and the [[Sunken Sanctum]].
 - Instead, he finds a book on Halflings
 - He goes to meet with [[Maedra Lurith|Maedra]], who seeks access to a sealed area in the [[Lucanius#**Notable Buildings & Locations**#Eastern Districts|Forgotten Archives]], for books on the origins of [[transport circles]]. The cult may be after these books
 - Maedra and Gilbert negotiate, with her agreeing to pay 130 gold per person, and Gilbert claims that the party has 11 members who will each need to be paid

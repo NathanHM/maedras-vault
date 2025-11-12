@@ -1,3 +1,7 @@
+---
+title: Maedra's Vault
+---
+
 # [[Session 52|Last Session...]]
 
 - As the party finish interrogating [[Lord High Priest Ferox Thal|Ferox]], they deem he is being honest and must continue as the leader of [[Qavrud]] for now, but cannot be allowed to be possessed by [[the Emberheart]] again.

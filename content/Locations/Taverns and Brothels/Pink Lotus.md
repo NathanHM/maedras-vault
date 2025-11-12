@@ -1,2 +1,0 @@
-- Brothel
-- Located in [[Kilsa]], [[Rulif]]

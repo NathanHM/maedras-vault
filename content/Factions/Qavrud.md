@@ -10,10 +10,11 @@ The religious hierarchy holds significant authority, with political leaders ofte
 Qavrud enforces strict religious laws centred on:
 - **Anti-magic sentiment**: Magic is viewed with suspicion and often forbidden outside sanctioned rituals.  
 - **Purity**: Both physical and spiritual purity are emphasized, with daily practices reinforcing discipline and devotion.  
-- **Devotion to [[Virelya]]**: All aspects of life are seen as opportunities to honour the deity.
+- **Devotion to Virelya**: All aspects of life are seen as opportunities to honour the deity.
 Despite the rigidity of daily life, Qavrud’s culture includes large communal festivals that temporarily suspend certain restrictions:
-- **Mushroom use**: Legal and commonly used for spiritual communion with [[Virelya]].  
+- **Mushroom use**: Legal and commonly used for spiritual communion with Virelya.  
 - **Alcohol consumption**: Strictly prohibited except during designated feast days tied to religious celebrations.
-These festivals serve as ritualized outlets for expression, indulgence, and spiritual ecstasy, reinforcing the balance between order and chaos central to [[Virelya]]’s teachings.
+These festivals serve as ritualized outlets for expression, indulgence, and spiritual ecstasy, reinforcing the balance between order and chaos central to Virelya’s teachings.
+## Frenzykeepers
 
 ![[Continent Map.png]]

@@ -1,8 +1,8 @@
 ## Public Education and Historical Narrative
-Citizens of Alithi are widely familiar with the devastating [[The War|war]] against [[Rulif]] and [[Tayan]]. Public education emphasizes Alithi’s role as a heroic liberator, portraying the conflict as a righteous campaign to save those living on contested lands. [[Rulif]] and [[Tayan]] are cast as aggressors who rejected Alithi’s teachings in favour of their own “savage” ways.
+Citizens of Alithi are widely familiar with the devastating [[The War|war]] against [[Rulif]] and [[Tayan]]. Public education emphasizes Alithi’s role as a heroic liberator, portraying the conflict as a righteous campaign to save those living on contested lands. Rulif and Tayan are cast as aggressors who rejected Alithi’s teachings in favour of their own “savage” ways.
 The curriculum celebrates the joys of being part of the Alithi empire and protectorate, reinforcing a sense of national pride and unity. This narrative is deeply ingrained in the younger generation, though border towns often express more scepticism.
 ## Economic Rebuilding and Propaganda
-Since [[the war]]’s end, economic recovery has been a national priority. Citizens are constantly reminded of their role in rebuilding through:
+Since the war’s end, economic recovery has been a national priority. Citizens are constantly reminded of their role in rebuilding through:
 - Propaganda posters  
 - Public plays and performances  
 - Government messaging that frames recovery as a shared, patriotic duty  

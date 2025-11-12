@@ -1,5 +1,5 @@
 - The party arrives in [[Stormhaven]], a city in the lands of [[Rulif]].
-- The party has been invited to a Masquerade ball hosted by Clan leader [[Amaphia Loch]], celebrating her eldest daughter's marriage to the son of [[Clan Fisher]].
+- The party has been invited to a masquerade ball hosted by Clan leader [[Amaphia Loch]], celebrating her eldest daughter's marriage to the son of Clan Fisher.
 - The party seeks out local tailors and mask makers to prepare, but lacks sufficient coin.
 - Takes on an odd job from a merchant worried about thefts targeting his artist friend, Ardryll.
 - Investigation reveals no thefts, but concerns about ghosts and spirits persist.

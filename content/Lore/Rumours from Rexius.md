@@ -13,7 +13,7 @@
 ### Slum Shadows – Slums, Great Hook  
 - Someone has information about children being loaded into a hidden wagon weeks ago and in exchange for more information, has a small favour they need settled  
 
-### [[War of the Ember|The Monument Murmur]] – A Statue, Red  
+### [[War of the Ember#The Night of Cinders|The Monument Murmur]] – A Statue, Red  
 - Whispers say the old statue of a healer has been “crying” molten tears during the night and city officials are ignoring it  
 
 ### The Birthplace of Silence – Famous Peacekeepers House, Kashe  

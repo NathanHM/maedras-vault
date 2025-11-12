@@ -1,0 +1,11 @@
+## Bio
+- Oop big mystery
+- Max is a Changeling from the [[Feywild]]
+- Max cannot recall their true name, having lost it in some deal
+- Max worked as an agent for both the [[Fey|Seelie and Unseelie]] court
+
+---
+## Story
+- Max first met the party in a tavern in [[Stormhaven]]
+- When the party received mail that [[The Eternal Ember Cult]] had stolen, Max got a note reading "Hear you’re in town, meet me at your convenience" from someone identified as DI
+- The note also contained a date, the 14th of Fatemarch

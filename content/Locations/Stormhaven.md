@@ -1,1 +1,0 @@
-- Seaside city located in [[Rulif]]

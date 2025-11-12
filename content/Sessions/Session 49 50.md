@@ -10,7 +10,7 @@
 - As things begin to spiral, a group of civilians burst into the room, aiming to spark a revolution against Titus.
 - [[Chamae]] shrinks the table, ensuring that no one is able to activate [[Transport Circles|the circle]] during the combat
 - [[Max]] successfully drops one of the rogue servants, only for [[High Lady Dusk|Dusk]]to heal our opponent and bring them back up.
-- The mages start letting off area of effect spells, dropping Lord Titus and killing the head of [[Church of The Eternal Vine|the Eternal Vine]].
+- The mages start letting off area of effect spells, dropping Lord Titus and killing the head of [[the Eternal Vine]].
 - As Wynona, Uta'ah and Cyrena arrive back in the summit, Wynona moves to protect Titus and Cyrena focuses on taking down the mages in the back of the room.
 - Uta'ah sprints across the room and stuns High Lady Dusk to prevent her from helping the enemy (Soz Abbie).
 - Cyrena and Max manage to drop a lot of the mages, but not before they let off a lot of damaging spells. Gilbert manages to counterspell and prevent many of the effects, but not all.
