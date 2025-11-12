@@ -1,0 +1,3 @@
+- It's basement has a transport circle, and barrels of ancient wine
+- The area may be dangerous due to the presence of wolves hunting nearby. and potentially dragons
+- [[Barbarastreisand]] was sent here along side a contingent of nuns, freed from their servitude to the [[The Eternal Vine|Church of the Eternal Vine]]
