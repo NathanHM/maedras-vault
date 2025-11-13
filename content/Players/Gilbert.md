@@ -1,9 +1,10 @@
 ## Bio
 - Gilbert was raised by his mother, [[Juliana]]
 - He never knew his [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|father]]
-- He attended Bard college before leaving with his mentor, Melody "Thistle" Higginsbottom
-- He had a rival in bard college, [[Vaela|Primrose]]
+- He attended Bard college before dropping out and subsequently meeting his mentor, Melody "Thistle" Higginsbottom
+- He had a rival in bard college, [[Vaela|Primrose]] who he was also in a toxic relationship with.
 - Gilbert struggles with a gambling addiction (See [[Session 02]])
+- Gilbert has been [[Divine Touch|Divine Touched]] by [[Ilhara]]
 
 ---
 ## Story

@@ -7,8 +7,8 @@
 - The magic user teleported away - possibly [[Fizziwinkle]] or [[Lord Farquad]]
 - Siobhan ices the staircase to block pursuit
 - After some debate, Max uses their disguise to deliver a flashbang into the enemy ranks
-- Flashbang stuns the cultists; party slid down the stairs after many failed dex saves
+- Flashbang stuns the cultists; party slid down the stairs after many failed Dex saves
 - Wizards begin teleporting into the room as the party arrives
-- [[Chamae]] cast Heat Metal on Vlad's armor, neutralizing him for most of the fight
+- [[Chamae]] cast Heat Metal on Vlad's armour, neutralizing him for most of the fight
 - The party fight through a slog of over 30 enemies in total
 - [[Kalamari]] never makes it to the stairs. The party suggest building him a large skateboard for future mobility

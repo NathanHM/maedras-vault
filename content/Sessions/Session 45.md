@@ -5,8 +5,8 @@
 - The party tell the Greenways about the [[Midnight Tears|poison]] and ask them to send agents to retrieve the poisoned wine.
 - [[Chamae]] is able to carry out some testing on the poisoned wine and confirms that it is tainted with the Qavrudian poison, Midnight Tears. The plan was to bring out the wine after midnight causing everyone to fall asleep. The theory is that this was intended to be done to brew suspicion between the leaders.
 - The party asks the Greenways to send word about the wine to all the other factions, ensuring that no single party has an excuse to blame another.
-- The party learn that [[Lord Regent Titus|Lord Titus]]' assistant is [[Halric Dain]], the owner of the[[Vineyard]] where the cult was based, and seeks to take his place as the leader of [[Alithi]].
-- Speculation about the time magic channelled by the [[Transport Circles|circles]] leads the party to suspect the cult may be attempting to direct the time magic of the transport circles towards the wards trapping [[the Emberheart]] in the [[Sunken Sanctum]], effectively channelling time through the wards to force them to degrade faster.
+- The party learn that [[Lord Regent Titus|Lord Titus]]' assistant is [[Halric Dain]], the owner of the[[vineyard]] where the cult was based, and seeks to take his place as the leader of [[Alithi]].
+- Speculation about the time magic channelled by the [[Transport Circles|circles]] leads the party to suspect the cult may be attempting to direct the time magic of the transport circles towards the wards trapping [[the Emberheart]] in the [[sunken sanctum]], effectively channelling time through the wards to force them to degrade faster.
 - The Greenways pledge that should the party go to siege the [[Ashenhold]] and rescue their families, [[Rulif]] will lend military support.
 - The party goes to investigate the summit room before the talks tomorrow, with representatives of each group permitted to explore the room and ensure the room is clear.
 - In the room, the party finds the entire room is coated in an Anti-Magic field preventing any spells from being activated within.

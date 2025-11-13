@@ -5,7 +5,7 @@
 - Wynona, [[Cyrena]] and Uta'ah take Kalamari back to the Greenways room. Kalamari summons his familiar, [[Lera Vane|Lera]], who watches over the octopus whilst the talks resume.
 - Meanwhile, the rest of the party notice some of the staff beginning to act suspiciously. One of the servants is overheard muttering "The second [[Burning Dawn|dawn]] comes".
 - [[Gilbert]] attempts to cast Minor Illusion, and his success confirms that the Anti-Magic field has fallen. 
-- The servants reveal themselves to be mages and start attacking the party. Some of [[Lord Votrin|Votrin]]'s guards turn out to be impostors and join the fray.
+- The servants reveal themselves to be mages and start attacking the party. Some of [[Lord Votrin Deephelm|Votrin]]'s guards turn out to be impostors and join the fray.
 - Gilbert confronts [[Vaela]] about what she is doing with [[Lord High Priest Ferox Thal|Ferox]], and makes a very uncouth comment. Vaela summons some fire elementals and attempts to suggest to Gilbert that he should protect her, but Gilbert is able to resist.
 - As things begin to spiral, a group of civilians burst into the room, aiming to spark a revolution against Titus.
 - [[Chamae]] shrinks the table, ensuring that no one is able to activate [[Transport Circles|the circle]] during the combat

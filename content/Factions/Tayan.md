@@ -9,4 +9,10 @@ Tayan’s society is structured around a highly regulated and hierarchical guild
 - **Outsiders**: Non-guild members or rogue traders are often viewed with suspicion and may be cast out or penalized for unsanctioned activity.  
 - **The Tarnished**: Those who break guild laws are labelled as Tarnished — a marginalized class with limited rights and social standing.  
 - **Social Impact**: While the existence of the Tarnished reinforces adherence to guild law, it also breeds discontent among the disenfranchised, hinting at potential unrest beneath Tayan’s orderly surface.
+---
+## The Black Blades
+- The Black Blades are a mercenary guild headed by [[Rellis Torne]]
+
+---
+
 ![[Continent Map.png]]

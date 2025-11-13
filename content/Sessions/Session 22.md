@@ -4,7 +4,7 @@
 - Bilbo drinks from a poisoned cup but shows no ill effects
 - [[Chamae]], [[Wynona]], and [[Jorvak]] retrieve Kalamari, [[High Lady Dawn]], and [[Lera Vane|Lera]]
 - Wynona casts Speak With Animals and discovers Kalamari's dark, flood-obsessed personality
-- Wynona is oddly charmed by Kalamaris villainous ambitions
+- Wynona is oddly charmed by Kalamari's villainous ambitions
 - Max makes an anti-patriarchy comment that triggers a guard response at the transport hub
 - Max and Cyrena are attacked; the rest of the party arrives mid-fight
 - Wynona viciously shreds a guard during combat

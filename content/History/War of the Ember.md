@@ -1,4 +1,4 @@
-Centuries ago, a splinter sect — the forerunners of [[the Eternal Ember Cult]] — believed [[the Emberheart]] was not a force to be contained, but a slumbering god that could purify the world through flame.
+Centuries ago, a splinter sect — the forerunners of [[the Eternal Ember Cult]] — believed [[the Emberheart]] was not a force to be [[Sunken Sanctum|contained]], but a slumbering god that could purify the world through flame.
 
 This sparked the War of the Ember, a brutal conflict that nearly reduced the region to ash. The cult sought to release the Emberheart, believing it would purge the "unworthy" and reshape the world in fire.
 

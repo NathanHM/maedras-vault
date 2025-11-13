@@ -1,9 +1,9 @@
 - [[Vladimir Vladishkov|Vlad]] is stripped of valuables and armour, hogtied and gagged for later questioning
 - A mimic chest is correctly identified in the basement and wisely left alone
 - [[Jorvak]] carries Vlad as the party searches for loot and information
-- [[Gilbert]] faints upon seeing three identical versions of his mother [[Juliana (Gilbert's Mum)|Juliana]] locked in a cell
+- [[Gilbert]] faints upon seeing three identical versions of his mother [[Juliana]] locked in a cell
 - [[Uta'ah]] ragdolls Gilbert and threatens to cut him in half to test the clones' reactions
-- Only one clone shows distress, revealing the real [[Juliana (Gilbert's Mum)|Juliana]]. The party however remains uncertain.
+- Only one clone shows distress, revealing the real Juliana. The party however remains uncertain.
 - [[Siobhan]] agrees to take custody of all three Julianas until the party reaches the city
 - She promises their safety and agrees to find a wizard for the party too
 - A spell tome and high-level scroll are found among the loot

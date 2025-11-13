@@ -1,13 +1,14 @@
-- The party begins at [[Kilsa#Yellow Duck||the inn]] where [[Gilbert]] summons an elephant, injuring everyone
+- The party begins at [[Kilsa#Yellow Duck||the inn]] where [[Gilbert]] [[Divine Consequence|summons]] an elephant, injuring everyone
 - [[Max]] gives a tarot reading; an inverted shield, inverted Fool, and the well—sparking speculation
 - The party infiltrates the [[Kilsa#Green Soldier|Green Soldier]] meeting in a confusing clash of pirate and Wizard of Oz-themed costumes
 - They party symbolically burn a vine or flower to gain access with minimal suspicion
+- Uta'ah and Chamae burned flowers, Gilbert and Wynona burned vines. Max disguised themself as a paladin and entered without burning either.
 - The head priest gives a fiery speech about purging decay and rebirth through flame
 - A flaming doorway appears, passable only by the worthy; party uses fire resistance potions to enter
 - Gilbert and Max sense two divine presences—one hot, the other a cold sweet kiss
 - After party features cult merch; Gilbert takes 30 vials of mysterious potion
 - [[Uta'ah]] and [[Chamae]] speak with [[Lera Vane]], a disillusioned recruit whose brother is a cult higher-up
-- Learns [[The Eternal Ember Cult|Cult]] spans beyond [[Alithi]] and has ties to [[Qavrud|Qavrud]]
+- They learn the [[The Eternal Ember Cult|cult]] spans beyond [[Alithi]] and has ties to [[Qavrud|Qavrud]]
 - Guards lead party and priest to a back room; party realizes it is a trap
 - [[Wynona]], Uta'ah Max, and Chamae launch coordinated attacks
 - Gilbert casts command and disguises himself as a witch exposing herself, horrifying the enemies
@@ -15,7 +16,7 @@
 - As a [[divine consequence]], an [[Kalamari|octopus]] is summoned. Gilbert hits a Nat 20 to convince it to work with the party
 - The party defeat the cultists using their octopus, helmet catapults, and other chaotic antics
 - Max convinces recruits the priest is a traitor; priest is bound and left to the party
-- [[Lera Vane|Lera]] is sent to meet “[[High Lady Dawn|Aunt Denise]]” at the Yellow Duck
+- [[Lera Vane|Lera]] is sent to meet “[[High Lady Dawn|Auntie Denise]]” at the Yellow Duck
 - The party find odd coins and decode a map fragment with cult messages and flame sigils
 - Messages read:
     - "Ashes mark the path; the [[The Emberheart|Emberheart]] sleeps beneath the bones of the past."
@@ -29,7 +30,7 @@
     - [[Lord High Priest Ferox Thal|Lord High Priest Ferox]] and [[Kaedric Thal]] are apparently identical brothers; [[Kaedric Thal|Kaedric]] has a lost son
     - The mystery potions have unpredictable effects
     - The cult plans to assassinate [[Lord Regent Titus|Lord Titus]] at [[The Peace Summit]]
-    - [[Halric Dain]] is a shadow power in Alithi and hopes to see the people collapse
+    - [[Halric Dain]] is a cult member and shadow power in Alithi and hopes to see the people collapse
     - [[Rellis Torne]] is fuelling the conflict on the road with her mercenaries in a hope to become famous
     - [[Merinth Tharrows|The Man]] is a real but unknown force
     - The priest does not know [[Lord Farquad]]

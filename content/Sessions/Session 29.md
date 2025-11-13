@@ -1,15 +1,18 @@
 - The party interrogate [[Vladimir Vladishkov|Vlad]] for information, with [[Gilbert]] casting Zone of Truth to ensure honesty
+- Vlad appears to be a true believer in the cult
 - [[Lord High Priest Ferox Thal|Lord Ferox]] is secretly the high priest of the Emberheart [[The Eternal Ember Cult|cult]]’s religious wing.
 - [[Merinth Tharrows|The Man]] leads the cult’s spy and logistics operations.
 - A third figure, [[The Flamekeeper]], operates in the shadows and instructed [[Bilbo Frankenfert|Bilbo]] to poison the party.
 - “Flamekeeper” is also a general role within the cult, the name of the oracles.
 - The party are all [[Divine Touch|Divine Touched]], making them ideal sacrifices.
 - Children noticed by gods may receive blessings and are destined for great adventures
+- Children are picked to be sacrificed when they are shown to [[The Eternal Ember Cult#Flamekeepers|Oracles]] in visions
 - The cult intends to sacrifice the party to [[the Emberheart]], similar to how they use [[The Missing Children|children]]’s souls.
 - High Leader [[Talis Greenway]] is [[Fey]] and protected by a necklace; the cult tried to steal it to kill her and her [[Dinn Greenway|child]].
 - Fey lineage may allow the [[Feywild]] to bleed into this world, enabling more fey killings for cult benefit.
 - [[Ashenhold]] is built atop the vault where the First Flame Flickered and houses oracles.
 - Ashenhold has approximately 75 soldiers.
+- The oracles are based out of Ashenhold
 - The [[Sunken Sanctum]] is sealed by three nodes, hidden around the world
 - The Ashenhold node is still hidden.
 - The [[Scorched Vath'iran Ruins|Burnt City]] node was accidentally undone by the party.

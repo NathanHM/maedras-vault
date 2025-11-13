@@ -23,18 +23,28 @@ title: Maedra's Vault
 
 ---
 # Our Agenda
-
+## Immediate
 - Bring [[Uta'ah]] back to life (plz)
 - Chase the head mage into the sewers
 - Determine her identity; is it [[Merinth Tharrows|The Man]]? Who is this person we killed?
 - Ensure peace talks are back on track
 - Investigate who was responsible for the circle on the table; was this the circle Maedra spoke of?
 
+## Longterm
+- Save our family and friends from [[Ashenhold]]
+- Discover the [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|true identity]] of [[Gilbert]] and [[Cyrena]]'s father
+- Visit the [[Verdant Pyre]] and deal with the node there
+- Find the Vath'iran vault underneath [[Ashenhold]]
+- Return to [[Stormhaven]] and potentially enter the [[Sunken Sanctum]]
+- Save [[Evangaline]] and [[The Missing Children]]
+- End [[Rellis Torne]] and [[Merinth Tharrows|The Man]]'s raids on caravans
+- Discover the identity of [[The Flamekeeper]]
+
 ---
 # The Story So Far
 
 - The party first assembled at a Masquerade ball, where they saved [[Talis Greenway]] from having her amulet stolen.
-- They started investigating [[The Missing Children]], finding they were being taken by a [[Cult of the Eternal Ember|Cult]] dedicated to an ancient deity known as [[the Emberheart]].
+- They started investigating [[The Missing Children]], finding they were being taken by a [[The Eternal Ember Cult|Cult]] dedicated to an ancient deity known as [[the Emberheart]].
 - They chased leads down and found themselves in the [[Scorched Vath'iran Ruins|Scorched Ruins]] of the city of [[Vath'ira]], where they found a painting of the Emberheart.
 - They investigated the cult's presence in [[Kilsa]], and had run-ins with a leader amongst the cult, [[Vladimir Vladishkov]]
 - They made their way to [[Lucanius]], the capital of [[Alithi]], for the [[The Peace Summit]] between nations, taking out Vlad and a vineyard of cultists on the way

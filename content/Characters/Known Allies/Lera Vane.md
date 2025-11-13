@@ -1,6 +1,14 @@
 ## Bio
-- 
+- Lera aspires to become a pianist
+- She is either in her late teens or early twenties
+- Lera has an older brother, Lawrence Vane, who has a higher position within the cult
+- She is the familiar of [[Kalamari]]
+- Cursed by [[Nuloran]] to live an immortal half-life until an insane octopus deems her free
 
 ---
 ## Involvement
-- 
+- The party first encountered Lera when they [[Session 17 18|infiltrated]] a [[The Eternal Ember Cult|cult]] recruitment drive in the [[Kilsa#Green Soldier|Green Soldier]]
+- Uta'ah convinced her to pursue her dreams as a musician instead of joining the cult
+- However, speaking loudly and without care, he also brought Lera into danger as the cult tried to kill her along with the rest of the party
+- Unable to leave her alone and in danger, Uta'ah sent her to meet with [[High Lady Dawn]] and she tagged along with the party until she became Kalamari's familiar when the party was [[Session 30|travelling]] to [[Lucanius]]
+- Lera [[Session 52|revealed]] to the party that she considered her new state of existence to be torturous

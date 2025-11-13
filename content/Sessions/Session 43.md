@@ -12,4 +12,4 @@
 - Uta'ah and the paladins manage to drop the elemental before turning to fight each other. Uta'ah is able to convince Yarvig to hand over his pants with their XL pockets, but soon after is dropped by the paladin.
 - Max manages to intimidate the other paladin into standing down, then manages to kill Yarvig with ranged fire.
 - The remaining attention of the combat turns to Gilbert and the Canape Kid and after a heated contest, Gilbert finally manages to end his foe.
-- The party heals Uta'ah back up, and readies to interrogate and investigate.
+- The party heals Uta'ah back up, and readies to interrogate and investigate. 

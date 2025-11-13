@@ -1,1 +1,23 @@
-Gilbert, Cyrena and Chamae venture through a dreamscape to find their lost treasures and earn some divine intervention.
+- Picking up in the moment after [[Lord High Priest Ferox Thal]] attempted to kill everyone at [[The Peace Summit]], [[Cyrena]], [[Chamae]] and [[Gilbert]] experience a blinding flash of light.
+- As they recover their vision, they find themselves in a distorted and empty version of the hall where they stood
+- Here they discover that they each have taken the form of humanoid animals that represent them, Cyrena is a lion, Chamae is an owl and Gilbert, obviously, is a turtle
+- A grizzled man bursts into the room, who turns out to be [[Kalamari]] in human form
+- Kalamari reveals this to be a shared dreamscape, conjured by the party's respective gods to give them each a chance to earn Divine Intervention before they are killed by [[The Emberheart]]
+- They must each venture through this dreamscape and find a treasure that has been taken from them
+- For Kalamari, this treasure was his beloved (canonical) gun, which he (canonically) acquired during his (canonical) adventures in the docks
+- When Gilbert tries to play some music, Kalamari becomes frightened by The Arts<sup>TM</sup>,  and flees
+- Chasing after him, the group emerge into a hallway that they find reminiscent of the [[Lucanius#Notable Buildings & Locations#Eastern Districts|Forgotten Archive]], the walls of which are lined with books that make no sense, and portraits of people they recognise, but do not seem important
+- Pushing through, the party find themselves in the next room. Upon one person walking through a door, they all find themselves on the other side, and the door sealed behind them
+- In this room, they appear to be in the forge at Chamae's home. Their they see a Halfling that Chamae recognises, though in this dream the Halfling also identifies themself as Cyrena
+- In the centre of the forge is a statue of Maedra, wielding a mace shaped like a sunflower. When Cyrena spits on the statue, it wakes and starts to attack, identifying Chamae as its father
+- Upon defeating the statue, they find Manny within, who gladly thanks his Dad for freeing him
+- Upon rescuing Manny, the door opens and the group proceeds to the next room. 
+- They now reach an old classroom from Gilbert's bard college, but the room has morphed into a casino with each table staffed by a creature that could be called a Pocket Monster, but we won't do that for legal reasons.
+- Gilbert is overjoyed to be greeted by Mum/Dad, the two-headed combined form of [[Juliana]] and Ferox.
+- Joining a table, the party start gambling for the grand prize, Gilbert's diamond now distinctly in the shape of a butt plug, held in a spider-web cage.
+- Gilbert is quickly backed off after his unsubtle attempts to cheat. Cyrena and Chamae make further attempts, and eventually get caught also, sparking a fight between them and Not-Squirtle.
+- As the fight breaks out, Gilbert steals the diamond, unsealing the door. He runs to the door and throws the diamond through, hoping to keep the treasure safe. However, this causes the door to seal itself again, and the diamond to reappear in the cage.
+- Chamae then uses Catapult to rocket the diamond out of the cage, shooting it across the room and right up Gilbert's ass. The force blasts him through the once again unsealed door, and the three find themselves out of danger.
+- The final room takes the form of the grove where Cyrena's Druid Circle lived. There they find a large bonfire and a giant wooden statue where a human Uta'ah is held. A lion lifts a large burning sword out of the flames, and carries it to the statue, using it to set it alight. 
+- After attempting various approaches, Chamae uses Vortex Warp to get Uta'ah out of the statue before he can be burned
+- As Kalamari returns with his (canonical) gun, a human [[Wynona]] arrives with a bucket of blood and a cat-like [[Max]] emerges having recovered their ability to shapeshift, though still limited to cat form. As Uta'ah manages to find a beloved crop top lying on the ground, the party collectively succeed in retrieving their treasures, and return to the waking world

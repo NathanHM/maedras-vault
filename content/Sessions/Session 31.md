@@ -1,6 +1,7 @@
 - The party arrives at [[Lucanius]], the capital of [[Alithi]].
-- The city has security guarding the entrance, checking entrants against documents.
-- The party manages to get themselves and their [[Kalamari|octopus]] into the city without drawing too much attention
+- The city has security guarding the entrance, checking entrants against flyers.
+- The party manages to get themselves and their [[Kalamari|octopus]] into the city by passing him off as a giant pumpkin
+- Talking to a guard, Harvinter, the party soon take interest in entering Kalamari into a giant vegetable competition
 - The party meets a young Dragonborn, [[Cobalt]], who helps the party become acquainted with the city
 - Cobalt wishes to visit the [[Lucanius#**Notable Buildings & Locations**#Eastern Districts|Forgotten Archives]]
 - [[Cyrena]] is fond of Cobalt, which is set off by [[Uta'ah]]'s oddly intense distaste for him

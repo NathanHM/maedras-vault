@@ -17,5 +17,11 @@ Kilsa is a border town, located on the edge of [[Rulif]] and [[Alithi]]
 - The Purple Tulip is the tavern where the party first stayed upon arriving in Kilsa
 - They were offered a week's stay by Bilbo
 ## Yellow Duck
-
+- The Yellow Duck is a tavern where [[High Lady Dawn]] stayed after she escaped the cult.
+- [[Gilbert]] unintentionally destroyed one of the rooms by summoning an elephant
 ## Queries Queries
+- Queries Queries is a scholar's tower, containing a public library
+
+---
+## Other
+- There is a magical store in Kilsa where Gilbert [[Session 16|promised]] certain favours in accordance for a discount. [[Uta'ah]] unwittingly promised the same favours

@@ -1,5 +1,10 @@
 ## Bio
-- 
+- Ferox is the high priest and leader of Qavrud
+- Ferox has a twin brother, [[Kaedric Thal]]
+- Ferox is one of the prime suspects to be [[Cyrena]] and [[Gilbert]]'s [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|Father]]
+- Ferox is also the religious leader of [[The Eternal Ember Cult]]
+- He may also be the vassal of [[Virelya]]
+- For the past 6 years, Ferox has been possessed by [[The Emberheart]]
 
 ---
 ## Involvement

@@ -7,6 +7,8 @@
 - His parents are I'owa and O'hi'o, though he considers the entire circus and indeed many others he meets to be family
 - He was taught to perform as an acrobat by Miss Haley, the Tabaxi manager of the circus
 - Uta'ah was taught that magic only truly existed in the heart, and anything else was simply a trick
+- Uta'ah was  [[Divine Touch|Divine Touched]] by [[Lyneth]]
+- Uta'ah is dead
 
 ---
 ## Story

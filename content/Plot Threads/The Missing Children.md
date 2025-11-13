@@ -12,5 +12,8 @@
 - The children woke up some time later with no further memories of the incident
 - Some of the children came back [[Session 07 08|without the ability to talk]]
 - McMills' son reported that he saw three paladins in blue, a green flower, heard the word Alithi, four paladins in yellow, and one [[Vladimir Vladishkov|blue-clad man]] with a sword taller than himself. 
+- The cult kidnapped Evangaline again, along with [[High Lady Dawn]]. High Lady Dawn escaped, but Evangaline has not been seen since. 
 - The party [[Session 14|meet]] [[Father Ellric]] who confirms to them that the kidnappings are sacrifices to fuel [[The Emberheart]]
 - A cultist [[Session 16|reveals]] that the plan is to steal exactly 48 children
+- The cultist target children for various attributes such as strength, intelligence, cunning
+- Whilst kidnapped, Dawn overheard that Dusk had sanctioned the kidnappings

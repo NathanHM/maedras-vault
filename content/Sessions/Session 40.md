@@ -1,5 +1,6 @@
 - The party continues their conversation with [[Juliana|Juliana]] in the [[Lucanius#Notable Buildings & Locations#South Districts|The White Swan Coffee House]], where they over hear a [[Bard’s Song|song]] being sung by a bard.
 - Juliana takes the bard upstairs, and [[Gilbert]] is traumatised as he realises the noises he hears coming from upstairs was the favourite lullaby from his childhood
+- At the Coffee House, the party speak to the owner about [[Rumours from Rexius#Further Leads|the ashy residue found on their beans.]] Uta'ah samples the beans and takes poison damage.
 - [[Wynona]] is told by an old lady at the café that the last time she heard the song was during [[the Ashen Uprising]], which the party figures to have been some 80 years ago.
 - Later, [[Chamae]] is able to recall that the song is part of a ritual used to awaken sleeper agents across the city. The original version, [[the Ballad of the Burning Crown]], was sung during the Ashen Uprising.
 - The party garb themselves in appropriate wear to attend the opening party of the peace summit, with [[Uta'ah]] wearing a particularly slutty tux supplied by [[Siobhan|Siobhan]].

@@ -4,11 +4,17 @@
 - [[Lera Vane|Lera]] is found and convinced of the party's identity; [[Uta'ah]] has a heart-to-heart with her
 - [[Gilbert]] breaks a mirror, gaining bad luck for 4 sessions (Nat 2s count as Nat 1s)
 - [[High Lady Dawn]] shares a [[High Lady Dawn's Vision|vision]] of four nations, flickering flames, and a choice between light and darkness
+- Dawn shares that she has previously hired mercenaries from [[Rellis Torne]], but no contracts have been offered in a while
+- [[Father Aldren]] and Dawn came up under the same High Lady, Aldren is now a roaming scholar
+- Some of the party members took one of the mysterious potions Gilbert stole, to wildly varying effects
+	- Gilbert becomes able to detect the thoughts of both people and plants
+	- [[Jorvak]] gains the ability to climb walls
+	- [[Chamae]] glows with a bright light for the next few days
 - The party experience a [[The Party's Shared Dream|shared dream]] of a split-sky field, obsidian tree, and tokens of the four nations
 - The party decide to recreate symbols from the vision at the next [[Transport Circles|transport circle]] they visit
 - The party receive flash of the cult's next target: [[Dinn Greenway]]
 - Mimicking the choice, Gilbert closes his fist on a vine and candle; he gains Insight advantage for 24 hours
 - Fire flickers around Gilbert, making him more detectable to [[The Eternal Ember Cult|cult members]]
-- Detect thoughts reveals attention is focused on Gilbert. Going downstairs, he spots a paladin
+- Detect thoughts reveals attention is focused on Gilbert. Going downstairs, he spots a paladin arrive, [[Vladimir Vladishkov]]
 - The party escapes through a window with Kalamari, Dawn and Lera
-- The session ends with the party outside rushing to the [[Kilsa#Purple Tulip|Purple Tulip]]—except Max, still downstairs disguised as a twinky Paladin
+- The session ends with the party, climbing out a window and rushing to the [[Kilsa#Purple Tulip|Purple Tulip]]—except Max, still downstairs disguised as a twinky Paladin

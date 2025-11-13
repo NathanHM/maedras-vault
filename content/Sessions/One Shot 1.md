@@ -1,1 +1,12 @@
-Future Set. [[Cyrena]], [[Chamae]] and potential part members [[Ashen]] and [[Triss]] rescue [[Uta'ah]] from dragon's lair.
+- The story begins in a distant future. A group of friends meet up to swap tales, one of them in an ancient [[Chamae#Chamae's Constructs|Lifty]]
+- They tell a story of our party, featuring a more experienced and powerful take on [[Cyrena]] and [[Chamae]], joined by possible party members, wizard Triss and ex-cult member Ashen, as they venture to save [[Uta'ah]] from a dragon's horde
+- The party trail the dragon across land to a cave, following the distinctive scent of Uta'ah's piss
+- The party debate saving, ultimately deciding to save him when they realise there is also treasure within the horde
+- The party venture into the cavern and encounter a group of Kobolds. Quickly discovering that the lizards are nursing a crack cocaine addiction, the group manage to solve their "riddle" and bypass the Kobolds without getting stabbed
+- As the party venture further, they enter the main cavern where the dragon, Ogla'homa, sleeps. There they find the entrance to the cavern supported by a wooden structure, and find Uta'ah bound and gagged, placed atop a pile of gold.
+- The party try to pinch Uta'ah without waking Ogla'homa, but the dragon quickly rises after Lifty slips whilst scaling a wall
+- Triss summons a spectral dragon to fight Ogla'homa whilst Cyrena frees Uta'ah and gets him into Lifty
+- The encounter takes a turn when a second rival dragon arrives, Al'ash-ka, with three wyverns in tow
+- As Al'ash-ka and Ogla'homa fight each other, the party turn their attention to the Wyverns, and decide to escape whilst they can
+- The party get through the door as Al'ash-ka emerges victorious and prepares to turn her attention towards them. Lifty carries Cyrena, Chamae and Uta'ah away as Ashen and Triss bring down the support structure, trapping Al'ash-ka and potentially themselves.
+- Uta'ah emerges from Lifty and delivers a monologue about friendship down the barrel of the camera to wrap things up.

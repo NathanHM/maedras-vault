@@ -2,6 +2,7 @@
 - Chamae is a Fairy
 - She suffers from amnesia, unable to remember her life from before about three years ago
 - Chamae also deals with anxiety, preferring to stay within Lifty when she can, and facing social situations through her mannequin, Manny
+- Chamae has been [[Divine Touch|Divine Touched]] by [[Ceylira]]
 
 ---
 ## Story

@@ -1,5 +1,5 @@
 - Listen, I wasn't here for this one, so somebody else is gonna need to flesh this out.
-- [[Lord Votrin|Votrin]] wants to discuss the disruptions to trade, and [[the missing children]]. He takes these issues as an excuse to pitch a deal on hiring mercenaries to the other leaders.
+- [[Lord Votrin Deephelm|Votrin]] wants to discuss the disruptions to trade, and [[the missing children]]. He takes these issues as an excuse to pitch a deal on hiring mercenaries to the other leaders.
 - [[Lowri Greenway]] makes a plea for peace between the nations
 - [[Lord Regent Titus|Titus]] disavows the attack from the water elemental, and says he is investigating the cause.
 - [[Lord High Priest Ferox Thal|Ferox]] gives a speech that seems laden with dog whistles signalling his involvement with [[The Eternal Ember Cult|the cult]].

@@ -13,11 +13,12 @@
 - He soon returns with a note: “You're good at following instructions. Can you follow the second? See you at the vineyard in 8 days”
 - Gilbert loots the tills and finds contracts signed by Flora Leaf and [[Rose]], and a ledger with familiar symbols. Gilbert is sprayed by blue paint.
 - The party meet [[Cyrena]] who joins the party after hearing tales from [[Lera Vane|Lera]] and [[High Lady Dawn]]
+- Her Druid's grove was attacked, seemingly by fire giants, and she has come seeking help
 - The party visit the library with floor-to-ceiling books and rolling ladders
 - An elderly woman helps, mistaking a gnome for a child in a suit
 - Uta'ah learns [[Fizziwinkle]] last lived in [[Lucanius|the capital]]'s wealth district
 - Gilbert swings on ladder and is fined 10gp; Uta'ah becomes part of a scholar's gravity thesis
-- The party find a book with suspicious handwriting like [[Father Ellric]]'s
+- The party find a book on the [[Sunken Sanctum]] with handwriting that matches [[Father Ellric]]'s
 - Gilbert discovers the contracts are magically cursed, and if destroyed will harm both the person who signed the contract and the person who destroyed it
 - The party research [[transport circles]] until they overhear guards searching for the party
 - The party rush to the basement circle beneath the transport hub; a vibe check reveals magic is flowing through the area
