@@ -2,34 +2,37 @@
 title: Maedra's Vault
 ---
 
-# [[Session 52|Last Session...]]
+# [[Session 53|Last Session...]]
 
-- As the party finish interrogating [[Lord High Priest Ferox Thal|Ferox]], they deem he is being honest and must continue as the leader of [[Qavrud]] for now, but cannot be allowed to be possessed by [[the Emberheart]] again.
-- [[Gilbert]] believes that there are arcane symbols that may be able to prevent Ferox from divine possession, but no one on hand is able to create the symbols.
-- The party inadvertently summons [[Maedra Lurith|Maedra]] by repeatedly stating her name. Maedra tells the party that she was summoned due to their "tainted blood", but it is unclear who she was referring to or what was meant.
-- The party negotiate with her, asking her to carve the symbols on Ferox in exchange for [[Uta'ah]]'s biggest secret, getting high with [[Cyrena]] and a bucket of blood from [[Wynona]]. She collects the blood and promises to recoup from Cyrena and Uta'ah that night. Maedra burns the symbols into the back of Ferox's neck, rendering him unconscious once more, before she leaves.
-- The party return to the issue of the missing head mage, who they learn is female in spite of the misogynistic [[Alithi]] culture. This leads the party to suspect the head mage is in fact [[Merinth Tharrows|The Man]].
-- A page arrives and reveals that the head page, going by the name Trina MacBeth (TM), has gone missing. Descriptions of Trina do not match The Man, but the party already suspects her of using shapeshifting and disguise.
-- [[Max]] makes a speech to the Summit, imploring them to understand that the true threats they need to face are outside of this room, and they must work together. The summit is left in the hands of [[High Lady Dawn]], and they break for lunch as the party goes to search for leads on Trina MacBeth.
-- On their way, the party bumps into [[Lera Vane|Lera]], who appears to be depressed, living a traumatised half-life after dying and being resurrected by [[Nuloran]] to work in the service of [[Kalamari]].
-- As they reach the head mage's quarters, they find the door sealed. [[Chamae]] manages to Misty Step into the room through the keyhole, and is able to detect some magic sealing one drawer on the desk.
-- Wynona manages to annihilate the door, granting the rest of the party access to the room. Wynona, Uta'ah and Cyrena use their noses to try and track the mage, but find a scent of decay instead. Cyrena clocks the scent as that of someone the party has killed previously. Her new sense for the undead also allows her to detect multiple undead presences somewhere deep below them, seemingly from sewers beneath the palace.
-- Cyrena manages to bypass the magic protection on the sealed drawer, and within they find a sealed metal binder for a book.
-- Max meanwhile inspects the room, and finds a seam in the floor underneath the rug.
-- Gilbert uses his Unseen Servant to cautiously take the book out to the courtyard. Upon unsealing the metal binder, Chamae can strongly detect Evocation magic coming from the book.
-- Most of the party watch from a safe distance, but Gilbert must be less than 60ft away to maintain his Unseen Servant, and he is joined by Uta'ah.
-- Upon opening the book, three rays shoot out, one hits Gilbert, and the other two hit Uta'ah as he pisses on Gilbert's leg. These rays are powerful enough that they kill Uta'ah upon impact.
-- In horror, the party rush off to find High Lady Dawn in hopes she can revivify Uta'ah before it's too late.
+- [[High Lady Dawn]] arrives in the courtyard to find [[Uta'ah]] lying dead. Putting aside the demands of [[Motherhood of Vel'Enar|her position]], she resolves that this is not his time to die.
+- Finding himself in a space between, Uta'ah loses sense of sight and time. This feeling gives way to the familiar sight of his old [[Master Fizziwinkle's Travelling Wonders|circus]], formed of a flickering light. Feeling a sense of comfort, Uta'ah is ready to move on, before he encounters another being he identifies as Dawn.
+- As she stumbles, Uta'ah moves to support Dawn, and the pair find themselves on a bridge. On one side is (something I don't super remember, I think like a golden palace?). On the other side lies a barren wasteland, engulfed in flame. 
+- On the side of the flames is a child, burned and scarred, lying crying on the ground. Uta'ah goes and attempts to help the child, but to no avail.
+- Dawn tells Uta'ah that they can help, but not from here. She falls from the bridge and Uta'ah reaches after her. Falling into darkness, the two return to the living world.
+- As Uta'ah rises once more, Dawn falls to the ground in shock. She says that the circle is incomplete, and she can no longer sense [[High Lady Dusk]]. [[Gilbert]] spots a flame sigil briefly appear on her head before vanishing, and notices her form seems to stretch momentarily.
+- [[Wynona]] notices that [[Lowri Greenway]] seems to have some knowledge of what has just occurred to Dawn, but Lowri is reluctant to talk at the moment.
+- Gilbert looks at the book taken from Trina Macbeth but finds the book to be blank, and throws the book aside in anger.
+- Meanwhile [[Max]] investigates Trina's office. Pushing into the seam in the ground, the stone pushes back and reveals a hidden trapdoor leading some fifty feet down below. Closing the door, they return to the party for now. 
+- The party reconvene in the courtyard, joined by the leaders from [[The Peace Summit|the summit]] and take stock of what has happened. They decide to take Dawn to the Greenways' room to ensure she is alright.
+- Before they depart, [[Lord Regent Titus]] asks the group if revivification is possible, then perhaps Tiberius, the leader of  [[The Eternal Vine]] might also be brought back. The party inform that that is likely not possible at this point. The party are concerned to hear that [[Father Ophius]] is likely next in line to succeed him, and that there will be a vote to decide in the coming days.
+- Max goes to pick up the discarded book from Trina Macbeth's office. When the party arrive in the Greenways' room, [[Chamae]] and Max look over the book and find entries written in invisible ink.
+- The book contains entries indicating that the person infiltrated the court mages some sixty days ago under the false identity of Trina Macbeth, and that as of this morning everything was in place and "the army will rise".
+- The group try to identify the handwriting but are unable to place it.
+- The party then turn their attentions to the Greenways and ask what they know about what has happened to Dawn. They reveal that the last time Dawn performed a revivification was on their son, [[Dinn Greenway]], and she was in a similar state then as to how she is now. The party believe the price she paid for this revivification was that she lost her place in the cycle of life and death the Vel'Enar religion believes in. 
+- After some speculation, [[Cyrena]] deduces that when Dawn said the circle was broken and she could no longer sense Dusk, this was not because of Dusk's actions, but because Dawn had now lost her connection to [[Vel'Enar]].
+- As Dawn wakes, she talks to the party and answer some questions they have about her history. She reveals that she gave up her shapeshifting when Vel'Enar spoke to her. This occurred some centuries ago.
+- This leads the party to ask about the ages of [[Father Ellric]] and [[Father Aldren]] who came up in the church alongside her. This leads her to reveal that they too are the same age as her. Father Aldren in particular, is described as looking similar to [[Lord High Priest Ferox Thal|Ferox]] and thus [[Kaedric Thal|Kaedric]]. Upon further questioning, she also claims that Aldren did once get his [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|nipples pierced]] on a dare.
+- Uta'ah asks the Greenways to look after Dawn, and to ensure that Dusk is not allowed to interfere with her recovery. They reveal that since the talks Dusk has been placed in confinement with an anti-magic field. Uta'ah also requests that [[Lady Mid]] be summoned to help.
+- The party resolve to now search for Trina Macbeth down in the sewers, and to attempt to set-up some surveillance in the west wing where they still suspect a [[Transport Circles|transport circle]] to be hidden for reasons unknown.
 
 ---
 # Our Agenda
 ## Immediate
-- Bring [[Uta'ah]] back to life (plz)
-- Chase the head mage into the sewers
+- Chase "Trina Macbeth" into the sewers
 - Determine her identity; is it [[Merinth Tharrows|The Man]]? Who is this person we killed?
-- Ensure peace talks are back on track
-- Investigate who was responsible for the circle on the table; was this the circle Maedra spoke of?
-
+- Prevent the rise of "the army" she spoke of in her journal
+- Investigate the west wing of the palace - is the transport circle in there linked to the one on the table?
+- Prevent [[Father Ophius]] from becoming the new head of [[The Eternal Vine]]
 ## Longterm
 - Save our family and friends from [[Ashenhold]]
 - Discover the [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|true identity]] of [[Gilbert]] and [[Cyrena]]'s father
