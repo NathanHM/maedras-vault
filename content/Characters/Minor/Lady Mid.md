@@ -1,13 +1,7 @@
 ## Bio
-- 
+- Lady Mid is one of the lower level figure heads in the [[Motherhood of Vel'Enar]]
+- Exceedingly average
 
 ---
 ## Involvement
-- 
-
-
-
-- Lady Mid is one of the lower level figure heads in the [[Motherhood of Vel'Enar]]
-- Just an unbelievably average person
-- Neither great nor terrible, good nor evil
-- Just... mid
+-  [[Uta'ah]] requested the Greenways send for her to aid in [[High Lady Dawn]]'s recovery

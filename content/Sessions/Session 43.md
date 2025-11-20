@@ -1,9 +1,9 @@
-- [[Max]] took on the visage of [[Lord Farquad]] and spoke with the paladins. 
+- [[Max]] took on the visage of [[Lord Farquad]] and spoke with the paladins.
 - They uncover that Yarvig hopes to be promoted to become the head of [[The Eternal Ember Cult#The Ember Hand|the Ember Hand]], usurping [[Vladimir Vladishkov|Vlad]] as the leader of the group.
 - The Ember Hand and [[The Eternal Ember Cult|the cult]]'s forces in the city are based out of a secret barracks underneath the guards barracks, accessible via transport circle.
 - The paladins then head out to the courtyard, as Max watches from the balcony.
 - [[Lord High Priest Ferox Thal|Lord Ferox]] has also noticed the change made to the runes on the [[Transport Circles|transport circle]], and sends an assistant to rectify the issue.
-- [[Uta'ah]] positions himself on a pillar high above the tampered sigil, whilst [[Chamae]], [[Gilbert]] and [[Chamae#Chamae's Constructs|Manny]] run interference with the priestess, assistant and [[Canapé Kid]] all approaching the sigil.
+- [[Uta'ah]] positions himself on a pillar high above the tampered sigil, whilst [[Chamae]], [[Gilbert]] and [[Chamae#Chamae's Constructs|Manny]] run interference with the priestess, assistant and [[The Canapé Kid]] all approaching the sigil.
 - Gilbert recognises the assistant sent by Ferox as [[Merinth Tharrows|Merinth Tharrows]], The Man. Unable to prevent her from reaching the sigil, Uta'ah elbow drops The Man but not before she manages to activate the sigil.
 - The symbols start to light up and the crowd erupts into chaos, all the attendees flee, leaving behind the party, the paladins, and the figures who were trying to right the symbol.
 - Uta'ah discovers that the unconscious body of the Man has shifted into an unknown person. Unable to investigate now, he asks a fleeing attendee to get the woman to [[High Lady Dawn|Dawn]] for healing.
@@ -12,4 +12,4 @@
 - Uta'ah and the paladins manage to drop the elemental before turning to fight each other. Uta'ah is able to convince Yarvig to hand over his pants with their XL pockets, but soon after is dropped by the paladin.
 - Max manages to intimidate the other paladin into standing down, then manages to kill Yarvig with ranged fire.
 - The remaining attention of the combat turns to Gilbert and the Canape Kid and after a heated contest, Gilbert finally manages to end his foe.
-- The party heals Uta'ah back up, and readies to interrogate and investigate. 
+- The party heals Uta'ah back up, and readies to interrogate and investigate.

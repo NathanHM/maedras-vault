@@ -1,8 +1,7 @@
 ## Bio
 - Rellis Torne is the head of [[Tayan#The Black Blades|The Black Blades]]
 - They are the head of the Tayan Mercenary Guild
-- Rellis is an ally of [[The Eternal Ember Cult]], fuelling the raids on caravans
-
+- Rellis is an ally of [[The Eternal Ember Cult]], fuelling [[The Caravan Raids]]
 ---
 ## Involvement
 - The party [[Session 17 18|first]] heard of Rellis when interrogating a priest in [[Kilsa]] 

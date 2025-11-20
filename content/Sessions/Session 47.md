@@ -6,7 +6,7 @@
 	- [[Cyrena]] looks to either [[Eryndor]] or [[Virelya]]
 	- [[Max]] can't decide between [[Caelith]], [[Ilhara]] or [[Thalana]]
 - Max sends for the [[Jameson Ludwig|scholar]] they met last night, intending to ask more questions about [[Transport Circles|the circles]]
-- Jameson arrives, and becomes convinced that [[Chamae#Chamae's Constructs|Manny]] is [[Vath'ira|Vath'iran]] when he learns from the mannequin that Chamae managed to change a symbol, which he has not heard of before. 
+- Jameson arrives, and becomes convinced that [[Chamae#Chamae's Constructs|Manny]] is [[Vath'ira|Vath'iran]] when he learns from the mannequin that Chamae managed to change a symbol, which he has not heard of before.
 - Jameson informs the party that time is always lost when using the transport circles, but that time is usually contained to minutes and he has only heard of one other case where a significant amount of time was lost, the [[General David McIver|soldiers]] the party encountered earlier in the campaign.
 - Upon mentioning [[Maedra Lurith|Maedra]], Jameson reveals he is afraid of her. He reports there are rumours that the [[Fey]] warned the Vath'irans that their transport circle would upset the natural balance. The fall of the Vath'irans may have been a consequence of ignoring this warning, or it may be that the Fey intervened and are responsible themselves.
 - He also reports that if a transport token is degraded, it may be possible for a circle to spit out a traveller either forward or backward in time.

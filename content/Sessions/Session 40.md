@@ -8,4 +8,4 @@
 - They reunite with the [[Talis Greenway|Greenways]], who are relieved to see that [[High Lady Dawn|Dawn]] is alright, and they agree that the party will communicate all they have learned to them later.
 - Gilbert, Wynona and Uta'ah preform on stage for the celebrations, and manage to wow the crowd and earn themselves 5000 gold.
 - The party attempts to cash in their favour with [[Lord Regent Titus]] to get into [[the peace summit]], but he refuses. The party then instead challenge him to an arm-wrestle with Wynona. Winning the contest and smashing Titus through the table, the party wins the right to serve as his guard during the peace talks, an additional 5000 gold and Titus's unwanted affection for Wynona.
-- As the party proceeds, Lady Dusk eventually bids the party and Dawn adieu, and goes off to join her date for the evening, Ferox
+- As the party proceeds, Lady Dusk eventually bids the party and Dawn adieu, and goes off to join her date for the evening, [[Lord High Priest Ferox Thal]]

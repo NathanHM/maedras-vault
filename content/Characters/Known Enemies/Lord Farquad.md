@@ -5,7 +5,7 @@
 - Farquad is drinking buddies with [[Vladimir Vladishkov]], [[Bilbo Frankenfert]] and [[Fizziwinkle]]
 - Farquad is said to be newly allergic to [[Lavender]]
 - Lord Farquad fought in [[The War]]
-- Farquad rides his horse, Starry, da
+- Farquad rides his horse, Starry, daily
 
 ---
 ## Involvement
@@ -14,3 +14,4 @@
 - He claimed that he was told to support [[The Sashed Paladins]] by [[Merinth Tharrows|The Man]]
 - Farquad speculated that The Man was [[Lord Tom|Tom Macavoy]]. Did he truly not know?
 - Farquad was paying [[Vladimir Vladishkov|Vlad]] via bank transfer
+- The party [[Session 20 21|learn]] from Vlad that Farquad is involved with the abductions

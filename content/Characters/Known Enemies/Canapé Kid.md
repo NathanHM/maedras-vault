@@ -1,6 +1,0 @@
-## Bio
-- 
-
----
-## Involvement
-- 

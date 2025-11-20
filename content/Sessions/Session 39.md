@@ -1,4 +1,4 @@
-- The party investigate some of the [[Rumours from Rexius#Echoes in the Graveyard – Graveyard, Honi|graves that have been robbed]]. [[Max]] identifies them as ancient, from [[Vath'ira|Vath'iran]] civilization. 
+- The party investigate some of the [[Rumours from Rexius#Echoes in the Graveyard – Graveyard, Honi|graves that have been robbed]]. [[Max]] identifies them as ancient, from [[Vath'ira|Vath'iran]] civilisation.
 - The graves have had ancient rituals carried out around them, and the party find more of the stones they found in the Fathers' safe. They suspect that the Fathers are the guilty party, but having freed the nuns, gathered evidence and harvested [[Floral Myths and Legends of the Known Realms#5. The Vine of Whispering Hands|Gravegrasp]], feel they have done enough to deal with this issue for now.
 - The party heads off to [[Lucanius#Notable Buildings & Locations#South Districts|The White Swan Coffee House]], where they meet with [[Reeva]], [[Siobhan|Siobhan]] and [[Juliana|Juliana]].
 - There they sell off most of the Gravegrasp to Reeva

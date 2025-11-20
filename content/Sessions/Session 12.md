@@ -1,7 +1,7 @@
 - Last session, [[Max]] wore paladin armour and convinced the party to pretend to be captured or hide in [[Chamae]]'s tent
 - Upon entering the [[Transport Circles|transport circle]], the party is met at sword point by a wary and haggard group of [[General David McIver|soldiers]]
 - The soldiers are frightened due to recent gingerbread bear sightings    
-- They have been trapped for weeks under gingerbread attacks  
+- They have been trapped for weeks under gingerbread attacks 
 - They had taken refuge in this building, unable to reach the mayor's office  
 - The soldiers are from [[Alithi]] and displaced in time, believing it is 4 months post-[[The War|war]] instead of 20 years  
 - They suspect Malona, a Rulif mage, interfered, misdirecting them from the border town of [[Kilsa]]

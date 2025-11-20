@@ -1,15 +1,15 @@
-- The party continues battling cultists and paladins to rescue [[Evangaline]] and [[High Lady Dawn|HL Dawn]]  
-- Many [[The Eternal Ember Cult|cultists]] are decapitated and [[The Sashed Paladins|paladins]] shields are stolen for head-bashing  
-- [[Wynona]] enters the ritual room as Evangaline is transported away by a paladin  
-- The leader flees through the circle with HL Dawn shortly after  
-- A Gingerbread Bear appears and joins the fight  
-- [[Gilbert]] convinces the bear to help by revealing paladins are eating gingerbread children 
-- The bear slaughters the paladins and returns through the portal  
-- The paladins have [[Transport Circles|tokens]] on their belts, which flash and activate the [[Transport Circles|transport circle]], matching its unknown symbol 
-- The last cultist, Pablo II, is kept alive and questioned, sharing his life story and burial wishes  
-- He reveals bodies are to be sent to someone named R in the capital  
-- The letter's handwriting matches previous notes from [[Merinth Tharrows|TM]]  
-- Hilda Hinkle is named as a helper in transporting bodies and works at the church  
-- She was likely the magic lady who gave Gilbert his fortune  
-- The party takes tokens from dead paladins and jumps through the portal  
-- The party travels through interdimensional tunnels and arrives at sword point on the other side  
+- The party continues battling cultists and paladins to rescue [[Evangaline]] and [[High Lady Dawn|HL Dawn]]
+- Many [[The Eternal Ember Cult|cultists]] are decapitated and [[The Sashed Paladins|paladins]] shields are stolen for head-bashing
+- [[Wynona]] enters the ritual room as Evangaline is transported away by a paladin
+- The leader flees through the circle with HL Dawn shortly after
+- A Gingerbread Bear appears and joins the fight
+- [[Gilbert]] convinces the bear to help by revealing paladins are eating gingerbread children
+- The bear slaughters the paladins and returns through the portal
+- The paladins have [[Transport Circles|tokens]] on their belts, which flash and activate the [[Transport Circles|transport circle]], matching its unknown symbol
+- The last cultist, Pablo II, is kept alive and questioned, sharing his life story and burial wishes
+- He reveals bodies are to be sent to someone named R in the capital
+- The letter's handwriting matches previous notes from [[Merinth Tharrows|TM]]
+- Hilda Hinkle is named as a helper in transporting bodies and works at the church
+- She was likely the magic lady who gave Gilbert his fortune
+- The party takes tokens from dead paladins and jumps through the portal
+- The party travels through interdimensional tunnels and arrives at sword point on the other side

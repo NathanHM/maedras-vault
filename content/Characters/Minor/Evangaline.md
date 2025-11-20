@@ -1,12 +1,9 @@
 ## Bio
-- 
+- Evangeline is one of [[The Missing Children]], taken from [[Stormhaven]]
+- She is currently still missing
 
 ---
 ## Involvement
-- 
-
-
-- Evangeline is one of [[The Missing Children]], taken from [[Stormhaven]]
 - Her father asked the party to find and rescue her
 - Evangeline was the 12th child to go missing in 12 weeks in [[Rulif]]
 - Evangaline was [[Session 03|rescued]] from [[Stormhaven#The Mausoleum|the mausoleum]] unharmed 

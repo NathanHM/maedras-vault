@@ -1,8 +1,9 @@
 ## Bio
-- High Lady Dusk is one of the top ranking members of the [[Motherhood of Vel'Enar]]
+- High Lady Dusk is one of the top ranking members of the [[Motherhood of Vel'Enar]], overseeing Birth rites
 - She and [[High Lady Dawn]] have history
 - Her top student is a girl named Erica
 - Not a big Spider-Man fan
+- Centuries old
 
 ---
 ## Involvement
@@ -12,4 +13,4 @@
 - Dusk [[Session 46|attempts]] to kill [[Gilbert]], albeit upon his request, earning [[Uta'ah]]'s enmity. Gilbert lies to Dusk about what he saw whilst unconscious
 - At the summit, Dusk speaks in favour of peace
 - When violence breaks out, Dusk heals a downed member of [[The Eternal Ember Cult]]
-- After the fight, she is gagged and left in the care of Dawn
+- After the fight, [[Session 53|she is confined]] in an anti-magic room

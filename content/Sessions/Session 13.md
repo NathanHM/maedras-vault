@@ -1,25 +1,25 @@
-- The party waits at the transport circle with the [[Alithi|Alithi]] [[General David McIver|soldiers]] they don't particularly like  
-- The soldiers offer 25gp and a potion (perfume of bewitching) for safe passage  
-- The party accepts the reward and quickly activate the [[Transport Circles|circle]] to try and escape  
-- [[Wynona]] intimidates the soldiers, but they manage to hitch a ride on [[Gilbert]]'s shoe  
-- The party arrives in a decrepit jail cell below the transport hub  
+- The party waits at the transport circle with the [[Alithi|Alithi]] [[General David McIver|soldiers]] they don't particularly like
+- The soldiers offer 25gp and a potion (perfume of bewitching) for safe passage
+- The party accepts the reward and quickly activate the [[Transport Circles|circle]] to try and escape
+- [[Wynona]] intimidates the soldiers, but they manage to hitch a ride on [[Gilbert]]'s shoe
+- The party arrives in a decrepit jail cell below the transport hub
 - The soldiers believe the party helped them and promise [[Lord Regent Titus]] will reward them with a favour
-- They urge a meeting at the [[Kilsa#Monastery of The Eternal Vine|Monastery of the Eternal Vine]] in two days  
-- Outside, the town of [[Kilsa]] is bustling with armed individuals and monks in green robes  
-- The party enters the transport hub and see a sign: WELCOME TO KILSA  
-- Inside are check-in desks, a semi-circle door, and a help desk  
-- The clerk suggests speaking with scholars to learn more about transport circles; [[Max]] learns three days have passed  
-- Showing off transport tokens received from the soldiers gets the party into Manager [[Bilbo Frankenfert]]'s office  
+- They urge a meeting at the [[Kilsa#Monastery of The Eternal Vine|Monastery of the Eternal Vine]] in two days
+- Outside, the town of [[Kilsa]] is bustling with armed individuals and monks in green robes
+- The party enters the transport hub and see a sign: WELCOME TO KILSA
+- Inside are check-in desks, a semi-circle door, and a help desk
+- The clerk suggests speaking with scholars to learn more about transport circles; [[Max]] learns three days have passed
+- Showing off transport tokens received from the soldiers gets the party into Manager [[Bilbo Frankenfert]]'s office
 - He offers a week's stay at the [[Kilsa#Purple Tulip|Purple Tulip]] in exchange for a token
-- On the way, the party sees shops and job ads including escorting a caravan and protection work  
-- Gilbert cracks a coded ad revealing a meet-up at the [[Kilsa#Green Soldier|Green Soldier]] on Fate Day  
-- At the Purple Tulip, the inn is lively with soldiers, a bard, travellers, and a buff innkeep  
-- The party redeems the voucher and settles into their rooms  
-- The next morning, the party investigates job offers and visits a brothel, the [[Kilsa#Pink Lotus|Pink Lotus]]  
+- On the way, the party sees shops and job ads including [[The Caravan Raids|escorting a caravan]] and protection work
+- Gilbert cracks a coded ad revealing a meet-up at the [[Kilsa#Green Soldier|Green Soldier]] on Fate Day
+- At the Purple Tulip, the inn is lively with soldiers, a bard, travellers, and a buff innkeep
+- The party redeems the voucher and settles into their rooms
+- The next morning, the party investigates job offers and visits a brothel, the [[Kilsa#Pink Lotus|Pink Lotus]]
 - They meet [[Lord Tom]] in a private booth to discuss escorting a caravan to the capital of [[Alithi]], [[Lucanius]]
 - The job would commence in two days, and it would take them seven days of travel to reach the capital
-- The job pays 50gp each way and is due to dancers and caravans going missing on the road 
+- The job pays 50gp each way and is due to dancers and caravans going missing on the road
 - The party says they'll return in a few days after discussing together
-- On the way to the Monastery to investigate the protection job, the party is distracted by a bookshop  
-- They buy tomes and learn time moves differently inside the store—three hours feel like thirty minutes  
+- On the way to the Monastery to investigate the protection job, the party is distracted by a bookshop
+- They buy tomes and learn time moves differently inside the store—three hours feel like thirty minutes
 - The session ends at the Monastery after meeting monks and being directed to the person looking for protection

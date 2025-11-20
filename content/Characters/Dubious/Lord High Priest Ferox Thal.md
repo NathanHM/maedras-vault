@@ -5,10 +5,23 @@
 - Ferox is also the religious leader of [[The Eternal Ember Cult]]
 - He may also be the vassal of [[Virelya]]
 - For the past 6 years, Ferox has been possessed by [[The Emberheart]]
+- [[Vaela]] is a key aide to Ferox
 
 ---
 ## Involvement
-- 
+- The party [[Session 15|first]] hear of Ferox when Gilbert receives a note, addressed from his father, that resembles Ferox's handwriting  
+- They next hear about Ferox [[Session 17 18|when interrogating]] a cult priest in [[Kilsa]], who mentions him and his twin brother, Kaedric
+- Ferox is [[Session 29|confirmed]] to be involved in the cult when the party interrogate [[Vladimir Vladishkov|Vlad]]
+- The party [[Session 32|hear]] that Ferox's party is occupying the Merry Elf in [[Lucanius]] for [[The Peace Summit]]
+- The party [[Session 33 34|find]] a set of [[#Notes on Lord Ferox Thal|notes]] on Ferox in the [[Lucanius#Notable Buildings & Locations#Eastern Districts|Forgotten Archive]]
+- The party finally [[Session 40|meet]] Ferox at a party prior to the peace summit, which he is attending with [[High Lady Dusk]]
+- [[Uta'ah]] accidentally [[Session 41|lets slip]] to [[Dareth Vonn]] that Ferox may be acting against the tenets of the [[Worship of Virelya]]
+- Listening outside of Ferox's room, the party hears intimate noises from Ferox's room with a female voice that Gilbert recognises
+- Ferox [[Session 47|arrives]] at  the talks with Vaela. a rival of Gilbert's from bard college
+- [[Session 48|At the summit]], [[Chamae]] realises that Ferox is possessed by the Emberheart
+- [[Session 49 50|As the peace talks]] break into violence, the Emberheart attempts to annihilate the party but is prevented by Virelya possessing Vaela
+- The party [[Session 51|interrogate]] Ferox and come to the conclusion that he was possessed by the Emberheart six years ago
+- They have [[Maedra Lurith|Maedra]] [[Session 52|brand]] Ferox with glyphs to prevent possession
 
 ---
 # Notes on Lord Ferox Thal
