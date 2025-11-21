@@ -11,7 +11,7 @@
 - [[Lord Farquad|Farquad]] is estranged from his sister due to matriarchal inheritance; [[Chamae]] identifies her as [[Merinth Tharrows]]
 - It's confirmed that Merinth Tharrows is The Man
 - [[Fizziwinkle]], Vlad, Bilbo, and Farquad are drinking buddies
-- Cult activity is strong in the [[Verdant Pyre]] near [[Wynona]]'s home, guarded by dangerous mushroom people
+- Cult activity is strong in the [[Verdant Pyre]] near [[Wynona]]'s home, guarded by dangerous [[Myconids|mushroom people]]
 - Several party members' loved ones are held at the Fortress of [[Ashenhold]] in [[Tayan]]
 - Ashenhold is built on ancient [[Vath'ira|Vath'iran]] ruins known as the Pyre Vault
 - The Heart of Cinders is believed to be kept there, once worshipped by the Vath'irans
