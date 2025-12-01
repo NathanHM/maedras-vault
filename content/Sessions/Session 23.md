@@ -16,4 +16,4 @@
 - Gilbert's mother [[Juliana|Juliana]] is being held at a [[Vineyard]] en route to the city
 - The party decided to rescue Juliana before heading to [[The Peace Summit]]
 - Siobhan agreed to fly them to the vineyard and assist in the battle after securing a promise from Uta'ah to "visit"
-- She revealed her sisters also roam the area and frequent the [[Lucanius#**Notable Buildings & Locations**#South Districts|The White Swan Coffe House]] in the city where they “hunt”
+- She revealed her sisters also roam the area and frequent the [[Lucanius#South Districts|The White Swan Coffe House]] in the city where they “hunt”
