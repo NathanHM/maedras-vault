@@ -6,7 +6,7 @@
 - They must each venture through this dreamscape and find a treasure that has been taken from them
 - For Kalamari, this treasure was his beloved (canonical) gun, which he (canonically) acquired during his (canonical) adventures in the docks
 - When Gilbert tries to play some music, Kalamari becomes frightened by The Arts<sup>TM</sup>,  and flees
-- Chasing after him, the group emerge into a hallway that they find reminiscent of the [[Lucanius#Notable Buildings & Locations#Eastern Districts|Forgotten Archive]], the walls of which are lined with books that make no sense, and portraits of people they recognise, but do not seem important
+- Chasing after him, the group emerge into a hallway that they find reminiscent of the [[Lucanius#Notable Buildings & Locations|Forgotten Archive]], the walls of which are lined with books that make no sense, and portraits of people they recognise, but do not seem important
 - Pushing through, the party find themselves in the next room. Upon one person walking through a door, they all find themselves on the other side, and the door sealed behind them
 - In this room, they appear to be in the forge at Chamae's home. Their they see a Halfling that Chamae recognises, though in this dream the Halfling also identifies themself as Cyrena
 - In the centre of the forge is a statue of Maedra, wielding a mace shaped like a sunflower. When Cyrena spits on the statue, it wakes and starts to attack, identifying Chamae as its father

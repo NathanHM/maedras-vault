@@ -12,7 +12,7 @@
 	- [[Chamae]] glows with a bright light for the next few days
 - The party experience a [[The Party's Shared Dream|shared dream]] of a split-sky field, obsidian tree, and tokens of the four nations
 - The party decide to recreate symbols from the vision at the next [[Transport Circles|transport circle]] they visit
-- The party receive flash of the cult's next target: [[Dinn Greenway]]
+- The party receive flash of the cult's next target: [[Dayne Greenway]]
 - Mimicking the choice, Gilbert closes his fist on a vine and candle; he gains Insight advantage for 24 hours
 - Fire flickers around Gilbert, making him more detectable to [[The Eternal Ember Cult|cult members]]
 - Detect thoughts reveals attention is focused on Gilbert. Going downstairs, he spots a paladin arrive, [[Vladimir Vladishkov]]

@@ -1,5 +1,5 @@
 ## Bio
-- Reeva sells flowers in the [[Lucanius#Notable Buildings & Locations#Western Districts||Ivyhall Flower Market]]
+- Reeva sells flowers in the [[Lucanius#Notable Buildings & Locations|Ivyhall Flower Market]]
 - She speaks only in rhymes and riddles, communicating her meaning via the flowers she mentions
 
 ---

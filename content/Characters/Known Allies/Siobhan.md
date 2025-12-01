@@ -7,7 +7,7 @@ aliases:
 - Her full name is Shiverwatcher
 - She is capable of shifting into a human form with some draconic features.
 - The [[Vineyard]] owned by [[Halric Dain]] produces her favourite wine
-- She and her sisters hunt in [[Lucanius#Notable Buildings & Locations#Western Districts|The White Swan Coffee Shop]]
+- She and her sisters hunt in [[Lucanius#West Districts|The White Swan Coffee Shop]]
 - She takes a particular interest in [[Uta'ah]]
 
 ---

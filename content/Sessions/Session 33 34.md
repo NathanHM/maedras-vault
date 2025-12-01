@@ -1,4 +1,4 @@
-- The party makes their way to the [[Lucanius#**Notable Buildings & Locations**#Eastern Districts|Forgotten Archives]], accompanied by [[Maedra Lurith|Maedra]],  [[High Lady Dawn]] and [[Cobalt]]
+- The party makes their way to the [[Lucanius#East Districts|Forgotten Archives]], accompanied by [[Maedra Lurith|Maedra]],  [[High Lady Dawn]] and [[Cobalt]]
 - As they enter the library they find it run down and abandoned, however they detect there is some kind of magic affecting their perception of the area.
 - As they make their way to the basement, the party defuses a tripwire. [[Chamae]] identifies that the trap was meant to release cold iron, which is harmful to [[Fey]].
 - The party makes their way to the basement, where they discover a door sealed with magic. The door has three glyphs sealing it. The party successfully figure out that each glyph is a lock, with a corresponding glyph acting as a key somewhere hidden in the library.

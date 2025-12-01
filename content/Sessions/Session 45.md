@@ -1,6 +1,6 @@
 - [[Wynona]] joins the rest of the party in the Greenways room as the sibling squabble in the hall.
 - The party receives healing from [[High Lady Dawn]] as the party fill in the Greenways on all that has happened since they last crossed paths with the party.
-- They warn that [[Dinn Greenway]] may in particular be a target of [[The Eternal Ember Cult|the cult]], and suggest that Talis should feign sickness tomorrow and ensure Dinn is protected.
+- They warn that [[Dayne Greenway]] may in particular be a target of [[The Eternal Ember Cult|the cult]], and suggest that Talis should feign sickness tomorrow and ensure Dayne is protected.
 - Upon mentioning [[Maedra Lurith|Maedra]], [[Talis Greenway|Talis]] reveals she knows the [[Fey]], and considered her a misguided youth.
 - The party tell the Greenways about the [[Midnight Tears|poison]] and ask them to send agents to retrieve the poisoned wine.
 - [[Chamae]] is able to carry out some testing on the poisoned wine and confirms that it is tainted with the Qavrudian poison, Midnight Tears. The plan was to bring out the wine after midnight causing everyone to fall asleep. The theory is that this was intended to be done to brew suspicion between the leaders.

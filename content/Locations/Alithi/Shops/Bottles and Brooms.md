@@ -1,4 +1,4 @@
-Wonders is a run down magic store located on [[Lucanius#Notable Buildings & Locations#Northern Districts|Dwucliff Market Street]]. 
+Wonders is a run down magic store located on [[Lucanius|Dwucliff Market Street]]. 
 
 ---
 

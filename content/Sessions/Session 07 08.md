@@ -1,7 +1,7 @@
 - The party takes the suspected poison to [[High Lady Dawn]] to identify its effects and ask if traces were found on Nonna's body  
 - The [[Midnight Tears|poison]] mimics sleep but can cause death in higher dosage and is produced by [[Qavrud|Qavrud]]  
 - The party acquires holy water and confirms salt can trap the ghost  
-- The party discusses the ball incident with High Lady Dawn. She suspects [[Alithi|Alithi]] is behind the job and warns that [[Dinn Greenway]], son of High Leader [[Talis Greenway]], might be the next target  
+- The party discusses the ball incident with High Lady Dawn. She suspects [[Alithi|Alithi]] is behind the job and warns that [[Dayne Greenway]], son of High Leader [[Talis Greenway]], might be the next target  
 - With time before sunset, the party checks in on McMills' son and Mr. White's granddaughter  
 - McMills' son is on a boat with his father, and the mother promises to contact the party in the morning  
 - Mr. White's granddaughter recalls being given sweet tea and told to pass a test by [[The Sashed Paladins|paladins]]  

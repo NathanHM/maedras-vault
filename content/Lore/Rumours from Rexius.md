@@ -1,7 +1,7 @@
-### Echoes in the Graveyard – [[Lucanius#Notable Buildings & Locations#South Districts|Old Graveyard of Saint Immurel]], Honi  
+### Echoes in the Graveyard – [[Lucanius#Notable Buildings & Locations|Old Graveyard of Saint Immurel]], Honi  
 - A series of grave robbings have disturbed local families in the Honi District. A priestess from the local chapel is looking to hire someone to investigate  
 
-### Under the White Star – [[Lucanius#Notable Buildings & Locations#South Districts|The White Swan Coffee House]], Ostyer  
+### Under the White Star – [[Lucanius#Notable Buildings & Locations|The White Swan Coffee House]], Ostyer  
 - A scholar is looking for help as they think they're being stalked by someone  
 
 ### The Broken Shoe – Farrier, Ust End  
@@ -40,7 +40,7 @@
 ### Saltcoil Wharf – The Docks, Honi  
 - Crates marked with strange flame sigils have been seen unloaded at night  
 
-### Whispering Brew – [[Lucanius#Notable Buildings & Locations#South Districts|The White Swan Coffee House]], Ostyer  
+### Whispering Brew – The White Swan Coffee House, Ostyer  
 - The barista claims a regular left behind a “talking” stone and is interested in having someone find out more information  
 
 ### Further Leads:  

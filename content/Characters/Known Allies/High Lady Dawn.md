@@ -7,7 +7,7 @@ aliases:
 - High Lady Dawn was a [[Fey]] Changeling, but gave up her shapeshifting after [[Vel'Enar]] spoke to her and she joined the church
 - Dawn is centuries old, but looking good
 - Since joining the church she has had golden eyes, though a different shade to that [[Lord High Priest Ferox Thal]] had when possessed by [[The Emberheart]]
-- After resurrecting [[Dinn Greenway]], she lost her place in the cycle of life and death that the Church of Vel'Enar believes in
+- After resurrecting [[Dayne Greenway]], she lost her place in the cycle of life and death that the Church of Vel'Enar believes in
 - Since resurrecting [[Uta'ah]], she has seemingly lost her connection to Vel'Enar entirely
 
 ---
@@ -19,8 +19,8 @@ aliases:
 - Whilst kidnapped, she was [[Session 16|told]] that [[High Lady Dusk]] sanctioned the kidnappings, leaving her feeling conflicted
 - Dawn had a [[High Lady Dawn's Vision|vision]] from Vel'Enar that she [[Session 19|shared]] with the party
 - On the way to [[Lucanius]], she tells the party that [[Gilbert]] and [[Cyrena]] are siblings
-- She [[Session 33 34|joins]] the party as they enter [[Lucanius#Notable Buildings & Locations#Eastern Districts|The Forgotten Archive]] with [[Maedra Lurith|Maedra]] to try and recover information about [[Transport Circles]]
+- She [[Session 33 34|joins]] the party as they enter The Forgotten Archive with [[Maedra Lurith|Maedra]] to try and recover information about [[Transport Circles]]
 - She [[Session 40|reunites]] with the Greenways and High Lady Dusk at a party prior to [[The Peace Summit]]
 - Dawn [[Session 46|reveals]] that she has cast Revivify only once before, and is reluctant to do so again due to the consequences she faced. She refuses to tell the party who she saved.
 - Dawn [[Session 53|revivifies]] Uta'ah after he dies, after which she seemingly loses her connection to Vel'Enar. A flame sigil briefly appears on her forehead and her form momentarily begins to shift.
-- The Greenways take care of Dawn and inform the party that she previously revivified Dinn.
+- The Greenways take care of Dawn and inform the party that she previously revivified Dayne.

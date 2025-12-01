@@ -1,7 +1,7 @@
 ## Bio
 - Cobalt is a Dragonborn living in [[Lucanius]]
 - He makes a living selling maps
-- He dreamed of visiting [[Lucanius#Notable Buildings & Locations#Eastern Districts|The Forgotten Archive]]
+- He dreamed of visiting The Forgotten Archive
 - [[Cyrena]] likes him; [[Uta'ah]] does not
 
 ---

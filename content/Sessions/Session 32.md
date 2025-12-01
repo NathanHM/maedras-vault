@@ -1,26 +1,26 @@
 - The party set out individually to investigate different leads in [[Lucanius]]
 - [[Gilbert]] heads off to the Library to attempt to investigate the history of [[the Emberheart]], [[The Eternal Ember Cult|the cult]] and the [[Sunken Sanctum]].
 - Instead, he finds a book on Halflings
-- He goes to meet with [[Maedra Lurith|Maedra]], who seeks access to a sealed area in the [[Lucanius#**Notable Buildings & Locations**#Eastern Districts|Forgotten Archives]], for books on the origins of [[transport circles]]. The cult may be after these books
+- He goes to meet with [[Maedra Lurith|Maedra]], who seeks access to a sealed area in the [[Lucanius#Notable Buildings & Locations|Forgotten Archives]], for books on the origins of [[transport circles]]. The cult may be after these books
 - Maedra and Gilbert negotiate, with her agreeing to pay 130 gold per person, and Gilbert claims that the party has 11 members who will each need to be paid
 -  [[Uta'ah]] looks to find out what entertainment will be on hand during the summit
 - He learns a troop of fire dancers, the Velvet Ash will be preforming and that there is a masked jester in the [[Lucanius#Central Districts|Red district]] who may be passing secret messages via their cabaret act
 - A slam poet attempts to catch Uta'ah's eye, but is instead convinced to seek a better life than slam poetry can provide
-- [[Cyrena]] heads to [[Lucanius#Districts by Region#Eastern Districts|Great Hook]] to investigate a lead about [[The Missing Children|missing children]]
-- She learns of a preacher who has been talking of sacred flames in [[Lucanius#Districts by Region#Eastern Districts|Sunmore and Pharigg]].
+- [[Cyrena]] heads to [[Lucanius#Eastern Districts|Great Hook]] to investigate a lead about [[The Missing Children|missing children]]
+- She learns of a preacher who has been talking of sacred flames in [[Lucanius#Eastern Districts|Sunmore and Pharigg]].
 - There was a house fire in the [[Lucanius#Districts by Region#Northern Districts|Hialer]] area where the diplomats are staying, leaving scorched symbols on the floor. Speculation says that Demons were involved.
 - In the poor districts of the city, about 2 kids per week have been going missing. Someone is paying a lot of money to ensure missing bodies are not being reported
-- A man with a scorched arm has been seen speaking to a masked figure at dusk in the [[Lucanius#Districts by Region#Western Districts|Corat]] area.
+- A man with a scorched arm has been seen speaking to a masked figure at dusk in the [[Lucanius#Western Districts|Corat]] area.
 - [[Max]] tries to pursue some criminal contacts within the city
 - They hear that [[The Peace Summit|the summit]] may not even occur, one nation may walk away on the first day
-- Someone recently tried to bribe the Steward of [[Lucanius#Districts by Region#Central Districts|Lecone]] to access the summit with forged papers
+- Someone recently tried to bribe the Steward of [[Lucanius#Central Districts|Lecone]] to access the summit with forged papers
 - Foreign clerics have been heard in taverns talking about a [[Burning Dawn|divine cleansing]], which has gone unappreciated by locals. The party might be rewarded if they were to deal with these clerics
-- [[Lord High Priest Ferox Thal|Lord Ferox]]'s guards have arrived in the city, taking up the entire inn of the Merry Elf in [[Lucanius#Districts by Region#Western Districts|Yonebury]], but Ferox himself has not been seen
-- [[Chamae]] looks into the magical stores in [[Lucanius#Districts by Region#Northern Districts|Dwucliff]].
+- [[Lord High Priest Ferox Thal|Lord Ferox]]'s guards have arrived in the city, taking up the entire inn of the Merry Elf in [[Lucanius#Western Districts|Yonebury]], but Ferox himself has not been seen
+- [[Chamae]] looks into the magical stores in [[Lucanius#Northern Districts|Dwucliff]].
 - She finds three stores, the entry-level Abracadabra Amusements, the run-down [[Bottles and Brooms]] and the non-descript [[Wonders]].
 - Talking with the shopkeep in Bottles and Brooms, she buys a box to try and keep the [[Flame Orb|Flame Orbs]] protected from scrying. To get the box prepared with all the desired protections would cost some additional 6000 gold.
-- As the party reconvenes at [[Lucanius#**Notable Buildings & Locations**#South Districts|The Busted Halbred]] in Niconbury, Gilbert brings Maedra with him so that the party can together help her access the sealed section of the Forgotten Archives
-- Maedra claims the cult may be trying to remake their own transport circle in the west wing of the [[Lucanius#**Notable Buildings & Locations**#Central Districts|palace]], to redirect the power they channel to their own ends
+- As the party reconvenes at [[Lucanius#South Districts|The Busted Halbred]] in Niconbury, Gilbert brings Maedra with him so that the party can together help her access the sealed section of the Forgotten Archives
+- Maedra claims the cult may be trying to remake their own transport circle in the west wing of the [[Lucanius#Central Districts|palace]], to redirect the power they channel to their own ends
 - Gilbert shows Maedra one of the transport tokens. As she gets close to the token, she starts to de-age. The party figures out that she is channelling the power from the token and circle system into her own vanity spell.
 - Gilbert slips Maedra one of the potions that produce unpredictable effects. Maedra grows a third arm from her back, but she seems to take no notice.
 - Max and Cyrena figure out that Maedra is an Arch [[Fey]] of the Unseelie, and she does not notice the arm because she has had multiple arms before.
