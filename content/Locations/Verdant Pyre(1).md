@@ -1,4 +1,0 @@
-- The Verdant Pyre is a ruin where one of the four seals of the [[Sunken Sanctum]] can be found
-- The Pyre appears to be guarded by [[Myconids]]
-- It is located near [[Wynona]]'s home
-- Not actually sure what nation this is in
