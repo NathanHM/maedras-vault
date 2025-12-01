@@ -1,3 +1,7 @@
+- The Ashenhold is the primary stronghold of the cult
+- It houses about 75 soldiers and 20 oracles
+- The party have family members held within the cult
+--- 
 Perched high in the jagged peaks of [[Tayan]]’s northern mountains, the Fortress of Ashenhold is a grim and imposing bastion. Known for its cold stone walls, fierce winds, and perpetual mountain mists, Ashenhold is a vital military stronghold — but beneath its foundations lies something far older and far more dangerous.
 
 The fortress was unknowingly constructed over the ruins of an ancient site tied to the lost [[Vath'ira]] civilization — a people believed to have harnessed fire magic and powerful elemental forces before their catastrophic fall.

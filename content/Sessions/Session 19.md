@@ -4,7 +4,7 @@
 - [[Lera Vane|Lera]] is found and convinced of the party's identity; [[Uta'ah]] has a heart-to-heart with her
 - [[Gilbert]] breaks a mirror, gaining bad luck for 4 sessions (Nat 2s count as Nat 1s)
 - [[High Lady Dawn]] shares a [[High Lady Dawn's Vision|vision]] of four nations, flickering flames, and a choice between light and darkness
-- Dawn shares that she has previously hired mercenaries from [[Rellis Torne]], but no contracts have been offered in a while
+- Dawn shares that she has previously hired mercenaries from [[Rellis Thorne]], but no contracts have been offered in a while
 - [[Father Aldren]] and Dawn came up under the same High Lady, Aldren is now a roaming scholar
 - Some of the party members took one of the mysterious potions Gilbert stole, to wildly varying effects
 	- Gilbert becomes able to detect the thoughts of both people and plants

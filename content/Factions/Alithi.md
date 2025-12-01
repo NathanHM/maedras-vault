@@ -1,3 +1,19 @@
+---
+
+---
+## Leadership
+- Alithi is led by [[Lord Regent Titus]]
+- His apparent successor would be [[Halric Dain]]
+## Religion
+- The dominant religion is [[The Eternal Vine]]
+- The Eternal Vine was led by a priest, Tiberius, until he died during [[The Peace Summit]]
+- His apparent successor is [[Father Ophius]]
+## Locations
+- [[Lucanius]] is the capital city
+- [[Kilsa]] is a town located on the border with Rulif
+- There is a [[Vineyard]] located outside the city owned by Halric Dain
+- Another [[Derelict Vineyard]] is located some days travel beyond that
+---
 ## Public Education and Historical Narrative
 Citizens of Alithi are widely familiar with the devastating [[The War|war]] against [[Rulif]] and [[Tayan]]. Public education emphasizes Alithi’s role as a heroic liberator, portraying the conflict as a righteous campaign to save those living on contested lands. Rulif and Tayan are cast as aggressors who rejected Alithi’s teachings in favour of their own “savage” ways.
 The curriculum celebrates the joys of being part of the Alithi empire and protectorate, reinforcing a sense of national pride and unity. This narrative is deeply ingrained in the younger generation, though border towns often express more scepticism.

@@ -1,0 +1,3 @@
+- The war was a foundational conflict of Alithi and Tayan vs Rulif.
+- It occurred 20 years ago
+- That's about all we have. Maybe need to learn more about this at some point.

@@ -31,7 +31,7 @@
     - The mystery potions have unpredictable effects
     - The cult plans to assassinate [[Lord Regent Titus|Lord Titus]] at [[The Peace Summit]]
     - [[Halric Dain]] is a cult member and shadow power in Alithi and hopes to see the people collapse
-    - [[Rellis Torne]] is fuelling the conflict on the road with her mercenaries in a hope to become famous
+    - [[Rellis Thorne]] is fuelling the conflict on the road with her mercenaries in a hope to become famous
     - [[Merinth Tharrows|The Man]] is a real but unknown force
     - The priest does not know [[Lord Farquad]]
 - Session ends with the party debating whether to keep the priest alive as a spy or kill him to stay ahead of the cult

@@ -17,5 +17,5 @@
 - The Vault has four unlit braziers and an inscription: “Only the Worthy May Hold the Balance of Power”  
 - After solving a riddle, the room reveals a scorched pedestal in the middle and a fragmented map/compass on the wall.  
 - The map shows four symbols: a flame, a tree, a mountain, and a storm cloud—hinting at other ruin sites.
-- Flame links to current ruins, the tree to a forest in [[Rulif]], the mountain to a pass in [[Tayan]], and the storm to [[Stormhaven]]  
+- Flame links to current ruins, the tree to a forest in [[Rulif]] (potentially the [[Verdant Pyre]]), the mountain to a pass in [[Tayan]] (likely [[Ashenhold]]), and the storm to [[Stormhaven]]  
 - The session ends with the party finding a note saying “the burning in the flame”  

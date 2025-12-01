@@ -9,7 +9,7 @@
 - Suspecting the chandelier in the basement may be linked to the circle glyph, Gilbert cuts his leg and attempts to throw some blood on the chandelier. [[Uta'ah]] use his ice breath attack on it. These attempts result in absolutely nothing.
 - The party makes their way back upstairs to investigate and find the glyphs, unlocking the door.
 - The party split up as they investigate, each checking out different rooms.
-- As the party investigate, they begin to see through the illusion magic and find the library full of strange curios. They speculate that the library may be a weak point between the real world and the [[Feywild]].
+- As the party investigate, they begin to see through the illusion magic and find the library full of strange curios. They speculate that the library may be a weak point between the real world and the [[Fey|Feywild]].
 - [[Wynona]] finds a book, The Very, Very Hungry Chimera's Birthday Party. The book reminds her of the one her previous party used to help her learn to read.
 - Wynona also finds one of the glyphs, carved into a window frame. Unsure what to do with the glyph, she instead uses her axe to cleave the windowsill free and bring it to the party, but the glyph begins to fade as it moves from the moonlight.
 - Chamae finds one of the creatures, a small living lamp, named [[Chamae#Chamae's Constructs|Lin Lampwell Miranda]]. As she searches she looks into a chest which reveals itself to be a Mimic and grabs Chamae.

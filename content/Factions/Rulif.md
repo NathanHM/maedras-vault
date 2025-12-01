@@ -1,3 +1,10 @@
+## Leadership
+- Rulif is lead by [[Lowri Greenway]], and her wife [[Talis Greenway]]
+## Locations
+- [[Stormhaven]] is a town on the southern coast of Rulif, where the party first met
+- The [[Sunken Sanctum]] is said to be located just in the sea beyond Stormhaven
+- Close by Stormhaven is the [[Scorched Vath'iran Ruins]], the remnants of a great Vath'iran city that fell centuries ago.
+---
 ## Diplomatic Relations
 - **Alliance with [[Tayan]]**: Rulif’s alliance with Tayan was crucial in preventing [[Alithi]] from gaining excessive territory during their invasion. The two nations now maintain strong ties through festivals and open trade.  
 - **[[The War|War with Alithi]]**: The war, which occurred 20 years ago, left deep scars. A tentative peace was only reached after heavy losses on all sides. Older citizens remember the conflict vividly, while younger generations learn about it through biased historical accounts.

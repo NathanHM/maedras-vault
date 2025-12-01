@@ -1,0 +1,6 @@
+- The Vineyard was an outpost for [[The Eternal Ember Cult]]
+- The Vineyard is located a day or two's ride from [[Lucanius]]
+- There was a [[Flame Orb]] hidden within
+- The Vineyard is owned by [[Halric Dain]]
+- The Vineyard produces [[Siobhan]]'s favourite wine
+- [[Juliana]] was kept captive here until freed by the party

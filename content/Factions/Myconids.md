@@ -1,5 +1,5 @@
 The Myconids are a group of sentient Mushroom people. They communicate telepathically via spores, and exist within a fungal hive mind. They share senses and images to each other rather than words or direct questions. The Myconids are not inherently hostile, though can be wary of outsiders.
 
-The Myconids seem to originate from the [[Feywild]], though have been part of this realm for centuries. They are [[Session 28|known]] to reside in the [[Verdant Pyre]], but the party also [[Session 54|encountered]] them in the sewers beneath [[Lucanius]]. However, the Myconids do not consider a place to be home, but see the community as their home, centred on the leader of their network.
+The Myconids seem to originate from the [[Fey|Feywild]], though have been part of this realm for centuries. They are [[Session 28|known]] to reside in the [[Verdant Pyre]], but the party also [[Session 54|encountered]] them in the sewers beneath [[Lucanius]]. However, the Myconids do not consider a place to be home, but see the community as their home, centred on the leader of their network.
 
 The story of [[Floral Myths and Legends of the Known Realms#1. The Thorned Crown|The Thorned Crown]] seems to be based off Myconid history.

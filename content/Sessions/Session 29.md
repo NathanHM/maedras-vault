@@ -9,7 +9,7 @@
 - Children are picked to be sacrificed when they are shown to [[The Eternal Ember Cult#Flamekeepers|Oracles]] in visions
 - The cult intends to sacrifice the party to [[the Emberheart]], similar to how they use [[The Missing Children|children]]’s souls.
 - High Leader [[Talis Greenway]] is [[Fey]] and protected by a necklace; the cult tried to steal it to kill her and her [[Dinn Greenway|child]].
-- Fey lineage may allow the [[Feywild]] to bleed into this world, enabling more fey killings for cult benefit.
+- Fey lineage may allow the [[Fey|Feywild]] to bleed into this world, enabling more fey killings for cult benefit.
 - [[Ashenhold]] is built atop the vault where the First Flame Flickered and houses oracles.
 - Ashenhold has approximately 75 soldiers.
 - The oracles are based out of Ashenhold

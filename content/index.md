@@ -1,20 +1,19 @@
 ---
 title: Maedra's Vault
 ---
-
-# [[Session 54|Last Session...]]
-
-- [[Chamae]] sends her new familiar [[Chamae#Chamae's Constructs|Shifty]] to investigate the west wing, but finds no evidence of any imminent danger from any kind of [[Transport Circles]].
-- The party venture down into the sewers, dispatching a group of zombies and finding the deceased form of Trina Macbeth, and a note confirming the imposter awaits the party deeper in the sewers.
-- Pushing forward, the party meet a group of [[Myconids]] who reveal that the impostor is indeed [[Merinth Tharrows|The Man]], who waits with a Basilisk in a cistern not much further in.
+# [[Session 55|Last Session...]]
+- The party prepare themselves for battle with [[Merinth Tharrows|The Man]] and her Basilisk. They enter the cistern and find a [[Fey]] woman who says she was hired to challenge the party.
+- Battle ensues, but the Basilisk is unexpectedly dealt with when Gilbert uses his mystery potions, first healing the beast, then teleporting it to [[Kilsa]].
+- The group drown, electrocute and batter the reanimated ogres, and [[Chamae]] discovers the chest in the cistern is in fact a Mimic.
 
 ---
 # Our Agenda
 ## Immediate
-- Face off with The Man and her basilisk within the sewers
-- Apprehend The Man and think about what we need to learn form her
+- Kill the remaining ogre and Mimic
 - Investigate the presence of [[The Eternal Ember Cult]] in the sewers
+- Ensure the Myconids are safe
 - Verify that the west wing of the palace does not have any hidden threats
+- Keep our end of the bargain with [[Maedra Lurith|Maedra]]
 - Prevent [[Father Ophius]] from becoming the new head of [[The Eternal Vine]]
 ## Longterm
 - Save our family and friends from [[Ashenhold]]
@@ -23,7 +22,7 @@ title: Maedra's Vault
 - Find the Vath'iran vault underneath [[Ashenhold]], and the Sunken Sanctum seal within
 - Return to [[Stormhaven]] and potentially enter the [[Sunken Sanctum]]
 - Save [[Evangaline]] and [[The Missing Children]]
-- End [[Rellis Torne]] and [[Merinth Tharrows|The Man]]'s raids on [[The Caravan Raids|caravans]]
+- End [[Rellis Thorne]] and [[Merinth Tharrows|The Man]]'s raids on [[The Caravan Raids|caravans]]
 - Discover the identity of [[The Flamekeeper]]
 
 ---
