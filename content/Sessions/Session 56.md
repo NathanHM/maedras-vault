@@ -1,0 +1,14 @@
+- The party complete their battle, killing the Mimic and final Ogre. Investigating the remnants of the Mimic, the party find 3000(?) gold.
+- Returning to the [[Myconids]], the group try to determine their safety here withing the sewers. With the Basilisk gone, the Myconids suggest the threat has largely passed. For the time being they are safe here as they can only survive about an hour in the sun. Resolving to soon get the Myconids back to the [[Verdant Pyre]], the party debate options.
+	- [[Wynona]] recalls a [[Transport Circles|transport circle]] near the Verdant Pyre they could use, but the circles represent still uncertain dangers.
+	- [[Siobhan]] may be able to transport the Myconids across the continent, but would be unable to carry all the Myconids and the party in a single journey. 
+	- The party could take a caravan, but the roads are still in danger due to [[The Caravan Raids]] perpetrated by [[Merinth Tharrows]] and [[Rellis Thorne]].
+- Venturing back into the sewers, the party search for the [[The Eternal Ember Cult|Cult]] meetup spot the Myconids warned them about.
+- They find an underground chapel, decorated with Flames. The party realise this chapel has been used by the Cult as a location for recruitment drives, like [[Kilsa#Green Soldier|The Green Solider]] back in Kilsa, though it appears the chapel has not been used for some time.
+- Searching the chapel for the same potions they found in the [[Session 17 18|previous Cult recruitment]], [[Uta'ah]] manages to find another 28 potions under a bench.
+- [[Chamae]] and [[Max]] realise that the chapel is in fact an ancient [[Vath'ira|Vath'iran]] ruin which was incorporated into the sewers built around it.
+- Whilst a frustrated Uta'ah trashes the room, the party notice that the ceiling of the chapel is decorated with constellations. 
+- Chamae, Wynona and Uta'ah recognise various constellations from their cultures, but Chamae and Max manage to deduce that the star signs reveal the location of the [[Sunken Sanctum]]. They also calculate based off the position of the stars that the time indicated lines up with the [[War of the Ember]]. This also suggests to the group that the art was prophetic in nature, as Vath'ira fell prior to these events.
+- Meanwhile, [[Cyrena]] connects stars to create the same sacred glyph she [[Session 51|used on the table]]. Reaching out to whatever power she can, Cyrena asks for a blessing, and the whole party feel themselves grow stronger.
+- Exiting the sewers, the party encounter some guards, asking them to keep the sewers sealed and guarded, after they have retrieved the body of Trina Macbeth.
+- They reveal the talks are back underway, with most of the guards focused on the talks in the east wing. This opens the west wing up to investigation.
