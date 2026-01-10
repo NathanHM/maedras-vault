@@ -1,20 +1,18 @@
 ---
 title: Maedra's Vault
 ---
-# [[Session 55|Last Session...]]
-- The party prepare themselves for battle with [[Merinth Tharrows|The Man]] and her Basilisk. They enter the cistern and find a [[Fey]] woman who says she was hired to challenge the party.
-- Battle ensues, but the Basilisk is unexpectedly dealt with when Gilbert uses his mystery potions, first healing the beast, then teleporting it to [[Kilsa]].
-- The group drown, electrocute and batter the reanimated ogres, and [[Chamae]] discovers the chest in the cistern is in fact a Mimic.
+# [[Session 57|Last Session...]]
+- The party explored the west wing. They found [[Rose]] in the [[Lord Regent Titus]]'s chambers, some books in the [[Lord Votrin Deephelm]]'s room, and [[Vaela]] and [[Juliana]] were together in the [[Qavrud]] quarters.
+- The party aimed to clear some errands before continuing with their journeys. They received commissioned armour, and were asked to design their own insignia.
 
 ---
 # Our Agenda
 ## Immediate
-- Kill the remaining ogre and Mimic
-- Investigate the presence of [[The Eternal Ember Cult]] in the sewers
-- Ensure the Myconids are safe
-- Verify that the west wing of the palace does not have any hidden threats
+- Design our logo.
+- Wrap the peace talks and attend the closing party
 - Keep our end of the bargain with [[Maedra Lurith|Maedra]]
 - Prevent [[Father Ophius]] from becoming the new head of [[The Eternal Vine]]
+- Get the Myconids to the Verdant Pyre
 ## Longterm
 - Save our family and friends from [[Ashenhold]]
 - Discover the [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|true identity]] of [[Gilbert]] and [[Cyrena]]'s father
@@ -37,3 +35,4 @@ title: Maedra's Vault
 - They investigated a graveyard and helped free people from a Monastery of the Eternal Vine
 - As the peace talks were about to begin, they fought back an attempt to sabotage the events and positioned themselves to be present as guards
 - The peace talks fell apart when they were simultaneously sabotaged by an attack from the cult and a civilian uprising. They were successfully repelled, but the party almost died when the Emberheart attempted to attack, only to be saved by divine intervention.
+- [[Uta'ah]] briefly died whilst the party searched for an imposter who fled to the sewers beneath the palace. They repelled her Ogres and Basilisk, and find a group of [[Myconids]]. They promise to reunite the Myconids with the rest of their kind in the [[Verdant Pyre]].

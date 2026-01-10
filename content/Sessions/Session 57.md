@@ -1,0 +1,12 @@
+- With the majority of the guards within the palace focused on the talks in the east wing, the party decide to properly investigate the west wing.
+- They give a more thorough exploration to the rooms [[Chamae]] [[Session 54|previously]] investigated. They are still unable to find any evidence of any [[Transport Circles]] that would support [[Maedra Lurith|Maedra's]] [[Session 32|rumour]].
+- The party move to explore the private quarters of the [[Alithi]], [[Tayan]] and [[Qavrud]] factions. They find the Alithi and Tayan contingents down two ends of a corridor, with guards posted at the doors.
+- The party decide to feign a scream coming from further away to lure the guards. The guards fall for the distraction, with [[Gilbert]], [[Wynona]] and [[Uta'ah]] accompanying them.
+- [[Max]] investigates the Alithi room. There they find [[Rose]] and the other girls from the [[Kilsa#Pink Lotus|Pink Lotus]]. The bed is in the centre of the room on a raised platform. 
+- [[Chamae]] and [[Cyrena]] enter the Tayan room. They find a few books that seem of interest, a lodger and personal diary, both of which Chamae copies to memory so they may be decoded later. An additional ancient book features handwritten notes about foreign continents.
+- Whilst Gilbert Wynona and Uta'ah chase the fake scream alongside the guards, they find themselves outside the Qavrud contingent, where they hear a real scream from within. The guards are reluctant to enter to avoid a diplomatic incident, but agree to not mention anything if the party do.
+- Wynona, Gilbert and Uta'ah enter to find [[Vaela]] and [[Juliana]] in bed together within. A (once again) traumatised Gilbert casts invisibility on his mother. 
+- The party decide to pursue some errands and lingering threads before the day ends. Uta'ah speaks to the palace steward, and learns that the table was commissioned by Qavrud for the talks, and arrived four days ago. He also gains a writ to commission custom armour.
+- Cyrena and Gilbert go to sell off some of the goods the party has collected in their travels.
+- Uta'ah and Wynona go to speak with an armorer who can create armour for the party on a rush job, adorned with the party's very own insignia.
+- Someone remind me what Chamae and Max were up to during this.
