@@ -8,7 +8,7 @@ Seemingly as a consequence of being [[Divine Touch|Divine Touched]], the party r
 4. Hit yourself for minor damage
 5. Cast Fireball
 6. Weapon handle falls off
-7. 
+7. Bite your tongue, unable to speak for an hour
 8. Jazz hands
 9. The gods are angry at you
 10. Reroll 3 times
@@ -19,6 +19,6 @@ Seemingly as a consequence of being [[Divine Touch|Divine Touched]], the party r
 15. A terrible memory causes you to curl up in a ball
 16. Overwhelmed with the need to piss
 17. An elephant is summoned
-18. 
+18. Polymorph into a sheep
 19. Become dizzy and blinded
 20. A ghost from your past taunts you
