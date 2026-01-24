@@ -1,7 +1,6 @@
 ## Bio
 - Oop big mystery
 - Max is a Changeling from the [[Fey|Feywild]]
-- Max cannot recall their true name, having lost it in some deal
 - Max worked as an agent for both the [[Fey|Seelie and Unseelie]] court
 - Max has been [[Divine Touch|Divine Touched]] by [[Caelith]]
 

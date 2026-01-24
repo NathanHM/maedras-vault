@@ -8,6 +8,7 @@
 ## Story
 - Chamae was one of the founding members of the party
 - When the party [[Session 15|received ]] mail, she got a job offer from her old friend Quarkus, with a hidden message: “You're not safe, meet us in [[Stormhaven]] when you can”
+- Chamae learned to fly after a heart warming montage with [[Gilbert]].
 
 ---
 ## Chamae's Constructs

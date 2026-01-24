@@ -8,5 +8,6 @@
 - Wynona, Gilbert and Uta'ah enter to find [[Vaela]] and [[Juliana]] in bed together within. A (once again) traumatised Gilbert casts invisibility on his mother. 
 - The party decide to pursue some errands and lingering threads before the day ends. Uta'ah speaks to the palace steward, and learns that the table was commissioned by Qavrud for the talks, and arrived four days ago. He also gains a writ to commission custom armour.
 - Cyrena and Gilbert go to sell off some of the goods the party has collected in their travels.
+- Max gets the box in which the party are keeping the flame orbs enchanted, hoping to prevent any scrying.
+- Chamae stays behind to transcribe the books she acquired from Votrin's room.
 - Uta'ah and Wynona go to speak with an armorer who can create armour for the party on a rush job, adorned with the party's very own insignia.
-- Someone remind me what Chamae and Max were up to during this.

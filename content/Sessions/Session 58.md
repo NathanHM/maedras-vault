@@ -1,0 +1,15 @@
+- The party kick off their morning with a 30 minute montage as [[Gilbert]] helps [[Chamae]] [learn to fly](https://youtu.be/UIchWB4ic04?si=KWOH6bloaoajgLQk). It's beautiful and kind of [heart breaking](https://youtu.be/-AZcmx7bGmw?si=bBLMpkOfADrBREO1).
+- [[Uta'ah]] seeks out the steward who gave them a writ to commission armour and to ask for weapons as well. The steward gives them a writ to commission up to five weapons (and 20 gold for Uta'ah).
+- The party seek out the armourer to place their orders and decide to confront the issue of [[Father Ophius]], an ally of [[The Eternal Ember Cult]], being the presumptive candidate to succeed Father Tiberius as the next leader of [[The Eternal Vine]].
+- The church will hold a conclave today at noon where they will be sealed off and elect the next leader.
+- The group decide that they can prevent Father Ophius from succeeding by tarnishing his reputation enough that he will be unable to win the vote.
+- The church has mixed views on the use of indentured servitude, but spreading word that Ophius contingent all abandoned the church, lead by [[Barbarastreisand]], will likely damage his reputation amongst all factions.
+- Additionally, the church has unanimously negative views on grave robbings. Though the party cannot prove Ophius was responsible for the grave robbings, placing him under suspicion may be damaging enough.
+- The party split up to try and spread these rumours before the conclave begins. 
+- Uta'ah finds a church and spreads gossip to the nuns. [[Wynona]] finds a nun and manages to, after some difficulty, get them to understand the allegations against Ophius. Gilbert spreads the word to some monks he finds on the streets of the city.
+- After biting their tongue and losing the ability to speak, Max instead goes on a bar crawl in disguise as Father Ophius, imbibing exclusively of drink not of the vine, and shunning wine.
+- Chamae spreads copies of the evidence the party gathered against Ophius, duct taping them to the doors of churches.
+- Reconvening at the Niconbury Tavern, the party hear chatter of the town indicates that not only is the reputation of Father Ophius guttered, but the entire religion is now being doubted.
+- The party investigate the magic contracts binding [[Rose]] and her party. Chamae deduces that the contracts are not only with [[Lord Tom]], but magically are bound also [[The Emberheart]], and through it, something even older and more powerful.
+- Chamae successfully manages to dissolve the magic binding the contracts, freeing the adventurers from the magic that forced them to be willing participants in their roles.
+- As the party has a few more goals they seek to accomplish, Uta'ah goes to the town guard in disguise as an old lady to leave a tip about Ophius. After presenting the gathered evidence, and begging the guards to act quickly, they set out to arrest Ophius before the conclave begins.

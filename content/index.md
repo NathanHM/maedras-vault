@@ -2,16 +2,17 @@
 title: Maedra's Vault
 ---
 # [[Session 57|Last Session...]]
-- The party explored the west wing. They found [[Rose]] in the [[Lord Regent Titus]]'s chambers, some books in the [[Lord Votrin Deephelm]]'s room, and [[Vaela]] and [[Juliana]] were together in the [[Qavrud]] quarters.
-- The party aimed to clear some errands before continuing with their journeys. They received commissioned armour, and were asked to design their own insignia.
+- The party gained a writ to commission up to five magic weapons.
+- They spread rumours about Father Ophius, sinking his reputation alongside that of the entire church before the conclave to elect the next leader of [[The Eternal Vine]].
+- [[Chamae]] dissolved the magic binding [[Rose]] and the other adventures into servitude, and discovered that they magic of the contracts originated from the Emberheart and something even older.
 
 ---
 # Our Agenda
 ## Immediate
-- Design our logo.
+- Chamae and [[Max]] talk with [[Jameson Ludwig]]
+- Gilbert and [[Wynona]] investigate High Hill where the Conclave is about to commence
 - Wrap the peace talks and attend the closing party
 - Keep our end of the bargain with [[Maedra Lurith|Maedra]]
-- Prevent [[Father Ophius]] from becoming the new head of [[The Eternal Vine]]
 - Get the Myconids to the Verdant Pyre
 ## Longterm
 - Save our family and friends from [[Ashenhold]]
