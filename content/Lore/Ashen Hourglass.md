@@ -1,1 +1,1 @@
-Just some sample information to test git stuff.
+Just some sample information to test git stuff with an edit.
