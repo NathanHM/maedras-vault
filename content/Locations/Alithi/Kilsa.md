@@ -12,7 +12,7 @@ Kilsa is a border town, located on the edge of [[Rulif]] and [[Alithi]]
 ## Pink Lotus
 - The Pink Lotus is a brothel in Kilsa
 - Here the party met [[Rose]]
-- They [[Session 13|discussed]] a job protecting [[The Caravan Raids|caravans]] for [[Lord Tom]]
+- They [[Session 13|discussed]] a job protecting [[The Caravan Raids|caravans]] for [[Lord Tom Macavoy]]
 ## Purple Tulip
 - The Purple Tulip is the tavern where the party first stayed upon arriving in Kilsa
 - They were offered a week's stay by Bilbo

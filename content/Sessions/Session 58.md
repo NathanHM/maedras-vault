@@ -10,6 +10,6 @@
 - After biting their tongue and losing the ability to speak, Max instead goes on a bar crawl in disguise as Father Ophius, imbibing exclusively of drink not of the vine, and shunning wine.
 - Chamae spreads copies of the evidence the party gathered against Ophius, duct taping them to the doors of churches.
 - Reconvening at the Niconbury Tavern, the party hear chatter of the town indicates that not only is the reputation of Father Ophius guttered, but the entire religion is now being doubted.
-- The party investigate the magic contracts binding [[Rose]] and her party. Chamae deduces that the contracts are not only with [[Lord Tom]], but magically are bound also [[The Emberheart]], and through it, something even older and more powerful.
+- The party investigate the magic contracts binding [[Rose]] and her party. Chamae deduces that the contracts are not only with [[Lord Tom Macavoy]], but magically are bound also [[The Emberheart]], and through it, something even older and more powerful.
 - Chamae successfully manages to dissolve the magic binding the contracts, freeing the adventurers from the magic that forced them to be willing participants in their roles.
 - As the party has a few more goals they seek to accomplish, Uta'ah goes to the town guard in disguise as an old lady to leave a tip about Ophius. After presenting the gathered evidence, and begging the guards to act quickly, they set out to arrest Ophius before the conclave begins.

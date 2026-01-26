@@ -1,4 +1,4 @@
-- [[Jorvak]] reviews [[Lord Tom]]'s contract and finds a clause forcing dancer replacement if escort fails. What a smart cookie.
+- [[Jorvak]] reviews [[Lord Tom Macavoy]]'s contract and finds a clause forcing dancer replacement if escort fails. What a smart cookie.
 - The party returns to the [[Kilsa#Monastery of The Eternal Vine|Monastery of the Eternal Vine]] to meet [[Father Ellric|Lord Uvas]] about protection  
 - Lord Uvas is a dithering old man offering pearls and gold to avoid assassins; he has received threatening notes  
 - Uvas offers info about missing children taken every four days, heading to the [[Scorched Vath'iran Ruins|ruins]]

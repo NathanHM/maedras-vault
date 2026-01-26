@@ -12,6 +12,6 @@
 - The party [[Session 02|came to suspect]] he was involved with [[The Missing Children]] after gathering information at a masquerade ball
 - Farquad [[Session 09|denied]] his involvement
 - He claimed that he was told to support [[The Sashed Paladins]] by [[Merinth Tharrows|The Man]]
-- Farquad speculated that The Man was [[Lord Tom|Tom Macavoy]]. Did he truly not know?
+- Farquad speculated that The Man was [[Lord Tom Macavoy|Tom Macavoy]]. Did he truly not know?
 - Farquad was paying [[Vladimir Vladishkov|Vlad]] via bank transfer
 - The party [[Session 20 21|learn]] from Vlad that Farquad is involved with the abductions

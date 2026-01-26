@@ -5,7 +5,7 @@
 - Rupert, Farquad's right hand, escorts the party into the man, and they question Lord Farquad about kidnappings
 - Lord Farquad doesn't deny involvement, claiming his status makes it unlikely  
 - He was asked to support the [[The Sashed Paladins|paladins]] in blue by someone signed [[Merinth Tharrows|TM]]  for a house and favour 
-- Lord Farquad believes TM is [[Lord Tom|Tom Macavoy]] from [[Alithi]]  
+- Lord Farquad believes TM is [[Lord Tom Macavoy|Tom Macavoy]] from [[Alithi]]  
 - He doesn't know the gingerbread man (?) and claims his sister is dead, though he himself is not the one staying in the Family's home in the capital  
 - He invites the party to investigate his house, as he has nothing to hide
 - Rupert confirms letters from TM match handwriting from the ball note  

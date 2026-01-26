@@ -16,7 +16,7 @@
 - At the Purple Tulip, the inn is lively with soldiers, a bard, travellers, and a buff innkeep
 - The party redeems the voucher and settles into their rooms
 - The next morning, the party investigates job offers and visits a brothel, the [[Kilsa#Pink Lotus|Pink Lotus]]
-- They meet [[Lord Tom]] in a private booth to discuss escorting a caravan to the capital of [[Alithi]], [[Lucanius]]
+- They meet [[Lord Tom Macavoy]] in a private booth to discuss escorting a caravan to the capital of [[Alithi]], [[Lucanius]]
 - The job would commence in two days, and it would take them seven days of travel to reach the capital
 - The job pays 50gp each way and is due to dancers and caravans going missing on the road
 - The party says they'll return in a few days after discussing together
