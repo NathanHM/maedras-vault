@@ -3,7 +3,7 @@
 - She uses the Watership Down counting system
 - She suffers from face blindness for humans
 - Wynona was part of a previous adventuring party that fell apart after one member met a grim fate
-- Wynona has been [[Divine Touch|Divine Touched]] by [[Eryndor]] (?)
+- Wynona has been [[Divine Touch|Divine Touched]] by [[Eryndor]]
 
 ---
 ## Story
