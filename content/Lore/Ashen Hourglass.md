@@ -1,1 +1,1 @@
-Just some sample information to test git stuff with an edit. Testing via desktop now
+Just some sample information to test git stuff with an edit. Testing via desktop now. Now testing auto push.
