@@ -1,0 +1,2 @@
+- The Ashen Hourglass was mentioned in ancient Vath'iran writings uncovered by [[Tayan]]
+- Presumably this is the resevior of stolen time being channelled by the [[Transport Circles]]
