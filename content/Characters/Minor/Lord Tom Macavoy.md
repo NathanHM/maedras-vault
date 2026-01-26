@@ -6,4 +6,4 @@
 ## Involvement
 - The party [[Session 13|discussed]] a job with Tom that would have seen them act as escorts for a caravan of dancers heading to [[Lucanius]]
 - The contracts would have seen them required to replace the dancers if anything happened to them
-- [[Chamae]] [[Session 58|discovered]] that the contracts Tom had the dancers 
+- The party discovered that the dancers at the Lotus were former adventurers who had been bound by their contracts 
