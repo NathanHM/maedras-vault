@@ -30,4 +30,4 @@ Alithi’s laws are imposed top-down by an external authority across the sea, cr
 - Limited regional autonomy  
 Recently, fringe groups along the borders have begun pushing back against these policies, particularly the indoctrination of children and the heavy-handed enforcement of national duty. These tensions hint at underlying fractures within Alithi’s otherwise unified national identity.
 
-![[Continent Map.png]]
+![[Thania - Nations Map.png]]

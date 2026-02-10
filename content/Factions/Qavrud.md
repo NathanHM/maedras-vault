@@ -22,4 +22,4 @@ Despite the rigidity of daily life, Qavrud’s culture includes large communal f
 - **Alcohol consumption**: Strictly prohibited except during designated feast days tied to religious celebrations.
 These festivals serve as ritualized outlets for expression, indulgence, and spiritual ecstasy, reinforcing the balance between order and chaos central to Virelya’s teachings.
 
-![[Continent Map.png]]
+![[Thania - Nations Map.png]]

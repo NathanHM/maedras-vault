@@ -17,4 +17,4 @@
 - **Clan System**: Rulif is governed by a network of clans, each adhering to a set of shared laws while also imposing regional regulations.  
 - **The High Leader**: Elected during a Moot, the High Leader was originally a ceremonial figure overseeing communal goods. Since the war, the role has gained importance as a centralized authority.  
 - **The Moot**: Moots are typically held every 5 to 10 years, but may be called earlier if over half the clans believe the High Leader is overstepping their bounds.
-![[Continent Map.png]]
+![[Thania - Nations Map.png]]

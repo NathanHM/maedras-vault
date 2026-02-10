@@ -22,4 +22,4 @@ Tayan’s society is structured around a highly regulated and hierarchical guild
 - **Social Impact**: While the existence of the Tarnished reinforces adherence to guild law, it also breeds discontent among the disenfranchised, hinting at potential unrest beneath Tayan’s orderly surface.
 ---
 
-![[Continent Map.png]]
+![[Thania - Nations Map.png]]
