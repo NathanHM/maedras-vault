@@ -1,27 +1,3 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-body {
-  background-image: url("../logo.PNG");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
-  background-size: contain; /* or 'auto' or 'cover' depending on your preference */
-  pointer-events: none; /* ensures it never interferes with content */
-}
-
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background-image: url("/img/background.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: contain;
-  opacity: 0.15;
-  pointer-events: none;
-  z-index: -1;
-}
