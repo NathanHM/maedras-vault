@@ -8,8 +8,8 @@ title: Maedra's Vault
 ---
 # Our Agenda
 ## Immediate
-- Chamae and [[Max]] talk with [[Jameson Ludwig]]
-- Gilbert and [[Wynona]] investigate High Hill where the Conclave is about to commence
+- Chamae, [[Max]] and Uta'ah talk with [[Jameson Ludwig]]
+- Gilbert, Cyrena and [[Wynona]] investigate the Conclave and potential leaders
 - Wrap the peace talks and attend the closing party
 - Keep our end of the bargain with [[Maedra Lurith|Maedra]]
 - Get the Myconids to the Verdant Pyre
