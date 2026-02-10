@@ -1,10 +1,8 @@
 ---
 title: Maedra's Vault
 ---
-# [[Session 57|Last Session...]]
-- The party gained a writ to commission up to five magic weapons.
-- They spread rumours about Father Ophius, sinking his reputation alongside that of the entire church before the conclave to elect the next leader of [[The Eternal Vine]].
-- [[Chamae]] dissolved the magic binding [[Rose]] and the other adventures into servitude, and discovered that they magic of the contracts originated from the Emberheart and something even older.
+# [[Session 59|Last Session...]]
+- 
 
 ---
 # Our Agenda
