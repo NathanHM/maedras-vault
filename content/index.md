@@ -2,7 +2,8 @@
 title: Maedra's Vault
 ---
 # [[Session 59|Last Session...]]
-- 
+- Gilbert and Cyrena investigated the Conclave, talking to a potential candidate for the next Pope of the Vine
+- Chamae, Max and Uta'ah went to Scholars Tower and learned from Gary that the Transport Circles were harvesting potential time from their users. The party have more potential, so more time is stolen from them.
 
 ---
 # Our Agenda
