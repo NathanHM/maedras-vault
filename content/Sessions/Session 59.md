@@ -1,0 +1,4 @@
+- With the party split up, [[Cyrena]] joins [[Gilbert]] as he investigates the conclave, whilst [[Max]] and [[Chamae]] go to the Scholars Tower to try and answer some of their questions.
+- At the conclave, Cyrena disguises herself and blends into the crowd, whilst Gilbert bluffs his way in by pretending to be a contractor.
+- Gilbert attempts to help Cyrena gain access, but Cyrena grows distrustful after a [[Divine Consequence]] causes her and the rest of the party to forget Gilbert.
+- 
