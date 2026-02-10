@@ -6,4 +6,5 @@
 - Speaking with INSERT NAME HERE, they learn that he would be glad to become the next "Pope Daddy", but is ineligible to be elected as he has not been a Father of the Vine for long enough. Gilbert and Cyrena try to convince him he should run in spite of this, making it the first of his progressive reforms.
 - Meanwhile, Chamae and Max arrive at the tower, and are joined by [[Uta'ah]]. Max requests to meet with [[Jameson Ludwig]], potentially also known as Jameson Jr. Jr., but are told he is currently unavailable.
 - After a period of waiting, they are taken to meet with a colleague of Jameson's, Gary. Gary appears frayed, and seems to have a non-linear perception of time, simultaneously perceiving multiple potential universes.
-- Gary explains 
+- Gary explains, based off Jameson's notes and his own understanding, when the circles take time from their users, they steal not only the time taken but the potential of the person within that time. As the party have become more significant players, their potential has grown, leading to the larger amount of time stolen when they use the circles.
+- 
