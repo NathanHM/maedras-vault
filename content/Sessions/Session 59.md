@@ -1,4 +1,7 @@
 - With the party split up, [[Cyrena]] joins [[Gilbert]] as he investigates the conclave, whilst [[Max]] and [[Chamae]] go to the Scholars Tower to try and answer some of their questions.
 - At the conclave, Cyrena disguises herself and blends into the crowd, whilst Gilbert bluffs his way in by pretending to be a contractor.
 - Gilbert attempts to help Cyrena gain access, but Cyrena grows distrustful after a [[Divine Consequence]] causes her and the rest of the party to forget Gilbert.
-- They both gain access and try to learn what they can. They observe that the clergy avoid mentioning 
+- They both gain access and try to learn what they can. They observe that the clergy avoid mentioning either Father Tiberius, who died at the summit, or [[Father Ophius]].
+- Gilbert learns that Father INSERT NAME HERE is mentioned as a strong candidate for the next Pope of the Vine. After he convinces Cyrena he is a member of the party, they go to talk to INSERT NAME HERE.
+- Speaking with INSERT NAME HERE, they learn that he would be glad to become the next "Pope Daddy", but is ineligible to be elected as he has not been a Father of the Vine for long enough. Gilbert and Cyrena try to convince him he should run in spite of this, making it the first of his progressive reforms.
+- Meanwhile, Chamae and Max arrive at the Wiz
