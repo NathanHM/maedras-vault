@@ -2,14 +2,14 @@
 title: Maedra's Vault
 ---
 # [[Session 59|Last Session...]]
-- Gilbert and Cyrena investigated the Conclave, talking to a potential candidate for the next Pope of the Vine
-- Chamae, Max and Uta'ah went to Scholars Tower and learned from Gary that the Transport Circles were harvesting potential time from their users. The party have more potential, so more time is stolen from them.
+- The party met Layla Swing in the palace courtyard, an international pop sensation and old school mate of Gilbert’s. Uta’ah was starstruck when she signed his abs.
+- A pair of wizards manipulated the sigils in the transport circle, and summoned a group of elementals. The party are still locked in combat against the wizards and elementals.
+- Uta’ah is sheep.
 
 ---
 # Our Agenda
 ## Immediate
-- Chamae, [[Max]] and Uta'ah talk with [[Jameson Ludwig]]
-- Gilbert, Cyrena and [[Wynona]] investigate the Conclave and potential leaders
+- Defeat the elementals and wizards.
 - Wrap the peace talks and attend the closing party
 - Keep our end of the bargain with [[Maedra Lurith|Maedra]]
 - Get the Myconids to the Verdant Pyre
