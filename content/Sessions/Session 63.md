@@ -1,1 +1,2 @@
-- The party head into the palace to seek out the adventurers, now freed from their contracts as entertainers.
+- The party head into the palace to seek out the adventurers, now freed from their contracts as entertainers. They track them back to the Alithi quarters in the palace. They hear shouting from within.
+- The guards say that the adventurers have claimed the quarters, and some time ago a man entered and they have been shouting since. On [[Uta'ah]]'s insistence, the group go to find [[Juliana]]
