@@ -5,6 +5,7 @@
 - Max arrives as Layla departs the fight.
 - [[Cyrena]] attack Sheep Uta'ah, returning him to his Dragonborn form.
 - Some devastating attacks from the elementals leave Cyrena and Gilbert nearly unconscious, but the party rally and manage to defeat the creatures.
+- As guards arrive, the party instruct them to destroy the sigils in the ground and get rid of the transport circle permanently.
 - One of the wizards is killed, the other is incapacitated. On the body of the dead wizard, a letter is found instructing the wizards to investigate the circle and uncover what went wrong with the previous summoning. The letter is signed [[The Flamekeeper|F]].
 - The party interrogate the surviving wizard, but quickly uncover that he is a recent recruit with little information to offer. He joined the cult at an initiation with a Flamekeeper and an oracle. He joined the cult for the sign up bonus of 50 gold, which he gave to his grandmother, who has since been taken captive to ensure continued loyalty.
 - Feeling sorry for him, the party fake his death and smuggle him in Lifty, to be dealt with at a later date.

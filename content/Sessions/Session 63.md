@@ -1,0 +1,1 @@
+- The party head into the palace to seek out the adventurers, now freed from their contracts as entertainers.
