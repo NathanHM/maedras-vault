@@ -1,3 +1,5 @@
 - The party head into the palace to seek out the adventurers, now freed from their contracts as entertainers. They track them back to the Alithi quarters in the palace. They hear shouting from within.
 - The guards say that the adventurers have claimed the quarters, and some time ago a man entered and they have been shouting since. On [[Uta'ah]]'s insistence, the group go to find [[Juliana]] but unable to find her they return to the chambers.
-- Inside, they find [[Rose]] shouting at [[Lord Tom Macavoy]], [[Flora]] crying and being comforted by Juliana
+- Inside, they find [[Rose]] shouting at [[Lord Tom Macavoy]], [[Flora]] crying and being comforted by Juliana whilst [[Leaf]] silently packs. 
+- Tom insists that the adventurers entered their contracts willingly, and the consequences of failing to protect the caravan was known to them. He claims he has copies of the contracts back at his office, and he knows that the party stole the originals and dissolved them. 
+- When Tom accuses [[Chamae]] of being emotional, [[Wynona]] and Uta'ah beat him unconscious. Tom is then bound head to toe in duct tape.
