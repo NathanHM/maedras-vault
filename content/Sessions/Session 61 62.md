@@ -2,4 +2,8 @@
 - In the courtyard, Gilbert spots a pair of wizards manipulating the sigils on the ground that previously were used to summon a water elemental. Before he can stop them, the wizards manage to activate the glyphs, summoning a range of elementals to fight the party.
 - The party leap into combat. Uta’ah moves around the battlefield stunning the various elementals and [[Wynona]] keeps a pair focused on her away from the rest of the group. Gilbert manipulates one of the wizards into attempting to un-summon the creatures, and Layla attempts to mimic the sounds of fire to talk one of the elementals into suicide.
 - A disastrously bad turn sees Uta’ah turned into a sheep as a [[Divine Consequence]].
-- The session ends with the elementals hurt, but none downed.
+- Max arrives as Layla departs the fight.
+- [[Cyrena]] attack Sheep Uta'ah, returning him to his Dragonborn form.
+- Some devastating attacks from the elementals leave Cyrena and Gilbert nearly unconscious, but the party rally and manage to defeat the creatures.
+- One of the wizards is killed, the other is incapacitated. On the body of the dead wizard, a letter is found instructing the wizards to investigate the circle and uncover what went wrong with the previous summoning. The letter is signed [[The Flamekeeper|F]].
+- The party interrogate the surviving wizard, but quickly uncover that he is a recent recruit with little information to offer. 
