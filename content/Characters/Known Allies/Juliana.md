@@ -18,3 +18,5 @@ aliases:
 	- A roguish elf, said to be very talented with rope
 	- An Elf Juliana remembers for his diamond nipple and pearl penis piercings.
 - She [[Session 40|further]] traumatises Gilbert when she takes a Bard upstairs, and he hears noises that distinctly remind him of his favourite childhood lullaby
+- After the fight at the peace talks, she is found in bed with [[Vaela]], unaware of her past relationship with Gilbert.
+- She comforts the adventurers after they were freed from their contracts with [[Lord Tom Macavoy]]

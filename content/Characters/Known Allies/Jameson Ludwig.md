@@ -3,6 +3,7 @@
 - A fanatic at heart, Jameson is well educated but willing to make leaps of logic
 - Jameson fears [[Maedra Lurith]]
 - He believes [[Chamae#Chamae's Constructs|Manny]] to be a living [[Vath'ira|Vath'iran]] 
+- Though he considers himself an expert in the transport circles, he does not hold a high position within the scholars of Luconius
 
 ---
 ## Involvement

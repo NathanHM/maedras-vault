@@ -7,6 +7,7 @@
 - [[Wynona]] is the unwilling object of Titus' affections
 - Titus fears an imminent invasion of [[Kalamari|octopi]]
 - Titus may have some questions to address about their gender identity
+- Titus younger cousin is the ruler of Alithi proper, and has refused to name Titus the ruler of the Alithi province of Thania
 
 ---
 ## Involvement

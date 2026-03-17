@@ -2,8 +2,9 @@
 
 ---
 ## Leadership
-- Alithi is led by [[Lord Regent Titus]]
+- The Thanian province of Alithi is led by [[Lord Regent Titus]]
 - His apparent successor would be [[Halric Dain]]
+- The continent of Alithi is ruled by Titus’ cousin
 ## Religion
 - The dominant religion is [[The Eternal Vine]]
 - The Eternal Vine was led by a priest, Tiberius, until he died during [[The Peace Summit]]

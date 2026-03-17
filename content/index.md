@@ -1,17 +1,17 @@
 ---
 title: Maedra's Vault
 ---
-# [[Session 59|Last Session...]]
-- The party met Layla Swing in the palace courtyard, an international pop sensation and old school mate of Gilbert’s. Uta’ah was starstruck when she signed his abs.
-- A pair of wizards manipulated the sigils in the transport circle, and summoned a group of elementals. The party are still locked in combat against the wizards and elementals.
-- Uta’ah is sheep.
+# [[Session 64 - The Bathtub Saga|Last Session...]]
+- The party attended to the now freed adventurers, previously forced into servitude by [[Lord Tom Macavoy]]. The combined parties kill Tom once they confirm that the adventurers will not be pursued. The adventurers decide to investigate the Ashenhold whilst the party go to the Verdant Pyre.
+- After talking to Kalamari, Lera is freed from his service, and the octopi decide to investigate the Sunken Sanctum.
+- To transport the octopi over land, Cyrena, Chamae and Uta’ah embark on an epic quest to create the most incredible bathtub of all time. As they finalise their creation, the peace talks come to an end.
 
 ---
 # Our Agenda
 ## Immediate
-- Defeat the elementals and wizards.
-- Wrap the peace talks and attend the closing party
+- Attend the closing party
 - Keep our end of the bargain with [[Maedra Lurith|Maedra]]
+- Say goodbye to the octopi and the adventurers
 - Get the Myconids to the Verdant Pyre
 ## Longterm
 - Save our family and friends from [[Ashenhold]]
