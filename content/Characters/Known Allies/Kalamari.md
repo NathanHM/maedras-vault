@@ -5,7 +5,7 @@
 - He is dedicated to helping the party combat [[The Eternal Ember Cult]] as he believes them a threat to Nuloran's supposed goals
 - He is not overly fond of the party. [[Wynona]] is his favourite, and [[Gilbert]] his least
 - He is captivated by [[Paella]], another octopus the group summoned.
-- [[Lera Vane]] serves Kalamari as his familiar
+- [[Lera Vane]] once served Kalamari as his familiar, now freed she acts instead as his translator.
 
 ---
 ## Involvement
@@ -18,3 +18,5 @@
 - Whilst the party make their way to [[Lucanius]], Kalamari somehow acquires the services of Lera as his familiar
 - Whilst in Lucanius, Kalamari [[Session 31|falls for]] Paella, another octopus. Together they set off for the docks to [[Rumours from Rexius|investigate]] 
 - The party [[Session 49 50|next]] see Kalamari when he is accidentally summoned during [[The Peace Summit]]. Wynona, [[Uta'ah]] and [[Cyrena]] escort him away to the Greenways room
+- After being confronted by [[Uta'ah]] and the party, Kalamari agrees to free Lera, unaware of the pain she felt as his familiar.
+- He and Paella decided to investigate the [[Sunken Sanctum]]

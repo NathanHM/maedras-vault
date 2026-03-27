@@ -9,6 +9,7 @@ aliases:
 - The [[Vineyard]] owned by [[Halric Dain]] produces her favourite wine
 - She and her sisters hunt in [[Lucanius#West Districts|The White Swan Coffee Shop]]
 - She takes a particular interest in [[Uta'ah]]
+- Siobhan has a sister, Sarah
 
 ---
 ## Involvement

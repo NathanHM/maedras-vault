@@ -5,6 +5,7 @@
 - Uta'ah was taught that magic only truly existed in the heart, and anything else was simply a trick
 - Uta'ah was [[Divine Touch|Divine Touched]] by [[Lyneth]]
 - Uta'ah briefly died before being brought back by [[High Lady Dawn]]
+- After breifly being polymorphed into a sheep, Uta’ah has gained the ability to talk to sheep, octopi and rabbits.
 
 ---
 ## Story
