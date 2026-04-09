@@ -9,6 +9,7 @@ aliases:
 - Since joining the church she has had golden eyes, though a different shade to that [[Lord High Priest Ferox Thal]] had when possessed by [[The Emberheart]]
 - After resurrecting [[Dayne Greenway]], she lost her place in the cycle of life and death that the Church of Vel'Enar believes in
 - Since resurrecting [[Uta'ah]], she has seemingly lost her connection to Vel'Enar entirely
+- Dawn had a past fling with [[Maedra Lurith]] prior to joining the church and giving up her shape shifting 
 
 ---
 ## Involvement
