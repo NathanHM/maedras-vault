@@ -1,1 +1,0 @@
-- [[Chamae]] is drawn 
