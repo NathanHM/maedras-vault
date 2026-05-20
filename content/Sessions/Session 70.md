@@ -10,4 +10,4 @@
 - The following morning, the party set out to resolve any lingering threads in [[Lucanius]] before they set out for the Verdant Pyre. 
 - Max resolves to get a blank cheque from the nations leaders to fund their adventures, and to visit the barracks where [[The Eternal Ember Cult]] were based in the city. 
 - Chamae uses the sending stone to tell [[Lady Visyra]] where to find more barrels of the aged wine for some further 100,000 gold on top of the last sale. 
-- [[Uta'ah]] 
+- [[Uta'ah]] arranges for a caravan to go to the palace to transport the Myconids to a transport hub, where an attendee will be able to take them to a circle near the Pyre. A failed attempt to persuade the patrons to give him their coats so that he may cover the Myconids as they travel under the sun sees him suffer consecutive [[Divine Consequence]]s. The party forget him as he summons an elephant in the tavern, injuring the patrons he was attempting to convince.
