@@ -1,0 +1,2 @@
+- At the bottom floor of the crypt, [[Layla Swing]] is teleported away by her personal security rendering their journey into the crypts meaningless. The group decide to investigate regardless.
+- 
