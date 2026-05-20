@@ -1,11 +1,9 @@
 ---
 title: Maedra's Vault
 ---
-# [[Session 67|Last Session...]]
-- [[Max]] reunited with the party after spending some days in the [[Fey|Feywild]], honing their relationship with their new familiar, uncovering their connection to [[Ceylira]] and developing their new divinatory abilities.
-- [[Uta'ah]] made an offering to Ceylira to help him make better choices, and requested to have [[Lady Mid]] help take care of [[High Lady Dawn]].
-- The party realised that the woman who noticed the dimmed flame was seemingly a Fae named [[Iotrareno]], and was observing the flame for her own reasons. They nearly came to a fight with her and evacuated the temple, but Max prayed to Ceylira and managed to banish her.
-- Whilst in the temple, the party resolved to uncover their connection to their patron gods, and Uta’ah was hit with a fireball after climbing the statue of [[Vel'Enar]].
+# [[Session 70|Last Session...]]
+- [[Max]] provided a tarot reading for [[Chamae]] as the pair delve into her new memory of the [[Fey|Feywild]].
+- The party seek to resolve their business in Lucanius, [[Uta'ah]] attempts to get the Myconids to a transport circle and Max goes to seek resources from the nation leaders.
 
 ---
 # Our Agenda
@@ -26,7 +24,7 @@ title: Maedra's Vault
 ---
 # The Story So Far
 
-- The party first assembled at a Masquerade ball, where they saved [[Talis Greenway]] from having her amulet stolen.
+- The party f[Maxirst assembled at a Masquerade ball, where they saved [[Talis Greenway]] from having her amulet stolen.
 - They started investigating [[The Missing Children]], finding they were being taken by a [[The Eternal Ember Cult|Cult]] dedicated to an ancient deity known as [[the Emberheart]].
 - They chased leads down and found themselves in the [[Scorched Vath'iran Ruins|Scorched Ruins]] of the city of [[Vath'ira]], where they found a painting of the Emberheart.
 - They investigated the cult's presence in [[Kilsa]], and had run-ins with a leader amongst the cult, [[Vladimir Vladishkov]]
