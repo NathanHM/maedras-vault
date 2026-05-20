@@ -3,9 +3,6 @@
 - Inside, they find [[Rose]] shouting at [[Lord Tom Macavoy]], [[Flora]] crying and being comforted by Juliana whilst [[Leaf]] silently packs. 
 - Tom insists that the adventurers entered their contracts willingly, and the consequences of failing to protect the caravan was known to them. He claims he has copies of the contracts back at his office, and he knows that the party stole the originals and dissolved them. 
 - When Tom accuses [[Chamae]] of being emotional, [[Wynona]] and Uta'ah beat him unconscious. Tom is then bound head to toe in duct tape.
-<<<<<<< HEAD
-- Speaking with Rose,
-=======
 - Speaking with Rose, she reveals that whilst under the control of Tom, the adventurers were used as bait luring other parties on the road, where they were attacked by mercenaries wielding [[Rellis Thorne|black blades]].
 - To determine if there are other copies of the contracts, the party must interrogate Tom. With him unconscious, the party need to read his mind. To accomplish this they decide to trial some mystery potions which had previously given [[Gilbert]] the ability to detect thoughts.
 - Wynona, Uta’ah and Chamae each drink two potions. Chamae gains mental fortitude and starts secreting gasoline. Wynona loses all of her fur. Uta’ah’s scales turn teal and he receives an ominous vision in which he sees either [[Max]] or [[Cyrena]] sinking into black liquid.
@@ -18,4 +15,3 @@
 - He attempts to throw Kalamari out of his bath, but is struck by a [[Divine Consequence]] rendering him blind and dizzy. Slipping and falling in the bath, Uta’ah commands Kalamari to release Lera.
 - Wynona talks with Kalamari, whilst Uta’ah finds that after his period as a speech, he has in fact gained the ability to talk with some animals. Now able to actually communicate, they talk with Kalamari and [[Paella]]. It is revealed that Kalamari was unaware of the duress Lera was under, and with some prompting from Paella, he prays to [[Nuloran]] to release Lera and give him a different familiar. Hearing his call, Lera is freed.
 - The octopi decide to go to the ocean and investigate the [[Sunken Sanctum]]. To reach the ocean, they will need to stay hydrated. The group decide to attach wheels to a bathtub so that they may ride out in it. 
->>>>>>> origin/v4
