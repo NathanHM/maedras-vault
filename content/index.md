@@ -8,10 +8,12 @@ title: Maedra's Vault
 ---
 # Our Agenda
 ## Immediate
-- Get the Myconids to the Verdant Pyre
 - Investigate the Cult's barracks.
 - Clean out a magic store.
 - Leave Lucanius.
+- Get the Myconids to the Verdant Pyre
+- Locate the seal hidden at the Verdant Pyre
+- Stop the Cult activities in the Verdant Pyre
 ## Longterm
 - Save our family and friends from [[Ashenhold]]
 - Discover the [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|true identity]] of [[Gilbert]] and [[Cyrena]]'s father
