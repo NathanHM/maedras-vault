@@ -1,2 +1,4 @@
 - At the bottom floor of the crypt, [[Layla Swing]] is teleported away by her personal security rendering their journey into the crypts meaningless. The group decide to investigate regardless.
-- 
+- On the bottom floor, the group find the tombs of the original Ladies of the [[Motherhood of Vel'Enar]]. 
+- [[Cyrena]] casts Light upon [[Gilbert]]'s moustache to provide light for the party to see. 
+- [[Chamae]] reads the Vath'iran inscription on one of the tombs. They reveal the first Ladies to be akin to apostles of [[Vel'Enar]], believing in him so strongly that he became more defined and they became part of his worship. 
