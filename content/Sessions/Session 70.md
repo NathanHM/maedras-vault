@@ -1,0 +1,10 @@
+- As the rest of the party rests, [[Chamae]] turns to [[Max]] to discuss her memory, as they suspect it occurred in the [[Fey|Feywild]].
+- Chamae recalls standing in a forest clearing, where she spoke with an old woman who felt wrong to Chamae.
+- Max identifies the forest as part of the Feywild and the lady as likely a Hag. To try and help her understanding, Max does a Tarot reading for Chamae.
+- The first card is the Talon, representing someone predators and prey. The pair suspect this represents the Hag.
+- The second card is the Comet, representing escalation, and how that day may have gotten out of Chamae's control.
+- The third card is the Prisoner, representing that something has been locked away. This causes the two to question if Chamae's memories were lost, or if it was her decision to seal them away.
+- The fourth card is the Undead, representing grudges. Max speculates that Chamae may have wound up in the middle of a conflict between the Fey courts.
+- The final card is the Celestial, suggesting miracles and divine connection. Possibly [[Ceylira]] was involved in what happened to Chamae that day.
+- Chamae reveals that she tried not to think of her past and her Fey nature, as she felt divorced from the person she was and she had no Fey connection to learn more about her history, though she appreciates having Max to help her learn more.  She also reveals that after she lost her memory, she was found by a group of artisans near the [[Verdant Pyre]] before going to stay with them.
+- The following morning, the party set out to resolve 
