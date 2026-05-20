@@ -1,0 +1,4 @@
+- The party investigate the shrines, trying to sense which gods they may be drawn to. [[Chamae]] particularly has a moment where she recovers some memories by the shrine of [[Ceylira]].
+- The party reunite with [[Layla Swing]], who has developed a taste for danger after her encounter fighting elementals with the party [[Session 61 62|earlier that day]].
+- To support Layla, [[Uta'ah]] suggests they investigate the crypts of the church, where he is convinced they will find some undead to fight.
+- 
