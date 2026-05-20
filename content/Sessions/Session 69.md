@@ -8,4 +8,8 @@
 - Seeing an unknown stranger in the corner where an Evil presence was detected, and not knowing where Gilbert has gone, the party mistake Gilbert for the Evil entity and move to attack.
 - Chamae and Cyrena investigate the evil in the other corner. Gilbert avoids Uta'ah's strikes and attempts to flee, but is dropped by [[Max]].
 - The party recognise Gilbert as he falls unconscious and the magic affecting him ends. Before they can react four ghosts emerge from the walls, and one possesses Uta'ah.
-- The ghost, speaking through Uta'ah, reveals they are the guardians of the tomb and will protect its secrets. They attempt to 
+- The ghost, speaking through Uta'ah, reveals they are the guardians of the tomb and will protect its secrets. They attempt to fight the party to prevent them from leaving.
+- A moment of reprieve from his possession allows Uta'ah to Channel Divinity and turn the undead to flee.
+- After a failed interrogation of the ghost possessing Uta'ah, the group grab Gilbert and return to [[High Lady Dawn]] and [[Lady Mid]] before the other ghosts can return.
+- Assuming that the party read all the tombs, Dawn tells the party of the full inscription. The stories tell of how the worship of Vel'Enar was able to bring the deity into being, and that a long time ago the secret of this worship was stolen. The timeline suggests that this form of worship may be what created the Emberheart. 
+- The party return to the The Busted Halberd to finally get some rest, as Chamae starts to recall the memory she received from [[Ceylira]].
