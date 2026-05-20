@@ -2,3 +2,10 @@
 - On the bottom floor, the group find the tombs of the original Ladies of the [[Motherhood of Vel'Enar]]. 
 - [[Cyrena]] casts Light upon [[Gilbert]]'s moustache to provide light for the party to see. 
 - [[Chamae]] reads the Vath'iran inscription on one of the tombs. They reveal the first Ladies to be akin to apostles of [[Vel'Enar]], believing in him so strongly that he became more defined and they became part of his worship. 
+- There are an additional set of tombs on this level of the crypt, younger than the others, presumably the second generation of Ladies.
+- Cyrena detects an Evil presence emanating from the corners of the room, where the light has not touched. After casting Protection from Evil and Good on him, [[Uta'ah]] tosses Gilbert with his glowing moustache into the corner to try and reveal the presence.
+- When nothing emerges, Gilbert attempts a musical performance, but a [[Divine Consequence]] renders the rest of the party unable to recognise him.
+- Seeing an unknown stranger in the corner where an Evil presence was detected, and not knowing where Gilbert has gone, the party mistake Gilbert for the Evil entity and move to attack.
+- Chamae and Cyrena investigate the evil in the other corner. Gilbert avoids Uta'ah's strikes and attempts to flee, but is dropped by [[Max]].
+- The party recognise Gilbert as he falls unconscious and the magic affecting him ends. Before they can react four ghosts emerge from the walls, and one possesses Uta'ah.
+- The ghost, speaking through Uta'ah, reveals they are the guardians of the tomb and will protect its secrets. They attempt to 
