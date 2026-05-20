@@ -3,4 +3,4 @@
 - Inside, they find [[Rose]] shouting at [[Lord Tom Macavoy]], [[Flora]] crying and being comforted by Juliana whilst [[Leaf]] silently packs. 
 - Tom insists that the adventurers entered their contracts willingly, and the consequences of failing to protect the caravan was known to them. He claims he has copies of the contracts back at his office, and he knows that the party stole the originals and dissolved them. 
 - When Tom accuses [[Chamae]] of being emotional, [[Wynona]] and Uta'ah beat him unconscious. Tom is then bound head to toe in duct tape.
-- Speaking with Rose
+- Speaking with Rose,
