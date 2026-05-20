@@ -1,4 +1,9 @@
 - The party investigate the shrines, trying to sense which gods they may be drawn to. [[Chamae]] particularly has a moment where she recovers some memories by the shrine of [[Ceylira]].
 - The party reunite with [[Layla Swing]], who has developed a taste for danger after her encounter fighting elementals with the party [[Session 61 62|earlier that day]].
 - To support Layla, [[Uta'ah]] suggests they investigate the crypts of the church, where he is convinced they will find some undead to fight.
-- 
+- In the first level of the crypt, they find the tombs of the previous ladies of the [[Motherhood of Vel'Enar]]. A thick layer of dust covers the tombs of the previous Dawn and Dusk, and a lighter layer over Mid and Night.
+- Each tomb is guarded by a glyph of warding, cast by the current holders of the title.
+- The party recall a rumour of a Lady of the church who was not in fact a lady, a scandalous event but one that occurred long ago.
+- Investigating beyond the first level, the group discover the crypt goes down a further 90 floors. Uta'ah leaps down from banister to banister and, as the rest of the group follow, he dares [[Cyrena]] to jump down and he will catch her, which she unexpectedly does.
+- A combination of his new Misty Step ability and a Thunder Clap from Layla allows Uta'ah to reach high enough to catch Cyrena, but a [[Divine Consequence]] renders him blind and dizzy at the moment of catching, causing them both to fall.
+- Chamae uses Vortex Warp to save Cyrena whilst Uta'ah manages to land gracefully due to his acrobatic training. Cyrena leaps into Uta'ah's arms upon landing, convincing him that he successfully caught her.
