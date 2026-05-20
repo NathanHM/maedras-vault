@@ -1,0 +1,8 @@
+- [[Cyrena]] joins [[Uta'ah]] on the dance floor, and pulls him aside to speak with the entire party. The party try to prompt him to open up about what Cyrena learned, but Uta’ah is oblivious to what they are getting at.
+- [[Gilbert]] tricks Uta’ah into opening up by convincing him that a slice of cake is magically imbued and makes the eater speak the truth. When prompted to speak on how his feelings, Uta’ah confesses that alongside feeling drunk and tired, he also feels like he shouldn’t really be here.
+- He tells the party that he feels [[High Lady Dawn]] made the wrong choice bringing him back, and that his poor choices have lead to Dawn and [[Lera Vane]]’s lives being ruined. 
+- The party try to reassure him that Dawn and Lera are better off for him, and that Uta’ah has saved and rescued others. Uta’ah tells [[Chamae]] that he recognises Dawn is smarter than him, so doesn’t think she was wrong, but cannot reconcile the choice emotionally.
+- The group talk to Uta’ah about opening up more with his feelings, and try to organise nightly sessions where the group teach each other, helping Uta’ah learn to read.
+- Realising the time, the party head to the Temple of Four Lights to meet with Dawn. On the way, [[Wynona]] accidentally uses her Lay on Hands on herself to regrow her fur. Shortly after, a [[Divine Consequence]] turns her into a sheep.
+- The party arrives at the temple. There’s a large statue of [[Vel'Enar]] in the centre, with four alcoves around the corners, each bearing a flame. Gilbert notices that the dark violet flame seems dimmed.
+- Spotting, Dawn praying by the golden flame, the party go to speak with her whilst Uta’ah goes to speak with other priests at the temple.

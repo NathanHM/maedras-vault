@@ -1,7 +1,7 @@
 ## Bio
 - Maedra is an Unseelie Arch [[Fey]]
 - Racist against Dragonborns
-- Maedra is a past lover of [[Juliana]]
+- Maedra is a past lover of [[Juliana]] and [[High Lady Dawn]]
 - Maedra is accustomed to having multiple limbs
 - She maintains her appearance with a vanity spell
 - Maedra is an unpopular figure among the Fey
@@ -21,3 +21,5 @@
 - She [[Session 36|agrees]] to meet the party at a celebration on the second day of [[The Peace Summit]] 
 - The party inadvertently [[Session 52|summon]] Maedra by saying her name three times. She says she was summoned due to their "tainted blood".
 - She brands [[Lord High Priest Ferox Thal]] with symbols to prevent him from being possessed by [[The Emberheart]], in turn for [[Uta'ah]]'s greatest secret, getting high with Cyrena and a bucket of blood from [[Wynona]]. She collects the bucket from Wynona, and promises to recoup from Uta'ah and Cyrena later.
+- Meeting the party at the closing celebrations, she wins all of Gilbert’s money and the promise of a favour from him, so long as it does not go against any of the current party’s morals.
+- Uta’ah confesses to her his greatest secret, that he feels it was the wrong choice to being him back to life. She tells Cyrena this when she fulfils her part of the bargain.

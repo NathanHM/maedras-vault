@@ -8,6 +8,7 @@ aliases:
 - She decided to move to [[Qavrud]] after meeting priests of [[Worship of Virelya|Virelya]]
 - Is an aide to but has not fucked [[Lord High Priest Ferox Thal]]
 - Gilbert claims they had a bad breakup and were toxic on both sides
+- Vaela’s best friend from Bard college is international pop sensation [[Layla Swing]]
 
 ---
 ## Involvement

@@ -32,28 +32,27 @@ Followers often hold celebrations when new life enters the world, as they believ
 ## The Primary Quadrants (Domains of Influence)  
 The pantheon divides into four key areas of influence, each reflecting a vital aspect of existence. Each quadrant contains gods connected by theme or purpose.  
 
-### 1. Nature and Renewal (Cycles of Growth and Change)  
-- **[[Ceylira]] – Goddess of Nature and Growth**: Represents the natural world and its nurturing forces.  
-- **[[Thalana]] – Goddess of Harvests**: Focuses on abundance, sustenance, and the culmination of growth.  
-- **[[Veyradin]] – God of Fertility and Creation**: Oversees procreation, creativity, and the spark of life.  
-- **[[Ilyra]] – Goddess of Light and Renewal**: Symbolizes healing, recovery, and hope after hardship.  
+### 1. Mid - Nature and Renewal (Cycles of Growth and Change)  .  
+- **[[Ilyra]] – Goddess of Light and New Beginnings** 
+- **[[Nuloran]] – God of Storms and Sea**
+- **[[Rilana]] – Goddess of Nature's Balance and Survival**
+- **[[Eryndor]] - God of Forests and Beasts**
 
-### 2. Mortality and the Mind (Wisdom, Emotion, and the Journey of Life)  
-- **Nuloran – God of Wisdom and Knowledge**: Guides mortals with intellect and understanding.  
-- **[[Rilana]] – Goddess of Love and Compassion**: Embodies emotional bonds and human connection.  
-- **[[Lyneth]] – Goddess of Beauty and Joy**: Celebrates the pleasures and artistry of life.  
-- **[[Caelith]] – God of Dreams and Prophecy**: Reveals the mysteries of the future and inner truths through visions.  
+### 2. Dawn - Mortality and the Mind (Wisdom, Emotion, and the Journey of Life)  
+- **[[Lyneth]] – Goddess of Compassion and Peace**
+- **[[Myraes]] - Goddess of Home and Community**
+- **[[Ceylira]] – Goddess of Renewal and Light**
+- **[[Arvendris]] – Goddess of Art and Inspiration**
+### 3. Night - Strength and Survival (Resilience and Endurance)  
+- **[[Torvin]] – God of Strength and Resilience**
+- **[[Veyradin]] – God of Justice and Order**
+- **[[Othelar]] – God of Passion and Valor** 
 
-### 3. Strength and Survival (Resilience and Endurance)  
-- **[[Torvin]] – God of Strength and Resilience**: Represents physical and emotional endurance.  
-- **[[Thalana]] – Goddess of Harvests**: Shares a role here due to the importance of survival through sustenance.  
-- **[[Veyradin]] – God of Fertility and Creation**: His influence spans survival through generative forces.  
-
-### 4. Change and the Unknown (Secrets, Trickery, and Transformation)  
-- **[[Ilhara]] – Goddess of Change and Trickery**: Represents the inevitability of change and the power of adaptation.  
-- **[[Valtoris]] – God of Shadows and Secrets**: Embodies the hidden and mysterious aspects of life.  
-- **[[Arvendris]] – God of War and Ambition**: Channels the raw energy of conflict and ambition as forces of transformation.  
-- **[[Othelar]] – God of Death and Judgment**: Balances Ilhara and Valtoris by representing the final, impartial judgment in life's journey.  
+### 4. Dusk - Change and the Unknown (Secrets, Trickery, and Transformation)  
+- **[[Ilhara]] – Goddess of Destiny and Fortune**  
+- **[[Valtoris]] – God of Endings and Rest**
+- **[[Caelith]] – Goddess of Knowledge and Memory**
+- **[[Thalana]] – Goddess of Night and Secrets**
 
 ---
 ## How They Connect to [[Vel'Enar]]  

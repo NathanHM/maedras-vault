@@ -14,3 +14,4 @@
 - At the summit, Dusk speaks in favour of peace
 - When violence breaks out, Dusk heals a downed member of [[The Eternal Ember Cult]]
 - After the fight, [[Session 53|she is confined]] in an anti-magic room
+- When the party visited the Temple of Light, the flame representing Dusk’s quadrant of deities seemed dimmed
