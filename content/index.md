@@ -3,12 +3,11 @@ title: Maedra's Vault
 ---
 # [[Session 70|Last Session...]]
 - [[Max]] provided a tarot reading for [[Chamae]] as the pair delve into her new memory of the [[Fey|Feywild]].
-- The party seek to resolve their business in Lucanius, [[Uta'ah]] attempts to get the Myconids to a transport circle and Max goes to seek resources from the nation leaders.
+- The party seek to resolve their business in Lucanius, [[Uta'ah]] attempts to get the Myconids to a transport circle and Max goes to seek resources from the nation leaders and investigate the cult's barracks.
 
 ---
 # Our Agenda
 ## Immediate
-- Uncover the identities of our patron gods
 - Get the Myconids to the Verdant Pyre
 - Locate the seal hidden at the Verdant Pyre
 - Stop the Cult activities in the Verdant Pyre
@@ -24,7 +23,7 @@ title: Maedra's Vault
 ---
 # The Story So Far
 
-- The party f[Maxirst assembled at a Masquerade ball, where they saved [[Talis Greenway]] from having her amulet stolen.
+- The party first assembled at a Masquerade ball, where they saved [[Talis Greenway]] from having her amulet stolen.
 - They started investigating [[The Missing Children]], finding they were being taken by a [[The Eternal Ember Cult|Cult]] dedicated to an ancient deity known as [[the Emberheart]].
 - They chased leads down and found themselves in the [[Scorched Vath'iran Ruins|Scorched Ruins]] of the city of [[Vath'ira]], where they found a painting of the Emberheart.
 - They investigated the cult's presence in [[Kilsa]], and had run-ins with a leader amongst the cult, [[Vladimir Vladishkov]]
