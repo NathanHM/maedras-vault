@@ -22,7 +22,9 @@ title: Maedra's Vault
 - Save [[Evangaline]] and [[The Missing Children]]
 - End [[Rellis Thorne]] and [[Merinth Tharrows|The Man]]'s raids on [[The Caravan Raids|caravans]]
 - Discover the identity of [[The Flamekeeper]]
-
+---
+# [Calendar](https://www.mithrilalmanac.com/defaultView/f9e7af40-ce0a-11ef-a5cd-a992aee0a5cd)
+-  **Current Date -** 26th Fatemarch 1235
 ---
 # The Story So Far
 
