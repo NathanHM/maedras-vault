@@ -9,3 +9,5 @@
 - Chamae reveals that she tried not to think of her past and her Fey nature, as she felt divorced from the person she was and she had no Fey connection to learn more about her history, though she appreciates having Max to help her learn more.  She also reveals that after she lost her memory, she was found by a group of artisans near the [[Verdant Pyre]] before going to stay with them.
 - The following morning, the party set out to resolve any lingering threads in [[Lucanius]] before they set out for the Verdant Pyre. 
 - Max resolves to get a blank cheque from the nations leaders to fund their adventures, and to visit the barracks where [[The Eternal Ember Cult]] were based in the city. 
+- Chamae uses the sending stone to tell [[Lady Visyra]] where to find more barrels of the aged wine for some further 100,000 gold on top of the last sale. 
+- [[Uta'ah]] 
