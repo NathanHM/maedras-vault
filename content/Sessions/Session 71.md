@@ -1,0 +1,5 @@
+- [[Max]] speaks with [[Lord Regent Titus]], and secures a writ to seek lodging in Alithi taverns and inns, and a ring that will allow them to contact the leaders in an emergency.
+- [[Uta'ah]] and [[Gilbert]] go to the palace to shuttle the [[Myconids]] to a transport hub. Uta’ah hires a caravan brigade, and tells them to bill [[Lord Votrin Deephelm]] the cost, about 11,000 gold.
+- The Myconids are successfully brought to the caravans and sent off without being seen or esposed to the sun. Uta’ah also trades some jewellery to the guards in order for them to provide the cult member in the sewers with food until the Ashenhold falls.
+- [[Chamae]] heads to the library to research various topics. She finds a few books of relevance.
+- Chamae and Max then meet at the magic shops, [[Bottles and Brooms]] and [[Wonders]], where they pick up the now fully enchanted box to protect the [[Flame Orb]]s from scrying and discuss other magical items that may be of aid to the party.

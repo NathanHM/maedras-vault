@@ -1,15 +1,16 @@
 ---
 title: Maedra's Vault
 ---
-# [[Session 70|Last Session...]]
-- [[Max]] provided a tarot reading for [[Chamae]] as the pair delve into her new memory of the [[Fey|Feywild]].
-- The party seek to resolve their business in Lucanius, [[Uta'ah]] attempts to get the Myconids to a transport circle and Max goes to seek resources from the nation leaders and investigate the cult's barracks.
+# [[Session 71|Last Session...]]
+- [[Uta'ah]] and [[Gilbert]] sent the [[Myconids]] to a transport circle to be brought to the [[Verdant Pyre]].
+- [[Chamae]] received some books from the library, and she and [[Max]] went shopping.
 
 ---
 # Our Agenda
 ## Immediate
 - Investigate the Cult's barracks.
 - Clean out a magic store.
+- Read books.
 - Leave Lucanius.
 - Get the Myconids to the Verdant Pyre
 - Locate the seal hidden at the Verdant Pyre
