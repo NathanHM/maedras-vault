@@ -1,0 +1,16 @@
+- With the shopping complete and the Mcyonids sent away, the party set about saying their goodbyes before leaving Luconius.
+- [[Uta'ah]] goes to have a final visit with [[Siobhan]] before leaving, during which Siobhan gives Uta’ah a sending stone in the form of a belly button piercing, and Uta’ah gains a powerful sword for Max from her hoard.
+- [[Chamae]] speaks to [[High Lady Dawn]] on the memories she received from [[Ceylira]]. Dawn suggests to Chamae that she incorporates the ritual of the Dawn’s Grace into her daily routine to feel a closer connection to Ceylira.
+- Upon returning to the Busted Halberd, Chamae finds the jewellery box Uta’ah stole from [[Lord Regent Titus]], which he has carved his name into and left as a present. When he returns, the two hug, and agree that she will help him learn to read and write as they collaborate on their own take of the Hungry Chimera for [[Wynona]].
+- [[Gilbert]] says farewell to his mother, and finds out she is headed on to Tayan. She receives a sending stone to stay in contact, and the two encourage each other to use protection.
+- [[Max]] scouts out the barracks where the cult is said to be based and is joined by Gilbert. The two rent a room together in the Happy Horsey Horsetime brothel so that they can use Max’s new Crystal Ball to try and scry on the cult within the barracks.
+- Having gained a vague idea as to where the entrance to the underground barracks is, the two retrieve Uta’ah and Chamae so that they may pose as construction workers whilst the two dig down and infiltrate the barracks with a spell scroll.
+- In the barracks, the pari find a door similar to the one the party passed through during the cult initiation in [[Kilsa]]. Passing through the door, they feel only one presence.
+- They also observe murals that look reminiscent to the ones seen in the [[Scorched Vath'iran Ruins]].
+- They find maps of the [[Verdant Pyre]], troop movements around the [[Ashenhold]], and a map of [[Stormhaven]] with areas crossed out, suggesting their failed attempts to find the [[Sunken Sanctum]].
+- They find a table inscribed with the same runes found on the one during the peace summi, seemingly linking to the same location as that one.
+- They find another room with a transport circle, and it seems to be the room described by [[Rupert]], the kidnapped child who the group rescued.
+- They also find some ancient transport tokens, which Gilbert steals, opening up all 3 areas of the ancient network to the party.
+- The pair leave the barracks unnoticed, and their entrance is sealed behind them.
+- The party gather on a tower overlooking Luconius and reflect on the impact they’ve had on the city before they leave.
+- Chamae uses her new teleport spell to transport the group to her artisans workshop where the party will rest before heading on to the Verdant Pyre.

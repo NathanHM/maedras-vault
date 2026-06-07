@@ -1,0 +1,12 @@
+- The party arrive at [[Chamae]]’s workshop. They meet the artisan’s neighbour, Rowan Brindle, who has been tending the workshop in their absence, and Chamae’s four mechanical dogs Gold, Copper, Silver and Bronze(?).
+- Chamae apologises for being gone so long, and informs Rowan that the artisans have been kidnapped by [[The Eternal Ember Cult]].
+- Rowan recognises [[Wynona]] as one of the [[Red Rabbits]], Wynona’s tribe whom he bears great respect for.
+- The party are introduced into Chamae’s other creations at the workshop, including a mechanical sheep that mows the lawn, a bunny that cleans up, and a trolley that servers tea and alcohol. 
+- [[Uta'ah]] becomes emotional watching Chamae return home and reflect on her growth, so the party build a blanket fort to comfort him.
+- Feeling the warmth and safety that only a blanket fort can provide, the group feel like sharing where they are at.
+- [[Gilbert]] admits he is still reeling somewhat from what he discovered about his mother, and his remorse for what happened between him and [[Rose]] since he found out she was not in her right mind.
+- Uta’ah speaks on his fragile emotional state after coming back to life, and reaffirms to the group that whilst he is still struggling to process, he knows that he will be okay due to the support of his friends.
+- [[Wynona]] gives the group some guidance about navigating her family when they reach the [[Verdant Pyre]]. She says she will go hunting for an offering to bring them before they arrive. She talks about her experience growing up near the Pyre, and how she was sent out as a representative as the most social member of her tribe.
+- The group ask [[Max]] about their time in the [[Fey|Feywild]], both their recent visit and growing up there. Max says they trained with Lovra to master their new abilities. After much prompting, they also reveal some of their breakdancing skills they learned under their Dance Instructor, who is currently kidnapped by the cult.
+- Chamae reflects on how much she has grown since leaving the workshop and speaks on her new memory of the Feywild. Uta’ah assures her that whoever the woman was, if she wronged Chamae, then the group will make sure to repay her in kind, and if Chamae decides to pursue her old memories or not, she will have the full support of the group.
+- A pillow fight breaks out as the night draws to a close.

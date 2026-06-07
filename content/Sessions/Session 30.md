@@ -4,7 +4,7 @@
 - The group speculate about Chamae's [[Fey]] origins prior to her amnesia, why she may have lost her memories and how they may be returned
 - [[Uta'ah]] tells the story of how he was taught by his mother that magic was not real, only for him to learn from his acrobat instructor, [[Master Fizziwinkle's Travelling Wonders#Members|Miss Haley]], that magic did exist- within the heart.
 - Gilbert proceeds to bully Uta'ah by summoning an illusion of a trapeze
-- [[Max]] fields some questions about their mysterious past, confirming that they are indeed a Changeling, and that they cannot recall their true name due to dealings in the [[Fey|Feywild]] with both the Seelie and Unseelie
+- [[Max]] fields some questions about their mysterious past, confirming that they are indeed a Changeling, and that their name was once Anavan. Back in the [[Fey|Feywild]] they had dealings with both the Seelie and Unseelie.
 - [[Wynona]] tells of the lost claw, a quest she experienced with her previous adventuring party, though she is reluctant to admit the story actually occurred to her.
 - [[Cyrena]] explains her origins within the Druids' Circle, causing the party to realise that Gilbert and Cyrena both have absent Half-Elf fathers. Noting on this connection, [[High Lady Dawn]] works some spell craft and the group uncovers that Cyrena and Gilbert are in fact siblings.
 - In addition, the party learn that [[Lera Vane]], largely unattended by the party since she was picked up in [[Kilsa]], has now become a human familiar to [[Kalamari]]
