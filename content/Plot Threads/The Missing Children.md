@@ -17,3 +17,4 @@
 - A cultist [[Session 15|reveals]] that the plan is to steal exactly 48 children
 - The cultist target children for various attributes such as strength, intelligence, cunning
 - Whilst kidnapped, Dawn overheard that Dusk had sanctioned the kidnappings
+- The party [[Session 19|learned]] from a vision that [[Dayne Greenway]] was the next target of the cult.
