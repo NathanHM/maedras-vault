@@ -1,15 +1,16 @@
 - Transport Circles are an ancient artefact in the continent of Thania. Built long ago, potentially before Vath'ira, they are a commonly used method of transportation for people.
 - The transport circles seem to be connected to [[Ley Lines]], being placed along them.
-- The party discovered that they were losing time when using the transport circles. 
+- The party discovered that they were losing time when using the transport circles. [[Jameson Ludwig]] confirmed to the party that all people lose time, but the party are the only people he has known to lose significant amounts of time ([[Session 47]]).
+- 
 ---
 # Transport Map
-- [[Session 14|Solving a puzzle]] in the Vault of the Ascended, an ancient Transport Hub beneath the [[Scorched Vath'iran Ruins]] revealed an old map of circles across Alithi and Rulif connected to that hub.
+- Solving a puzzle in the Vault of the Ascended, an ancient Transport Hub beneath the [[Scorched Vath'iran Ruins]] revealed an old map of circles across Alithi and Rulif connected to that hub ([[Session 14]]).
 
 ![[Transport_Map.jpg]]
 
 ---
 # Kilsa Library Book
-- The party [[Session 20 21|found]] a book concerning transport circles in a library in Kilsa
+- The party found a book concerning transport circles in a library in Kilsa ([[Session 20 21]]).
 ## Origins & Early Use
 - The earliest known references to transport circles describe them as creations of an ancient cabal of scholars, artificers, and priests who sought to connect the great cities of the world. The records do not name this cabal directly, but they may have been tied to the fallen Vath'ira civilization or an even older culture.  
 - Legends claim the circles were originally fuelled by a mysterious core of energy — often described as a flame that never dies or a light that endures beneath the earth. Some scholars believe this refers to the Emberheart or its scattered fragments.  
