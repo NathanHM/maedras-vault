@@ -1,14 +1,13 @@
 - Transport Circles are an ancient artefact in the continent of Thania. Built long ago, potentially before Vath'ira, they are a commonly used method of transportation for people.
-
+- The party discovered that
+---
 # Transport Map
-
 - [[Session 14|Solving a puzzle]] in the Vault of the Ascended, an ancient Transport Hub beneath the [[Scorched Vath'iran Ruins]] revealed an old map of circles across Alithi and Rulif connected to that hub.
 
 ![[Transport_Map.jpg]]
 
 ---
 # Kilsa Library Book
-
 - The party [[Session 20 21|found]] a book concerning transport circles in a library in Kilsa
 ## Origins & Early Use
 - The earliest known references to transport circles describe them as creations of an ancient cabal of scholars, artificers, and priests who sought to connect the great cities of the world. The records do not name this cabal directly, but they may have been tied to the fallen Vath'ira civilization or an even older culture.  
