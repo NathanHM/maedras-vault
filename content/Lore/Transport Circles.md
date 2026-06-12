@@ -1,18 +1,23 @@
 - Transport Circles are an ancient artefact in the continent of Thania. Built long ago, potentially before Vath'ira, they are a commonly used method of transportation for people.
+- Cities and towns have Transport Hubs, managed services that provide transport via circles with employees who can act as guides.
+- The destination when travelling can be unpredictable, but is dictated by the token used, the intent of where to arrive, and the network used. 
 - The transport circles seem to be connected to [[Ley Lines]], being placed along them.
+- Their are multiple networks of transport circles, the new networks are believed to be Vath'iran and the old networks existed before then. Different tokens are required for different networks.
 ## Lost Time
-- The party discovered that they were losing time when using the transport circles. [[Jameson Ludwig]] confirmed to the party that all people lose time, but the party are the only people he has known to lose significant amounts of time ([[Session 47]]).
-- [[Gary]] told the party that the their significance in the current events of the world is what was causing them to lose more time than others, and that what was being taken was not just time but the potential impact they could have had in that time ([[Session 59]]).
-- [[Uta'ah]] disagreed with the math Gary proposed regarding the factors defining the time the party lost. After some discussion they came to the formula: $$P=SD^T $$where P is the potential, S is the party's current significance, D is the distance travelled, and T is the time lost. Given that S and D are both fixed by the people travelling and the destination, their must be some other factor that is setting P or T beyond the parties' own significance, which Gary agreed to investigate on behalf of the party ([[Session 60]]).
+- The party discovered that they were losing time when using the transport circles. [[Jameson Ludwig]] confirmed to the party that all people lose time, but the party are the only people he has known to lose significant amounts of time. ([[Session 47]])
+- [[Gary]] told the party that the their significance in the current events of the world is what was causing them to lose more time than others, and that what was being taken was not just time but the potential impact they could have had in that time. ([[Session 59]])
+- [[Uta'ah]] disagreed with the math Gary proposed regarding the factors defining the time the party lost. After some discussion they came to the formula: $$P=SD^T $$where P is the potential, S is the party's current significance, D is the distance travelled, and T is the time lost. Given that S and D are both fixed by the people travelling and the destination, their must be some other factor that is setting P or T beyond the parties' own significance, which Gary agreed to investigate on behalf of the party. ([[Session 60]])
+- The stolen potential time seems to be channelled into the [[Ashen Hourglass]], which [[The Eternal Ember Cult]] hopes to use to decay the magic sealing [[The Emberheart]]. ([[Session 45]])
+- [[Maedra Lurith]] also has some interest in the transport circles, potentially using the time within the Ashen Hourglass to extend her life. She is able to syphon this magic from a transport token. ([[Session 32]])
 ---
 # Transport Map
-- Solving a puzzle in the Vault of the Ascended, an ancient Transport Hub beneath the [[Scorched Vath'iran Ruins]] revealed an old map of circles across Alithi and Rulif connected to that hub ([[Session 14]]).
+- Solving a puzzle in the Vault of the Ascended, an ancient Transport Hub beneath the [[Scorched Vath'iran Ruins]] revealed an old map of circles across Alithi and Rulif connected to that hub. ([[Session 14]])
 
 ![[Transport_Map.jpg]]
 
 ---
 # Kilsa Library Book
-- The party found a book concerning transport circles in a library in Kilsa ([[Session 20 21]]).
+- The party found a book concerning transport circles in a library in Kilsa. ([[Session 20 21]])
 ## Origins & Early Use
 - The earliest known references to transport circles describe them as creations of an ancient cabal of scholars, artificers, and priests who sought to connect the great cities of the world. The records do not name this cabal directly, but they may have been tied to the fallen Vath'ira civilization or an even older culture.  
 - Legends claim the circles were originally fuelled by a mysterious core of energy — often described as a flame that never dies or a light that endures beneath the earth. Some scholars believe this refers to the Emberheart or its scattered fragments.  
