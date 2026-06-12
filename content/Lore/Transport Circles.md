@@ -1,7 +1,8 @@
 - Transport Circles are an ancient artefact in the continent of Thania. Built long ago, potentially before Vath'ira, they are a commonly used method of transportation for people.
 - The transport circles seem to be connected to [[Ley Lines]], being placed along them.
 - The party discovered that they were losing time when using the transport circles. [[Jameson Ludwig]] confirmed to the party that all people lose time, but the party are the only people he has known to lose significant amounts of time ([[Session 47]]).
-- [[Gary]] told the party that their lost time was not just the time they were 
+- [[Gary]] told the party that the their significance in the current events of the world is what was causing them to lose more time than others, and that what was being taken was not just time but the potential impact they could have had in that time ([[Session 59]]).
+- [[Uta'ah]] disagreed with the math Gary proposed regarding the factors defining the time the party lost. After some discussion they came to the formula P = S * D^T
 ---
 # Transport Map
 - Solving a puzzle in the Vault of the Ascended, an ancient Transport Hub beneath the [[Scorched Vath'iran Ruins]] revealed an old map of circles across Alithi and Rulif connected to that hub ([[Session 14]]).
