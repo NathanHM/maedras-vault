@@ -25,5 +25,6 @@
 - The party presents the documents to the Sheriff and receive 20sp each  
 - The session ends with the party returning to the tavern and finding a note from the McMills  
 - The party visits them and finds Rupert no longer speaks since the [[The Missing Children|kidnapping]]
-- Through charades and misspelled words, he reveals he saw another place via his spirit
+- Through charades and misspelled words, he reveals he saw another place via his spirit.
+- Rupert appears to have two minds within him since the kidnapping.
 - He saw three paladins in blue, a green flower, heard the word Alithi, four paladins in yellow, and one [[Vladimir Vladishkov|blue-clad man]] with a sword taller than himself. 
