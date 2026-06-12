@@ -19,6 +19,7 @@
 - The cultist target children for various attributes such as strength, intelligence, cunning.
 - Whilst kidnapped, Dawn overheard that Dusk had sanctioned the kidnappings.
 - The party [[Session 19|learned]] from a vision that [[Dayne Greenway]] was the next target of the cult, as [[Session 07 08|earlier warned]] by Dawn.
+- Talking to Vlad [[Session 20 21|reveals]] that [[Fizziwinkle]], [[Lord Farquad]] and [[Bilbo Frankenfert]] were all involved with the kidnappings.
 - The party interfered with the cults plans and prevented Dayne from being taken during [[The Peace Summit]].
 
 ## Goals
@@ -26,3 +27,4 @@
 - Rescue the rest of the taken children.
 - Discover the exact nature of the ritual being undertaken.
 - Return the taken children to their former state, rescue their souls.
+- Find and stop Fizziwinkle and Farquad, the last known active participants in the kidnappings.
