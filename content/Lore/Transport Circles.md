@@ -2,7 +2,7 @@
 
 # Transport Map
 
-- 
+- [[Session 14|Solving a puzzle]] in the Vault of the Ascended, an ancient Transport Hub beneath the [[Scorched Vath'iran Ruins]] revealed an old map of circles across Alithi and Rulif connected to that hub.
 
 ![[Transport_Map.jpg]]
 

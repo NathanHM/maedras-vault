@@ -1,6 +1,6 @@
 ## Involvement
 - The party [[Session 14|went to]] the ruins with [[Father Ellric]] to stop a cult ritual
-- There they solve a puzzle around a large obelisk, which shows them a [[Transport Map]]
+- There they solve a puzzle around a large obelisk, which shows them a map of [[Transport Circles]]
 - The party catch their first glimpse of the Emberheart here via a portrait
 - Here the party solved a puzzle around an obelisk which seems to have undone one of four seals on the [[Sunken Sanctum]]
 ---

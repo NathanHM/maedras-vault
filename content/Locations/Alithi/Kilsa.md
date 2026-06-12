@@ -1,9 +1,9 @@
-Kilsa is a border town, located on the edge of [[Rulif]] and [[Alithi]]
+Kilsa is a border town, located on the edge of [[Rulif]] and [[Alithi]]. Kilsa is close to the [[Scorched Vath'iran Ruins]].
 
 ---
 ## Transport Hub
 - The Kilsa transport hub is managed by [[Bilbo Frankenfert]]
-- The hub has a secret, older [[Transport Circles|circle]] in the basement that is connected to the [[Scorched Vath'iran Ruins]]
+- The hub has a secret, older [[Transport Circles|circle]] in the basement that is connected to the Vault of the Ascended beneath the Vath'iran ruins.
 ## Monastery of [[The Eternal Vine]]
 - The monastery is where the party went to meet [[Father Ellric]]
 - They also met here with [[General David McIver]]

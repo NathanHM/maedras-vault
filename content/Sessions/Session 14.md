@@ -9,7 +9,7 @@
 - A master circle is rumoured to be located in the ruins  
 - The party buys fire resistance potions before heading out  
 - The ruins are revealed to be the scorched remains of a lost city with melted structures  
-- A central obelisk dominates the ruins and emanates magic. It glows briefly after the party solve a riddle with stone tablets as keys, showing a [[transport map]] before burning away  
+- A central obelisk dominates the ruins and emanates magic. It glows briefly after the party solve a riddle with stone tablets as keys, showing a transport map before burning away  
 - [[Wynona]] memorizes the map; [[Gilbert]] nearly dies experimenting with combinations of keys
 - The party finds a broken mural of a [[The Emberheart|figure]] holding a flame above their head with their face scratched out. The inscription below reads "The Flame Eternal, Guardian of the Way"  
 - A cryptic tome found nearby references “awakening the Ember's true purpose” and “guiding the faithful to the Flame's origin”  
