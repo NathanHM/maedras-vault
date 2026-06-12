@@ -3,7 +3,7 @@
 - The guards leap to action, with [[Lord Regent Titus|Titus]] being afraid after what he ahs heard of the troublesome octopi, whilst Wynona and [[Uta'ah]] move to protect him.
 - The party tries to convince the summit that they are arresting Kalamari, and taking him elsewhere, but Uta'ah is unwilling to go along with the plan and reveals the party considers Kalamari an ally.
 - Wynona, [[Cyrena]] and Uta'ah take Kalamari back to the Greenways room. Kalamari summons his familiar, [[Lera Vane|Lera]], who watches over the octopus whilst the talks resume.
-- Meanwhile, the rest of the party notice some of the staff beginning to act suspiciously. One of the servants is overheard muttering "The second [[Burning Dawn|dawn]] comes".
+- Meanwhile, the rest of the party notice some of the staff beginning to act suspiciously. One of the servants is overheard muttering "The second dawn comes". Likely a reference to the Burning Dawn the cult anticipates.
 - [[Gilbert]] attempts to cast Minor Illusion, and his success confirms that the Anti-Magic field has fallen. 
 - The servants reveal themselves to be mages and start attacking the party. Some of [[Lord Votrin Deephelm|Votrin]]'s guards turn out to be impostors and join the fray.
 - Gilbert confronts [[Vaela]] about what she is doing with [[Lord High Priest Ferox Thal|Ferox]], and makes a very uncouth comment. Vaela summons some fire elementals and attempts to suggest to Gilbert that he should protect her, but Gilbert is able to resist.

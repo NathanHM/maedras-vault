@@ -14,8 +14,8 @@
 - [[Max]] tries to pursue some criminal contacts within the city
 - They hear that [[The Peace Summit|the summit]] may not even occur, one nation may walk away on the first day
 - Someone recently tried to bribe the Steward of [[Lucanius#Central Districts|Lecone]] to access the summit with forged papers
-- Foreign clerics have been heard in taverns talking about a [[Burning Dawn|divine cleansing]], which has gone unappreciated by locals. The party might be rewarded if they were to deal with these clerics
-- [[Lord High Priest Ferox Thal|Lord Ferox]]'s guards have arrived in the city, taking up the entire inn of the Merry Elf in [[Lucanius#Western Districts|Yonebury]], but Ferox himself has not been seen
+- Foreign clerics have been heard in taverns talking about a divine cleansing, which has gone unappreciated by locals. The party might be rewarded if they were to deal with these clerics.
+- [[Lord High Priest Ferox Thal|Lord Ferox]]'s guards have arrived in the city, taking up the entire inn of the Merry Elf in [[Lucanius#Western Districts|Yonebury]], but Ferox himself has not been seen.
 - [[Chamae]] looks into the magical stores in [[Lucanius#Northern Districts|Dwucliff]].
 - She finds three stores, the entry-level Abracadabra Amusements, the run-down [[Bottles and Brooms]] and the non-descript [[Wonders]].
 - Talking with the shopkeep in Bottles and Brooms, she buys a box to try and keep the [[Flame Orb|Flame Orbs]] protected from scrying. To get the box prepared with all the desired protections would cost some additional 6000 gold.

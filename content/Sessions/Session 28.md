@@ -6,7 +6,7 @@
 - Cult Oracles use the orbs but lose their eyes in the process; orbs contain part of the Emberheart's corporeal form, nothing can extinguish their flames
 - [[Juliana]] may have scried through an orb unharmed, possibly due to being blessed by [[Thalana]], goddess of Nights & Secrets
 - Orbs' flames cannot be extinguished; the party now holds two, causing concern they may be used to spy on them
-- The cult believes in the [[Burning Dawn]] - [[the Emberheart]]'s rebirth will burn the world, and they think they'll be saved
+- The cult believes in the Burning Dawn - [[the Emberheart]]'s rebirth will burn the world, and they think they'll be saved
 - Bilbo claims [[Lord High Priest Ferox Thal|Lord Ferox]] and [[Kaedric Thal]] may be twin brothers; [[Kaedric Thal|Kaedric]] has a missing son
 - [[Lord Farquad|Farquad]] is estranged from his sister due to matriarchal inheritance; [[Chamae]] identifies her as [[Merinth Tharrows]]
 - It's confirmed that Merinth Tharrows is The Man
