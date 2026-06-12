@@ -14,7 +14,7 @@
 - McMills' son Rupert reported that he saw three paladins in blue, a green flower, heard the word Alithi, four paladins in yellow, and one [[Vladimir Vladishkov|blue-clad man]] with a sword taller than himself. The party later learned the area he saw was the cult barracks within [[Lucanius]].
 - Rupert reported no passage of time, but was gone for weeks. Potentially the children are also losing time to [[Transport Circles]].
 - The cult kidnapped Evangaline again, along with [[High Lady Dawn]]. High Lady Dawn escaped, but Evangaline has not been seen since. 
-- The party [[Session 14|meet]] [[Father Ellric]] who confirms to them that the kidnappings are sacrifices to fuel [[The Emberheart]].
+- The party [[Session 14|meet]] [[Father Ellric]] who confirms to them that the kidnappings are sacrifices to fuel [[The Emberheart]]. Later [[Session 29|interrogating]] [[Vladimir Vladishkov|Vlad]], the sacrifice is of the souls of the children, so the children that have already been taken have lost their souls but they may be recovered as they will be sacrificed all at once.
 - A cultist [[Session 15|reveals]] that the plan is to steal exactly 48 children.
 - The cultist target children for various attributes such as strength, intelligence, cunning.
 - Whilst kidnapped, Dawn overheard that Dusk had sanctioned the kidnappings.
@@ -25,4 +25,4 @@
 - Rescue Evangaline.
 - Rescue the rest of the taken children.
 - Discover the exact nature of the ritual being undertaken.
-- Potentially return the taken children to their former mental state.
+- Return the taken children to their former state, rescue their souls.
