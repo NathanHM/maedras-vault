@@ -1,5 +1,11 @@
-- Transport Circles are an ancient artefact in the continent of Thania. Built long ago, potentially before Vath'ira, they are 
+- Transport Circles are an ancient artefact in the continent of Thania. Built long ago, potentially before Vath'ira, they are a commonly used method of transportation for people.
+
+# Transport Map
+
+- 
+
 ![[Transport_Map.jpg]]
+
 ---
 The party [[Session 20 21|found]] a book concerning transport circles in a library in Kilsa 
 # Kilsa Library Book
