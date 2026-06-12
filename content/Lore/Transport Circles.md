@@ -1,5 +1,6 @@
 - Transport Circles are an ancient artefact in the continent of Thania. Built long ago, potentially before Vath'ira, they are a commonly used method of transportation for people.
-- The party discovered that
+- The transport circles seem to be connected to [[Ley Lines]], being placed along them.
+- The party discovered that they were losing time when using the transport circles. 
 ---
 # Transport Map
 - [[Session 14|Solving a puzzle]] in the Vault of the Ascended, an ancient Transport Hub beneath the [[Scorched Vath'iran Ruins]] revealed an old map of circles across Alithi and Rulif connected to that hub.
