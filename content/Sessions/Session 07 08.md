@@ -2,8 +2,8 @@
 - The [[Midnight Tears|poison]] mimics sleep but can cause death in higher dosage and is produced by [[Qavrud|Qavrud]]  
 - The party acquires holy water and confirms salt can trap the ghost  
 - The party discusses the ball incident with High Lady Dawn. She suspects [[Alithi|Alithi]] is behind the job and warns that [[Dayne Greenway]], son of High Leader [[Talis Greenway]], might be the next target  
-- With time before sunset, the party checks in on McMills' son and Mr. White's granddaughter  
-- McMills' son is on a boat with his father, and the mother promises to contact the party in the morning  
+- With time before sunset, the party checks in on McMills' son, [[Rupert McMills]], and Mr. White's granddaughter  
+- Rupert is on a boat with his father, and the mother promises to contact the party in the morning  
 - Mr. White's granddaughter recalls being given sweet tea and told to pass a test by [[The Sashed Paladins|paladins]]  
 - She then woke up in a graveyard some four weeks ago with no memory of what happened next  
 - [[Jorvak]] orders new boots that will be ready in three days  
@@ -24,6 +24,6 @@
 - Further investigation reveals code in bastardised old Qavrudian with symbols for [[Lavender]], trade, mystery, and death  
 - The party presents the documents to the Sheriff and receive 20sp each  
 - The session ends with the party returning to the tavern and finding a note from the McMills  
-- The party visits them and finds the son no longer speaks since the [[The Missing Children|kidnapping]]  
+- The party visits them and finds Rupert no longer speaks since the [[The Missing Children|kidnapping]]
 - Through charades and misspelled words, he reveals he saw another place via his spirit
 - He saw three paladins in blue, a green flower, heard the word Alithi, four paladins in yellow, and one [[Vladimir Vladishkov|blue-clad man]] with a sword taller than himself. 
