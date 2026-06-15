@@ -6,15 +6,30 @@
 ---
 # Known Members and Allies
 ## Leadership
-
+### - [[Lord High Priest Ferox Thal]] (Religious)
+- Vlad revealed Ferox to be the religious head of the cult.
+- Ferox turned out to be possessed by the Emberheart, and seemingly was himself innocent.
+- His identical brother may also be possessed by the Emberheart and filling this role.
+- Ferox has since been branded to prevent against possession.
+### - [[Merinth Tharrows|The Man]] (Spy Network)
+- Vlad revealed The Man to be the head of the spy network for the cult.
+- The Man was behind the attacks on Talis Greenway that first united the party.
+- The Man is the organisational force behind the kidnapping of children.
+- The Man is also responsible for organising the caravan raids.
+- The Man is Merinth Tharrows, sister of Lord Farquad.
+- The Man is believed to have infiltrated the palace in Lucanius and replaced the head mage. When chased into the sewers she appeared to be Fey. 
+### - [[The Flamekeeper]]
+- The Flamekeeper is a mysterious figure, the third head of the cult, whose identity and function is unknown even amongst high ranking cult members.
+- The party found a letter in some cultists pockets instructing them to investigate the parties actions, signed from F, presumably the Flamekeepers.
 ## The Ember Hand
-- The Ember Hand are a group of leading paladins within the cult
-- They were previously led by [[Vladimir Vladishkov|Vlad]], before the party cut his head off
-- There are, or were, 12 members of the Ember Hand, with only 7 being active at any given time
-- Yarvig was another known member before the party [[Session 43|killed him]]
+- The Ember Hand are a group of leading paladins within the cult.
+- When kidnapped, Rupert McMills identified paladins wearing different coloured sashes, suggesting that they were from different nations.
+- They were previously led by [[Vladimir Vladishkov|Vlad]], before the party cut his head off.
+- There are, or were, 12 members of the Ember Hand, with only 7 being active at any given time.
+- Yarvig was another known member before the party killed him. ([[Session 43]]).
 ## Flamekeepers
 - Flamekeepers are Oracles within the cult
-- They use [[Flame Orb]]s to scry, at the cost of having their eyes burned out
+- They use [[Flame Orb|Flame Orbs]] to scry, at the cost of having their eyes burned out
 - Flamekeepers are a rank in the cult that is separate from [[The Flamekeeper]], an individual who leads the sect
 ---
 # Involvement

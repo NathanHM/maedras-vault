@@ -1,0 +1,4 @@
+---
+aliases:
+  - Flame Orbs
+---
