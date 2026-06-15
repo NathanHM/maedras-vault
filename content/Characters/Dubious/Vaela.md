@@ -13,7 +13,7 @@ aliases:
 ---
 ## Involvement
 - The party first hear of Vaela in a [[Session 30|story]] from Gilbert on the way to [[Lucanius]]
-- Outside of Ferox's room at [[The Peace Summit]], the party hear moans that Gilbert recognises
+- Outside of Ferox's room at the peace summit, the party hear moans that Gilbert recognises
 - Gilbert is shocked to [[Session 47|see]] Vaela arrive with Ferox at the summit
 - As the [[Session 49 50|talks break into violence]], Gilbert makes an uncouth comment
 - In retort, she attempts to cast suggestion on him and after failing summons fire elementals

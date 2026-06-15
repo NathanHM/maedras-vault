@@ -12,7 +12,7 @@
 - The party [[Session 15|first]] hear of Ferox when Gilbert receives a note, addressed from his father, that resembles Ferox's handwriting  
 - They next hear about Ferox [[Session 17 18|when interrogating]] a cult priest in [[Kilsa]], who mentions him and his twin brother, Kaedric
 - Ferox is [[Session 29|confirmed]] to be involved in the cult when the party interrogate [[Vladimir Vladishkov|Vlad]]
-- The party [[Session 32|hear]] that Ferox's party is occupying the Merry Elf in [[Lucanius]] for [[The Peace Summit]]
+- The party [[Session 32|hear]] that Ferox's party is occupying the Merry Elf in [[Lucanius]] for the peace summit
 - The party [[Session 33 34|find]] a set of [[#Notes on Lord Ferox Thal|notes]] on Ferox in the [[Lucanius#Notable Buildings & Locations|Forgotten Archive]]
 - The party finally [[Session 40|meet]] Ferox at a party prior to the peace summit, which he is attending with [[High Lady Dusk]]
 - [[Uta'ah]] accidentally [[Session 41|lets slip]] to [[Dareth Vonn]] that Ferox may be acting against the tenets of the [[Worship of Virelya]]

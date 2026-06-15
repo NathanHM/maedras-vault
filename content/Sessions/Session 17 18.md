@@ -29,7 +29,7 @@
     - [[Juliana|Gilbert's Mum]] is being held at the vineyard
     - [[Lord High Priest Ferox Thal|Lord High Priest Ferox]] and [[Kaedric Thal]] are apparently identical brothers; [[Kaedric Thal|Kaedric]] has a lost son
     - The mystery potions have unpredictable effects
-    - The cult plans to assassinate [[Lord Regent Titus|Lord Titus]] at [[The Peace Summit]]
+    - The cult plans to assassinate [[Lord Regent Titus|Lord Titus]] at the peace summit
     - [[Halric Dain]] is a cult member and shadow power in Alithi and hopes to see the people collapse
     - [[Rellis Thorne]] is fuelling the conflict on the road with her mercenaries in a hope to become famous
     - [[Merinth Tharrows|The Man]] is a real but unknown force

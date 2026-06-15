@@ -1,4 +1,4 @@
-- As the [[The Peace Summit|summit]] resume, focus turns to matters of trade and military security.
+- As the summit resume, focus turns to matters of trade and military security.
 - As a [[Divine Consequence]], [[Wynona]] inadvertently summons an octopus in the middle of the peace talks. Falling from above and shattering the glass ceiling, [[Kalamari]] arrives.
 - The guards leap to action, with [[Lord Regent Titus|Titus]] being afraid after what he ahs heard of the troublesome octopi, whilst Wynona and [[Uta'ah]] move to protect him.
 - The party tries to convince the summit that they are arresting Kalamari, and taking him elsewhere, but Uta'ah is unwilling to go along with the plan and reveals the party considers Kalamari an ally.

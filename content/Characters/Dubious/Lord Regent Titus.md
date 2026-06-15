@@ -13,7 +13,7 @@
 ## Involvement
 - The party [[Session 13|first]] heard of Titus when they were [[Session 16|promised]] a favour from him for saving [[General David McIver]]
 - They [[Session 17 18|discovered]] that he was a target of [[The Eternal Ember Cult]] when they interrogated a priest in [[Kilsa]]
-- The party [[Session 40|met]] Titus at the party prior to [[The Peace Summit]]
+- The party [[Session 40|met]] Titus at the party prior to the peace summit
 - They became his guards for the talks when [[Wynona]] crashed him through a table in an arm wrestle
 - [[Uta'ah]] cashed in the favour, but I legit don't remember what for. Oops!
 - When the talks went [[Session 49 50|sideways]] Titus was nearly killed but saved by Wynona and [[Max]]. Tiberius, the head of [[The Eternal Vine]] was less fortunate.

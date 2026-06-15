@@ -7,7 +7,7 @@
 - The continent of Alithi is ruled by Titus’ cousin
 ## Religion
 - The dominant religion is [[The Eternal Vine]]
-- The Eternal Vine was led by a priest, Tiberius, until he died during [[The Peace Summit]]
+- The Eternal Vine was led by a priest, Tiberius, until he died during the cult's attack on the peace summit.
 - His apparent successor is [[Father Ophius]]
 ## Locations
 - [[Lucanius]] is the capital city

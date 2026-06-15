@@ -18,7 +18,7 @@
 - The [[Scorched Vath'iran Ruins|Burnt City]] node was accidentally undone by the party.
 - The [[Verdant Pyre]] node is currently being dealt with by the cult.
 - Once all three nodes are gone, the Sunken Sanctum may open.
-- [[The Peace Summit]] is a trap designed to destroy peace and incite war among nations, empowering the Emberheart through mass bloodshed.
+- The peace summit is a trap designed to destroy peace and incite war among nations, empowering the Emberheart through mass bloodshed.
 - Vlad leads 12 Paladins, [[The Eternal Ember Cult#The Ember Hand|the Ember Hand]]; only 7 walk openly at a time while the others operate covertly.
 - Gilbert uses Detect Thoughts on Vlad, realises the Emberheart is listening in. The Emberheart is unhappy with Gilbert for mimicking him
 - The party decapitates Vlad, burying his head apart from his body

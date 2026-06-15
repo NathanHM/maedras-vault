@@ -18,7 +18,7 @@
 - After being [[Session 35|pissed on]] by Gilbert, Maedra uses his blood to bend him and [[Cyrena]] to her will
 - [[Session 36|Fey]] arrive in the library to deal with Maedra, the party attempt to escape, but are forced to fight due to Gilbert and Cyrena being controlled
 - Maedra finally lends a hand and quickly dispatches the Fey, members of The Eternal Ember Cult and Uta'ah. She identifies the leader of the Fey as Sheila, an old friend of hers.
-- She [[Session 36|agrees]] to meet the party at a celebration on the second day of [[The Peace Summit]] 
+- She [[Session 36|agrees]] to meet the party at a celebration on the second day of the peace summit
 - The party inadvertently [[Session 52|summon]] Maedra by saying her name three times. She says she was summoned due to their "tainted blood".
 - She brands [[Lord High Priest Ferox Thal]] with symbols to prevent him from being possessed by [[The Emberheart]], in turn for [[Uta'ah]]'s greatest secret, getting high with Cyrena and a bucket of blood from [[Wynona]]. She collects the bucket from Wynona, and promises to recoup from Uta'ah and Cyrena later.
 - Meeting the party at the closing celebrations, she wins all of Gilbert’s money and the promise of a favour from him, so long as it does not go against any of the current party’s morals.

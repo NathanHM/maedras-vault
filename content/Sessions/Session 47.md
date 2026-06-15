@@ -1,4 +1,4 @@
-- As the party rises in the morning to prepare for [[The Peace Summit|the summit]], they discuss which gods they each suspect who they have been [[Divine Touch|Divine Touched]] by.
+- As the party rises in the morning to prepare for the summit, they discuss which gods they each suspect who they have been [[Divine Touch|Divine Touched]] by.
 	- [[Gilbert]] believes to have been chosen by [[Ilhara]]
 	- [[Wynona]] thinks [[Othelar]] makes sense for her
 	- [[Chamae]] suspects [[Ilyra]] for herself
@@ -11,7 +11,7 @@
 - Upon mentioning [[Maedra Lurith|Maedra]], Jameson reveals he is afraid of her. He reports there are rumours that the [[Fey]] warned the Vath'irans that their transport circle would upset the natural balance. The fall of the Vath'irans may have been a consequence of ignoring this warning, or it may be that the Fey intervened and are responsible themselves.
 - He also reports that if a transport token is degraded, it may be possible for a circle to spit out a traveller either forward or backward in time.
 - Though Jameson is knowledgeable on the subject, not everything he knows is to be taken as a given. Like any fanatic, he is willing to accept leaps in logic and believe wholeheartedly in theories.
-- The party set off to meet [[Lord Regent Titus|Titus]] and prepare for [[the Peace Summit]].
+- The party set off to meet [[Lord Regent Titus|Titus]] and prepare for the peace summit.
 - The group take their positions as guards in the room as the key players make their entrance.
 	- Titus arrives with his bodyguards, garbed in yellow [[Alithi]] colours.
 	- [[Lord Votrin Deephelm]] arrives with his guards, carrying scrolls.

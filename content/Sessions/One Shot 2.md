@@ -1,4 +1,4 @@
-- Picking up in the moment after [[Lord High Priest Ferox Thal]] attempted to kill everyone at [[The Peace Summit]], [[Cyrena]], [[Chamae]] and [[Gilbert]] experience a blinding flash of light.
+- Picking up in the moment after [[Lord High Priest Ferox Thal]] attempted to kill everyone at the peace summit, [[Cyrena]], [[Chamae]] and [[Gilbert]] experience a blinding flash of light.
 - As they recover their vision, they find themselves in a distorted and empty version of the hall where they stood
 - Here they discover that they each have taken the form of humanoid animals that represent them, Cyrena is a lion, Chamae is an owl and Gilbert, obviously, is a turtle
 - A grizzled man bursts into the room, who turns out to be [[Kalamari]] in human form

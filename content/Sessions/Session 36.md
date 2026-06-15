@@ -4,6 +4,6 @@
 - [[High Lady Dawn]] realises that Maedra has taken control of the siblings, and lifts the control from Cyrena.
 - As Chamae and Uta'ah realise they will not be able to make a swift escape, Maedra finally decides to lend "aid", and with a single spell manages to wipe out the entire room, taking down Uta'ah as well in the process.
 - Chamae brings Uta'ah back up, with him convinced that he died. Maedra identifies the leader of the fey as Sheila, an old friend of hers.
-- The party talks down a tense Uta'ah who is tempted to fight Maedra for her actions. She lifts her control over Gilbert and Cyrena, and returns the blood. She gives the party a card with her address in the [[Lucanius#East Districts|Espr Quarters]], and tells them she will attend the evening reception on the second day of [[the peace summit]], before making her exit.
+- The party talks down a tense Uta'ah who is tempted to fight Maedra for her actions. She lifts her control over Gilbert and Cyrena, and returns the blood. She gives the party a card with her address in the [[Lucanius#East Districts|Espr Quarters]], and tells them she will attend the evening reception on the second day of the peace summit, before making her exit.
 - The party searches the bodies of the Fey and cult for loot. They find a pair of Dimensional Shackles on Sheila, and Rings of Free Action and Shooting Stars.
 - As the party make their way out of the library, they inadvertently summon a crab. Uta'ah and Gilbert debate eating the crab, but after Cyrena talks to the crab they elect to let it go.

@@ -31,7 +31,7 @@ title: Maedra's Vault
 - They started investigating [[The Missing Children]], finding they were being taken by a [[The Eternal Ember Cult|Cult]] dedicated to an ancient deity known as [[the Emberheart]].
 - They chased leads down and found themselves in the [[Scorched Vath'iran Ruins|Scorched Ruins]] of the city of [[Vath'ira]], where they found a painting of the Emberheart.
 - They investigated the cult's presence in [[Kilsa]], and had run-ins with a leader amongst the cult, [[Vladimir Vladishkov]]
-- They made their way to [[Lucanius]], the capital of [[Alithi]], for the [[The Peace Summit]] between nations, taking out Vlad and a vineyard of cultists on the way
+- They made their way to [[Lucanius]], the capital of [[Alithi]], for the the peace summit between nations, taking out Vlad and a vineyard of cultists on the way
 - In the city they encountered an Arch Fey, [[Maedra Lurith|Maedra]], and helped her acquire information about the [[transport circles]].
 - They investigated a graveyard and helped free people from a Monastery of the Eternal Vine
 - As the peace talks were about to begin, they fought back an attempt to sabotage the events and positioned themselves to be present as guards

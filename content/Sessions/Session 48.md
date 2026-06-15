@@ -5,7 +5,7 @@
 - [[Lord High Priest Ferox Thal|Ferox]] gives a speech that seems laden with dog whistles signalling his involvement with [[The Eternal Ember Cult|the cult]].
 - [[High Lady Dawn|Dawn]] makes a speech in favour of peace, followed by [[High Lady Dusk|Dusk]] who echoes her sentiments, albeit more cautiously.
 - Ferox seems somewhat surprised by the differences between Dawn and Dusks speeches.
-- Suspicious of the wine, [[Wynona]] intimidates [[The Peace Summit|the summit]] and insists they take out the wine to be checked. The drink is clean, so they bring it back in.
+- Suspicious of the wine, [[Wynona]] intimidates the summit and insists they take out the wine to be checked. The drink is clean, so they bring it back in.
 - Lowri Greenway asks the table to share any information they have regarding the attack from the other night, as they have all sent agents to investigate. Votrin claims to know the truth, but places the information behind an offer of gold.
 - Ferox attempts to brew tension by suggesting it was one of the leaders testing the others.
 - With some keen insight, [[Chamae]] realises that this is not Ferox speaking, but instead it is [[the Emberheart]] himself speaking through him.

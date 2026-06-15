@@ -21,7 +21,7 @@ aliases:
 - Dawn had a [[High Lady Dawn's Vision|vision]] from Vel'Enar that she [[Session 19|shared]] with the party
 - On the way to [[Lucanius]], she tells the party that [[Gilbert]] and [[Cyrena]] are siblings
 - She [[Session 33 34|joins]] the party as they enter The Forgotten Archive with [[Maedra Lurith|Maedra]] to try and recover information about [[Transport Circles]]
-- She [[Session 40|reunites]] with the Greenways and High Lady Dusk at a party prior to [[The Peace Summit]]
+- She [[Session 40|reunites]] with the Greenways and High Lady Dusk at a party prior to the peace summit.
 - Dawn [[Session 46|reveals]] that she has cast Revivify only once before, and is reluctant to do so again due to the consequences she faced. She refuses to tell the party who she saved.
 - Dawn [[Session 53|revivifies]] Uta'ah after he dies, after which she seemingly loses her connection to Vel'Enar. A flame sigil briefly appears on her forehead and her form momentarily begins to shift.
 - The Greenways take care of Dawn and inform the party that she previously revivified Dayne.

@@ -9,4 +9,4 @@
 - The party [[Session 17 18|first]] heard of Halric as a member of the cult when interrogating a priest in [[Kilsa]]
 - The discover documents at the Vineyard proving Dain is the owner
 - He is [[Session 45|mentioned]] in correspondence amongst communication between [[Father Ophius]] and Father Hamlet of [[The Eternal Vine]] 
-- They [[Session 45|hear]] of him again at the opening celebration of [[The Peace Summit]]
+- They [[Session 45|hear]] of him again at the opening celebration of the peace summit.

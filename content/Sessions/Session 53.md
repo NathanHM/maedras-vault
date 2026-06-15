@@ -7,7 +7,7 @@
 - [[Wynona]] notices that [[Lowri Greenway]] seems to have some knowledge of what has just occurred to Dawn, but Lowri is reluctant to talk at the moment.
 - Gilbert looks at the book taken from Trina Macbeth but finds the book to be blank, and throws the book aside in anger.
 - Meanwhile [[Max]] investigates Trina's office. Pushing into the seam in the ground, the stone pushes back and reveals a hidden trapdoor leading some fifty feet down below. Closing the door, they return to the party for now. 
-- The party reconvene in the courtyard, joined by the leaders from [[The Peace Summit|the summit]] and take stock of what has happened. They decide to take Dawn to the Greenways' room to ensure she is alright.
+- The party reconvene in the courtyard, joined by the leaders from the summit and take stock of what has happened. They decide to take Dawn to the Greenways' room to ensure she is alright.
 - Before they depart, [[Lord Regent Titus]] asks the group if revivification is possible, then perhaps Tiberius, the leader of  [[The Eternal Vine]] might also be brought back. The party inform that that is likely not possible at this point. The party are concerned to hear that [[Father Ophius]] is likely next in line to succeed him, and that there will be a vote to decide in the coming days.
 - Max goes to pick up the discarded book from Trina Macbeth's office. When the party arrive in the Greenways' room, [[Chamae]] and Max look over the book and find entries written in invisible ink.
 - The book contains entries indicating that the person infiltrated the court mages some sixty days ago under the false identity of Trina Macbeth, and that as of this morning everything was in place and "the army will rise".

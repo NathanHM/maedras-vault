@@ -5,5 +5,5 @@
 - The party meets a young Dragonborn, [[Cobalt]], who helps the party become acquainted with the city
 - Cobalt wishes to visit the [[Lucanius#East Districts|Forgotten Archives]]
 - [[Cyrena]] is fond of Cobalt, which is set off by [[Uta'ah]]'s oddly intense distaste for him
-- Cobalt introduces the part to Rexius, another Dragonborn, who tells the party about the [[Rumours from Rexius|going-ons]] within the city they make take interest in before [[the peace summit]] begina.
+- Cobalt introduces the part to Rexius, another Dragonborn, who tells the party about the [[Rumours from Rexius|going-ons]] within the city they make take interest in before the peace summit begins.
 - The party inadvertently summon another octopus, [[Paella]], who joins Kalamari as they set off with [[Lera Vane|Lera]] on their own investigations

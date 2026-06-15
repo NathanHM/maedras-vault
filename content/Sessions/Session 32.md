@@ -12,7 +12,7 @@
 - In the poor districts of the city, about 2 kids per week have been going missing. Someone is paying a lot of money to ensure missing bodies are not being reported
 - A man with a scorched arm has been seen speaking to a masked figure at dusk in the [[Lucanius#Western Districts|Corat]] area.
 - [[Max]] tries to pursue some criminal contacts within the city
-- They hear that [[The Peace Summit|the summit]] may not even occur, one nation may walk away on the first day
+- They hear that the summit may not even occur, one nation may walk away on the first day
 - Someone recently tried to bribe the Steward of [[Lucanius#Central Districts|Lecone]] to access the summit with forged papers
 - Foreign clerics have been heard in taverns talking about a divine cleansing, which has gone unappreciated by locals. The party might be rewarded if they were to deal with these clerics.
 - [[Lord High Priest Ferox Thal|Lord Ferox]]'s guards have arrived in the city, taking up the entire inn of the Merry Elf in [[Lucanius#Western Districts|Yonebury]], but Ferox himself has not been seen.
