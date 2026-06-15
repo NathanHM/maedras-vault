@@ -1,5 +1,5 @@
 - The party continues battling cultists and paladins to rescue [[Evangaline]] and [[High Lady Dawn|HL Dawn]]
-- Many [[The Eternal Ember Cult|cultists]] are decapitated and [[The Sashed Paladins|paladins]] shields are stolen for head-bashing
+- Many [[The Eternal Ember Cult|cultists]] are decapitated and paladins' shields are stolen for head-bashing
 - [[Wynona]] enters the ritual room as Evangaline is transported away by a paladin
 - The leader flees through the circle with HL Dawn shortly after
 - A Gingerbread Bear appears and joins the fight

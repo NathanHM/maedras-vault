@@ -12,7 +12,7 @@ aliases:
 ## Involvement
 - The party first met Merinth Tharrows at the masquerade ball, though knew nothing of significance about her at the time
 - They later [[Session 03|encountered]] bandits involved with the theft of [[Talis Greenway]]' amulet who were hired by "TM" 
-- Farquad was [[Session 09|supposedly]] threatened to support [[The Sashed Paladins]] by "TM", whom he speculated to be [[Lord Tom Macavoy|Tom Macavoy]]
+- Farquad was [[Session 09|supposedly]] threatened to support [[The Eternal Ember Cult#The Ember Hand|a group of paladins]] by "TM", whom he speculated to be [[Lord Tom Macavoy|Tom Macavoy]]
 - The party [[Session 17 18|learn]] The Man is an important cult figure from a priest in [[Kilsa]]
 - The Man's identity is finally [[Session 28|confirmed]] as Merinth Tharrows by [[Bilbo Frankenfert]]
 - [[Vladimir Vladishkov|Vlad]] confirms she is one of the three heads of the cult, leading their spy network

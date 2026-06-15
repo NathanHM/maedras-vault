@@ -1,6 +1,8 @@
 - The Sunken Sanctum appears to be where the Emberheart is sealed
 - It is closed by four nodes. One node was unsealed by the party in the [[Scorched Vath'iran Ruins]]
 - The other nodes are located at the [[Verdant Pyre]], [[Ashenhold]] and [[Stormhaven]]
+
+
 ---
 The Sunken Sanctum is a place of forgotten power and whispered dread. Once a temple, later a prison, and now a ruin shrouded in mystery, it is deeply tied to the fate of [[the Emberheart]] and the rise of the [[The Eternal Ember Cult|Eternal Ember Cult]]. Located near the coastal town of [[Stormhaven]] in [[Rulif]], the sanctum’s presence looms large in local folklore.
 ## Origins of the Sanctum

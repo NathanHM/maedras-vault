@@ -4,7 +4,7 @@
 - The party discusses the ball incident with High Lady Dawn. She suspects [[Alithi|Alithi]] is behind the job and warns that [[Dayne Greenway]], son of High Leader [[Talis Greenway]], might be the next target  
 - With time before sunset, the party checks in on McMills' son, [[Rupert McMills]], and Mr. White's granddaughter  
 - Rupert is on a boat with his father, and the mother promises to contact the party in the morning  
-- Mr. White's granddaughter recalls being given sweet tea and told to pass a test by [[The Sashed Paladins|paladins]]  
+- Mr. White's granddaughter recalls being given sweet tea and told to pass a test by [[The Eternal Ember Cult#The Ember Hand|paladins]]  
 - She then woke up in a graveyard some four weeks ago with no memory of what happened next  
 - [[Jorvak]] orders new boots that will be ready in three days  
 - As night approaches, the party returns to the [[Stormhaven#House de Beauvoir|de Beauvoir house]] to prepare for the ghost  

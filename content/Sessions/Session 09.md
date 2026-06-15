@@ -4,13 +4,13 @@
 - The party leaves to confront [[Lord Farquad]] and learns he pays carrier children well  
 - Rupert, Farquad's right hand, escorts the party into the man, and they question Lord Farquad about kidnappings
 - Lord Farquad doesn't deny involvement, claiming his status makes it unlikely  
-- He was asked to support the [[The Sashed Paladins|paladins]] in blue by someone signed [[Merinth Tharrows|TM]]  for a house and favour 
+- He was asked to support [[The Eternal Ember Cult#The Ember Hand|the paladins]] in blue by someone signed [[Merinth Tharrows|TM]]  for a house and favour 
 - Lord Farquad believes TM is [[Lord Tom Macavoy|Tom Macavoy]] from [[Alithi]]  
 - He doesn't know the gingerbread man (?) and claims his sister is dead, though he himself is not the one staying in the Family's home in the capital  
 - He invites the party to investigate his house, as he has nothing to hide
 - Rupert confirms letters from TM match handwriting from the ball note  
 - Gilbert is given silver to see a doctor as Rupert thinks he is unwell  
-- Farquad's accountant reveals money is being transferred via banks to the head of the [[The Sashed Paladins|paladins]], [[Vladimir Vladishkov|Vladimir Vladishkov]]
+- Farquad's accountant reveals money is being transferred via banks to the head of the paladins, [[Vladimir Vladishkov|Vladimir Vladishkov]]
 - The Chef, Fionna, reveals Lord Farquad is allegedly allergic to [[lavender]]; an order of molasses was placed three months ago  
 - Fionna says the lord has been receiving more frequent guests and had been ordering exotic fruit.
 - She claims the molasses is used for gingerbread.
