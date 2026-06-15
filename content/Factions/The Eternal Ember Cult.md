@@ -32,14 +32,18 @@
 - They use [[Flame Orb|Flame Orbs]] to scry, at the cost of having their eyes burned out
 - Flamekeepers are a rank in the cult that is separate from [[The Flamekeeper]], an individual who leads the sect
 ## Associates
-- Either active members or people with shared goals, the pary has encountered or learned of a number of people who work to further the cult's goals.
-- [[High Lady Dusk]]
-- [[Lord Farquad]]
-- [[Fizziwinkle]]
-- [[Halric Dain]]
-- [[Father Ophius]]
-- [[Bilbo Frankenfert]]
-- [[Rellis Thorne]]
+- Either active members or people with shared goals, the party has encountered or learned of a number of people who work to further the cult's goals.
+### [[High Lady Dusk]]
+- When [[High Lady Dawn]] was kidnapped, she heard that Dusk had condoned the kidnappings.
+- During the cult's attacks on the peace summit, Dawn moved to heal the downed cult combatants.
+### [[Lord Farquad]]
+- Farquad was confirmed to be involved with kidnappings.
+- Farquad is the brother of Merinth Tharrows, though he appears to detest her so how their dynamic exists in the context of the cult is unclear.
+### [[Fizziwinkle]]
+### [[Halric Dain]]
+### [[Father Ophius]]
+### [[Bilbo Frankenfert]]
+### [[Rellis Thorne]]
 
 ---
 # Involvement
