@@ -20,7 +20,8 @@
 - The Man is believed to have infiltrated the palace in Lucanius and replaced the head mage. When chased into the sewers she appeared to be Fey. 
 ### - [[The Flamekeeper]]
 - The Flamekeeper is a mysterious figure, the third head of the cult, whose identity and function is unknown even amongst high ranking cult members.
-- The party found a letter in some cultists pockets instructing them to investigate the parties actions, signed from F, presumably the Flamekeepers.
+- Flamekeepers are also a rank in the cult that is separate from The Flamekeeper as an individual. 
+- The party found a letter in some cultists pockets instructing them to investigate the parties actions, signed from F, presumably the, or a, Flamekeeper.
 ## The Ember Hand
 - The Ember Hand are a group of leading paladins within the cult.
 - When kidnapped, Rupert McMills identified paladins wearing different coloured sashes, suggesting that they were from different nations.
@@ -29,10 +30,8 @@
 ### [[Vladimir Vladishkov]]
 - Vlad was the leader of the Ember Hand until the party kidnapped and decapitated him.
 - Vlad was a true believer in the goals of the cult.
-## Flamekeepers
-- Flamekeepers are Oracles within the cult
+## Oracles
 - They use [[Flame Orb|Flame Orbs]] to scry, at the cost of having their eyes burned out
-- Flamekeepers are a rank in the cult that is separate from [[The Flamekeeper]], an individual who leads the sect
 ## Other
 - Either active members or people with shared goals, the party has encountered or learned of a number of people who work to further the cult's goals.
 ### [[High Lady Dusk]]
@@ -58,6 +57,7 @@
 
 ---
 # Involvement
+- Prior to the campaign, The Eternal Ember Cult returned during [[The War]] due to the cultural divide created.
 - The party first encountered the cult when they kidnapped [[Evangaline]] and [[High Lady Dawn]]. ([[Session 10]])
 - They next met in the [[Scorched Vath'iran Ruins]] where the cult had been keeping Dawn. ([[Session 15]])
 - The cult held a recruitment drive in the [[Kilsa#Green Soldier|Green Soldier]] which the party infiltrated. There they killed some members of the cult, including a priest leading the local sect, but convinced the rest of the cult that the priest was a traitor, and the party escaped without much hassle. ([[Session 17 18]])
