@@ -31,6 +31,16 @@
 - Flamekeepers are Oracles within the cult
 - They use [[Flame Orb|Flame Orbs]] to scry, at the cost of having their eyes burned out
 - Flamekeepers are a rank in the cult that is separate from [[The Flamekeeper]], an individual who leads the sect
+## Associates
+- Either active members or people with shared goals, the pary has encountered or learned of a number of people who work to further the cult's goals.
+- [[High Lady Dusk]]
+- [[Lord Farquad]]
+- [[Fizziwinkle]]
+- [[Halric Dain]]
+- [[Father Ophius]]
+- [[Bilbo Frankenfert]]
+- [[Rellis Thorne]]
+
 ---
 # Involvement
 - The party first encountered the cult when they kidnapped [[Evangaline]] and [[High Lady Dawn]]. ([[Session 10]])
