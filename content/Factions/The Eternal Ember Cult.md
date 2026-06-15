@@ -24,14 +24,16 @@
 ## The Ember Hand
 - The Ember Hand are a group of leading paladins within the cult.
 - When kidnapped, Rupert McMills identified paladins wearing different coloured sashes, suggesting that they were from different nations.
-- They were previously led by [[Vladimir Vladishkov|Vlad]], before the party cut his head off.
 - There are, or were, 12 members of the Ember Hand, with only 7 being active at any given time.
 - Yarvig was another known member before the party killed him. ([[Session 43]]).
+### [[Vladimir Vladishkov]]
+- Vlad was the leader of the Ember Hand until the party kidnapped and decapitated him.
+- Vlad was a true believer in the goals of the cult.
 ## Flamekeepers
 - Flamekeepers are Oracles within the cult
 - They use [[Flame Orb|Flame Orbs]] to scry, at the cost of having their eyes burned out
 - Flamekeepers are a rank in the cult that is separate from [[The Flamekeeper]], an individual who leads the sect
-## Associates
+## Other
 - Either active members or people with shared goals, the party has encountered or learned of a number of people who work to further the cult's goals.
 ### [[High Lady Dusk]]
 - When [[High Lady Dawn]] was kidnapped, she heard that Dusk had condoned the kidnappings.
@@ -40,10 +42,19 @@
 - Farquad was confirmed to be involved with kidnappings.
 - Farquad is the brother of Merinth Tharrows, though he appears to detest her so how their dynamic exists in the context of the cult is unclear.
 ### [[Fizziwinkle]]
+- The party learned that Fizziwinkle was involved with the kidnapped children.
 ### [[Halric Dain]]
+- Halric Dain acts as [[Lord Regent Titus]]' right hand, and stands to rule Alithi if something were to happen to Titus.
+- The party learned of his association with the cult in Kilsa.
 ### [[Father Ophius]]
+- The party learned of Father Ophius from communications within the church where they freed [[Barbarastreisand]].
+- After the death of Tiberius, the head of [[The Eternal Vine]], Ophius was seen as the heir apparent. The party got involved with the elections and made sure this did not come to pass.
 ### [[Bilbo Frankenfert]]
+- Bilbo was the manager of the Transport Hub in Kilsa.
+- An old drinking buddy of Vlad, he was involved with 
 ### [[Rellis Thorne]]
+- Rellis Thorne is the head of the Black Blades, and the leader of the Tayan mercenary guild.
+- Whilst The Man has organised the caravan raids, Thorne and her mercenaries are responsible for the attacks.
 
 ---
 # Involvement
