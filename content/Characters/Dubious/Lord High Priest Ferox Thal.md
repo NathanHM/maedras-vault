@@ -24,8 +24,9 @@
 - They have [[Maedra Lurith|Maedra]] [[Session 52|brand]] Ferox with glyphs to prevent possession
 
 ---
-# Notes on Lord Ferox Thal
-
+# Kilsa Library Book
+- The party found a note concerning Ferox in a library in Kilsa. ([[Session 20 21]])
+## Notes on Lord Ferox Thal
 A scholar recently researching Lord Ferox Thal has uncovered several intriguing details:
 1. **Unusual Alliances**  
    In the past year, Lord Thal has been seen working closely with merchants from Tayan and emissaries from Rulif, suggesting he’s fostering unexpected diplomatic ties. While this may be a move to stabilize Qavrud’s position, some suspect he’s securing rare resources or influence for future leverage.
