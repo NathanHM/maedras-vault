@@ -6,7 +6,7 @@
 ## Lost Time
 - The party discovered that they were losing time when using the transport circles. [[Jameson Ludwig]] confirmed to the party that all people lose time, but the party are the only people he has known to lose significant amounts of time. ([[Session 47]])
 - [[Gary]] told the party that the their significance in the current events of the world is what was causing them to lose more time than others, and that what was being taken was not just time but the potential impact they could have had in that time. ([[Session 59]])
-- [[Uta'ah]] disagreed with the math Gary proposed regarding the factors defining the time the party lost. After some discussion they came to the formula: $$P=SD^T $$where P is the potential, S is the party's current significance, D is the distance travelled, and T is the time lost. Given that S and D are both fixed by the people travelling and the destination, their must be some other factor that is setting P or T beyond the parties' own significance, which Gary agreed to investigate on behalf of the party. ([[Session 60]])
+- [[Uta'ah]] disagreed with the math Gary proposed regarding the factors defining the time the party lost. After some discussion they came to the formula: $$P=SD^T $$, where P is the potential, S is the party's current significance, D is the distance travelled, and T is the time lost. Given that S and D are both fixed by the people travelling and the destination, their must be some other factor that is setting P or T beyond the parties' own significance, which Gary agreed to investigate on behalf of the party. ([[Session 60]])
 - The stolen potential time seems to be channelled into the [[Ashen Hourglass]], which [[The Eternal Ember Cult]] hopes to use to decay the magic sealing [[The Emberheart]]. ([[Session 45]])
 - [[Maedra Lurith]] also has some interest in the transport circles, potentially using the time within the Ashen Hourglass to extend her life. She is able to syphon this magic from a transport token. ([[Session 32]])
 ---
@@ -37,9 +37,5 @@ The true source of the circles’ power is debated among scholars. Theories incl
 - Cryptic writings warn that some circles were deliberately sealed or sabotaged to contain something dangerous — perhaps corrupted spirits, unstable magic, or forgotten entities tied to the Eternal Ember Cult.  
 ## The Scholars’ Warning
 One entry — penned by a reclusive scholar known as Veylin the Gray — warns against overusing the circles. Veylin claims that prolonged use causes an unseen force to "awaken and watch" those who rely too heavily on the network. He writes:
-
-> "The tokens guide us — yes. But they are not mere keys; they are marks. Each use  
-> leaves a trace, a thread that the forgotten flame may follow. Beware the path you  
-> burn."  
-
+	"The tokens guide us — yes. But they are not mere keys; they are marks. Each use leaves a trace, a thread that the forgotten flame may follow. Beware the path you burn."  
 This unsettling warning hints that something — or someone — may be tracking or influencing those who rely too much on the transport circle.
