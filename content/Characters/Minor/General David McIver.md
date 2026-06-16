@@ -4,4 +4,4 @@
 
 ---
 ## Involvement
-- After the party [[Session 13|"saved"]] McIver and his soldiers, he [[Session 16|promised]] the group a favour from [[Lord Regent Titus]] 
+- After the party "saved" McIver and his soldiers, he promised the group a favour from [[Lord Regent Titus]]. ([[Session 13]], [[Session 16]])

@@ -8,5 +8,5 @@
 
 ---
 ## Involvement
-- Aldren is [[Session 17 18|mentioned]] in a secret message on a piece of correspondence from [[The Eternal Ember Cult]]
-- The party [[Session 53|later]] learn that Aldren is centuries old, but bears similarities to Kaedric Thal
+- Aldren is mentioned in a secret message on a piece of correspondence from [[The Eternal Ember Cult]]. ([[Session 17 18]])
+- The party later learn that Aldren is centuries old, but bears similarities to Kaedric Thal. ([[Session 53]])

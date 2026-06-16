@@ -4,4 +4,4 @@
 
 ---
 ## Involvement
--  They [[Session 03|first met]] outside the masquerade party, however the soon parted ways
+-  They first met outside the masquerade party, however the soon parted ways. ([[Session 03]])

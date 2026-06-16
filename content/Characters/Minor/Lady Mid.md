@@ -4,4 +4,4 @@
 
 ---
 ## Involvement
--  [[Uta'ah]] requested the Greenways send for her to aid in [[High Lady Dawn]]'s recovery
+-  [[Uta'ah]] requested the Greenways send for her to aid in [[High Lady Dawn]]'s recovery.

@@ -3,4 +3,4 @@
 
 ---
 ## Involvement
-- Legit never been mentioned
+- Legit never been mentioned.
