@@ -10,10 +10,10 @@
 
 ---
 ## Involvement
-- The party [[Session 14|first]] see a depiction of The Emberheart in the [[Scorched Vath'iran Ruins]]
-- The name is first [[Session 17 18|mentioned]] in a cult recruitment in [[Kilsa]]
-- [[Gilbert]] imitates The Emberheart to aid in the interrogation of cult members
-- The party [[Session 29|speak]] with The Emberheart when interrogating [[Vladimir Vladishkov|Vlad]], as the Emberheart speaks to Gilbert as a voice in Vlad's head
-- The party [[Session 48|realise]] that The Emberheart is possessing Ferox during the peace summit
-- The Emberheart [[Session 49 50|attempts]] to kill everyone at the summit, but is prevented from doing so by [[Virelya]]
+- The party first see a depiction of The Emberheart in the [[Scorched Vath'iran Ruins]]. ([[Session 14]])
+- The name is first mentioned in a cult recruitment in [[Kilsa]]. ([[Session 17 18]])
+- [[Gilbert]] imitates The Emberheart to aid in the interrogation of cult members.
+- The party speak with The Emberheart when interrogating [[Vladimir Vladishkov|Vlad]], as the Emberheart speaks to Gilbert as a voice in Vlad's head. ([[Session 29]])
+- The party realise that The Emberheart is possessing Ferox during the peace summit. ([[Session 48]])
+- The Emberheart attempts to kill everyone at the summit, but is prevented from doing so by [[Virelya]]. ([[Session 49 50)
 - This also clears Ferox of the possession
