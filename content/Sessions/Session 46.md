@@ -11,6 +11,6 @@
 - Dusk, however, is willing to cast the spell on the condition that Gilbert tells her what he sees.
 - The party argues with Gilbert that this is not the time or circumstance in which to attempt this, but before they can come to a resolution, Dusk snaps Gilbert's neck.
 - Uta'ah stabilises Gilbert before he can actually die, and attempts to attack Dusk to get her away from Gilbert.
-- Meanwhile Gilbert has a vision of a satyr-esque figure who tells Gilbert it is not his time. Initially Gilbert suspects this to be [[Ilhara]], the goddess he believes he was [[Divine Touch|Divine Touched]]] by. However this god instead appear to be [[Virelya]], the Qavrudian god.
-- This figure reveals that Gilbert's [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|father]] is their Vessel, and whilst different figures have their own designs on Gilbert, Virelya only wishes for him to revel in the wild.
+- Meanwhile Gilbert has a vision of a satyr-esque figure who tells Gilbert it is not his time. Initially Gilbert suspects this to be [[Ilhara]], the goddess he believes he was [[Divine Touch|Divine Touched]] by. However this god instead appear to be [[Virelya]], the Qavrudian god.
+- This figure reveals that Gilbert's [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|father]] is their vassal, and whilst different figures have their own designs on Gilbert, Virelya only wishes for him to revel in the wild.
 - Upon waking, Gilbert tells Dusk and Dawn a lie, claiming he saw something similar to the kitchen assistant. Dusk leaves and he informs Dawn and the party of the truth.

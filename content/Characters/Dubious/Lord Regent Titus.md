@@ -1,13 +1,13 @@
 ## Bio
-- Titus is the Lord Regent of [[Alithi]]
-- He lives in the [[Lucanius#Notable Buildings & Locations|Palace of Glass Rains]] capital city of [[Lucanius]]
-- Titus is hated by the citizens of Alithi
-- Titus is a heavy proponent of Alithi's misogynistic culture
-- His right hand is [[Halric Dain]]
-- [[Wynona]] is the unwilling object of Titus' affections
-- Titus fears an imminent invasion of [[Kalamari|octopi]]
-- Titus may have some questions to address about their gender identity
-- Titus younger cousin is the ruler of Alithi proper, and has refused to name Titus the ruler of the Alithi province of Thania
+- Titus is the Lord Regent of [[Alithi]].
+- He lives in the [[Lucanius#Notable Buildings & Locations|Palace of Glass Rains]] capital city of [[Lucanius]].
+- Titus is hated by the citizens of Alithi.
+- Titus is a heavy proponent of Alithi's misogynistic culture.
+- His right hand is [[Halric Dain]].
+- [[Wynona]] is the unwilling object of Titus' affections.
+- Titus fears an imminent invasion of [[Kalamari|octopi]].
+- Titus may have some questions to address about their gender identity.
+- Titus younger cousin is the ruler of Alithi proper, and has refused to name Titus the ruler of the Alithi province of Thania.
 
 ---
 ## Involvement

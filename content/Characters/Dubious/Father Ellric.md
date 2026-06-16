@@ -6,7 +6,7 @@ aliases:
 - Father Ellric is a member of [[Motherhood of Vel'Enar|the Church of Vel'Enar]]
 - High Lady Dawn trusts he has good intentions, though the party find his behaviour concerning. ([[Session 16]])
 - He seeks to stop [[The Eternal Ember Cult]].
-- Like the other senior members of the Church of Vel'Enar, Ellric is centuries old.
+- Like the other senior members of the Church of Vel'Enar, Ellric is centuries old. ([[Session 53]])
 
 ---
 ## Involvement

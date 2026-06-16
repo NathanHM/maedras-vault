@@ -1,10 +1,10 @@
 ## Bio
-- Father Aldren is a member of the [[Motherhood of Vel'Enar]]
-- He came up in the church alongside [[High Lady Dawn]]
-- He is centuries old
-- He is a wandering scholar
-- Once had his [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|nipples pierced]]
-- He bears a strong resemblance to [[Kaedric Thal]] and [[Lord High Priest Ferox Thal]]
+- Father Aldren is a member of the [[Motherhood of Vel'Enar]].
+- He came up in the church alongside [[High Lady Dawn]].
+- He is centuries old. ([[Session 53]])
+- He is a wandering scholar.
+- Once had his [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|nipples pierced]] on a dare.
+- He bears a strong resemblance to [[Kaedric Thal]] and [[Lord High Priest Ferox Thal]].
 
 ---
 ## Involvement

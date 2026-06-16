@@ -3,7 +3,7 @@
 - He is one of the prime suspects to be  [[Diamond Nips and a Pearl Tip - The Mystery of Cyrena and Gilbert's Father|Cyrena and Gilbert's father]].
 - He may be the vassal of [[Virelya]].
 - He once wandered the nations. ([[Session 51]])
-- Kaedric supposedly died in a ritual sacrifice 6 years ago, before returning. ([[Session 51]])
+- Kaedric supposedly died in a ritual sacrifice 6 years ago, before returning.
 - Kaedric is said to have a lost son. ([[Session 17 18]], [[Session 28]])
 
 ---
