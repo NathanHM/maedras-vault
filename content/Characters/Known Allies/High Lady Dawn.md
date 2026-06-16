@@ -13,15 +13,15 @@ aliases:
 
 ---
 ## Involvement
-- The party [[Session 02|first met]] Dawn when they were investigating the [[The Missing Children|abduction]] of [[Evangaline]]
-- She [[Session 04|helped them]] to awaken Evangaline and other children after they were rescued
-- Dawn was [[Session 10|kidnapped]] by [[The Eternal Ember Cult]] alongside Evangaline
-- She [[Session 15|escaped]] and contacted the party to meet her at the [[Kilsa#Yellow Duck|Yellow Duck]]
-- Whilst kidnapped, she was [[Session 16|told]] that [[High Lady Dusk]] sanctioned the kidnappings, leaving her feeling conflicted
-- Dawn had a [[High Lady Dawn's Vision|vision]] from Vel'Enar that she [[Session 19|shared]] with the party
+- The party first met Dawn when they were investigating the [[The Missing Children|abduction]] of [[Evangaline]]. ([[Session 02]])
+- She helped them to awaken Evangaline and other children after they were rescued. ([[Session 04]])
+- Dawn was kidnapped by [[The Eternal Ember Cult]] alongside Evangaline. ([[Session 10]])
+- She escaped and contacted the party to meet her at the [[Kilsa#Yellow Duck|Yellow Duck]]. ([[Session 15]])
+- Whilst kidnapped, she was told that [[High Lady Dusk]] sanctioned the kidnappings, leaving her feeling conflicted. ([[Session 16]])
+- Dawn had a vision from Vel'Enar that she shared with the party. ([[Session 19]])
 - On the way to [[Lucanius]], she tells the party that [[Gilbert]] and [[Cyrena]] are siblings
-- She [[Session 33 34|joins]] the party as they enter The Forgotten Archive with [[Maedra Lurith|Maedra]] to try and recover information about [[Transport Circles]]
-- She [[Session 40|reunites]] with the Greenways and High Lady Dusk at a party prior to the peace summit.
-- Dawn [[Session 46|reveals]] that she has cast Revivify only once before, and is reluctant to do so again due to the consequences she faced. She refuses to tell the party who she saved.
-- Dawn [[Session 53|revivifies]] Uta'ah after he dies, after which she seemingly loses her connection to Vel'Enar. A flame sigil briefly appears on her forehead and her form momentarily begins to shift.
+- She joins the party as they enter The Forgotten Archive with [[Maedra Lurith|Maedra]] to try and recover information about [[Transport Circles]]. ([[Session 33 34]])
+- She reunites with the Greenways and High Lady Dusk at a party prior to the peace summit. ([[Session 40]])
+- Dawn reveals that she has cast Revivify only once before, and is reluctant to do so again due to the consequences she faced. She refuses to tell the party who she saved. ([[Session 46]])
+- Dawn revivifies Uta'ah after he dies, after which she seemingly loses her connection to Vel'Enar. A flame sigil briefly appears on her forehead and her form momentarily begins to shift. ([[Session 53]])
 - The Greenways take care of Dawn and inform the party that she previously revivified Dayne.

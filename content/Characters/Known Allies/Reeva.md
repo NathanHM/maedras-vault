@@ -4,7 +4,7 @@
 
 ---
 ## Involvement
-- The party [[Rumours from Rexius|hear]] Reeva is looking for flowers that only grow in cursed ruins outside the city
-- The party [[Session 37|go to meet]] Reeva, following a hunch that the flower she seeks is [[Floral Myths and Legends of the Known Realms|Gravegrasp]] and that they may be able to find some within the city.
-- Upon meeting, Reeva is quick to make a connection with [[Wynona]]
-- The party [[Session 39|later]] meet back up with Reeva and sell her the Gravegrasp they collected
+- The party [[Rumours from Rexius|hear]] Reeva is looking for flowers that only grow in cursed ruins outside the city.
+- The party go to meet Reeva, following a hunch that the flower she seeks is [[Floral Myths and Legends of the Known Realms|Gravegrasp]] and that they may be able to find some within the city. ([[Session 37]])
+- Upon meeting, Reeva is quick to make a connection with [[Wynona]].
+- The party [[Session 39|later]] meet back up with Reeva and sell her the Gravegrasp they collected.

@@ -9,14 +9,14 @@
 
 ---
 ## Involvement
-- Kalamari was [[Session 17 18|summoned]] as an inadvertent consequence during a fight against the cult in [[Kilsa]]
-- The party manage to [[Session 19|smuggle]] him to the [[Kilsa#Yellow Duck|Yellow Duck]] via back streets, where they become concerned about his ability to survive out of water.
-- The party successfully [[Session 20 21|pray]] for Kalamari to become a Warlock
-- Kalamari is [[Session 22|subsequently]] gifted abilities by the god Nuloran
+- Kalamari was summoned as an inadvertent consequence during a fight against the cult in [[Kilsa]]. ([[Session 17 18]])
+- The party manage to smuggle him to the [[Kilsa#Yellow Duck|Yellow Duck]] via back streets, where they become concerned about his ability to survive out of water. ([[Session 19]])
+- The party successfully pray for Kalamari to become a Warlock. ([[Session 20 21]])
+- Kalamari is subsequently gifted abilities by the god Nuloran. ([[Session 22]])
 - He joins the party, first communicating through a series of bloops and Eldritch Blasts, Wynona uses Speak With Animals to communicate with him and learns of his violent nature.
-- Kalamari joins the party in combat, quickly and gleefully achieving his first two murders
-- Whilst the party make their way to [[Lucanius]], Kalamari somehow acquires the services of Lera as his familiar
-- Whilst in Lucanius, Kalamari [[Session 31|falls for]] Paella, another octopus. Together they set off for the docks to [[Rumours from Rexius|investigate]] 
-- The party [[Session 49 50|next]] see Kalamari when he is accidentally summoned during the peace summit. Wynona, [[Uta'ah]] and [[Cyrena]] escort him away to the Greenways room
+- Kalamari joins the party in combat, quickly and gleefully achieving his first two murders.
+- Whilst the party make their way to [[Lucanius]], Kalamari somehow acquires the services of Lera as his familiar.
+- Whilst in Lucanius, Kalamari falls for Paella, another octopus. Together they set off for the docks to [[Rumours from Rexius|investigate]]. ([[Session 31]])
+- The party next see Kalamari when he is accidentally summoned during the peace summit. Wynona, [[Uta'ah]] and [[Cyrena]] escort him away to the Greenways room. ([[Session 49 50]])
 - After being confronted by [[Uta'ah]] and the party, Kalamari agrees to free Lera, unaware of the pain she felt as his familiar.
-- He and Paella decided to investigate the [[Sunken Sanctum]]
+- He and Paella decided to investigate the [[Sunken Sanctum]].

@@ -8,8 +8,8 @@
 
 ---
 ## Involvement
-- The party [[Session 13|first]] met Flora when she gave [[Wynona]] a dance
-- The party debated taking a job that would have saw them escort Flora and other dancers to [[Lucanius]]
-- The party later stole the contract binding her to the Pink Lotus
+- The party first met Flora when she gave [[Wynona]] a dance. ([[Session 13]])
+- The party debated taking a job that would have saw them escort Flora and other dancers to [[Lucanius]].
+- The party later stole the contract binding her to the Pink Lotus.
 - [[Chamae]] dissolved the magic enforcing her contract.
 - Upon being freed from the contract, she and her party resolved to investigate the [[Ashenhold]].

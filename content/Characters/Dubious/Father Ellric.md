@@ -10,7 +10,7 @@ aliases:
 
 ---
 ## Involvement
-- The party [[Session 14|met]] Ellric posing as Lord Uvas. He acted unstable to test the party's resolve
+- The party met Ellric posing as Lord Uvas. He acted unstable to test the party's resolve. ([[Session 14]])
 - He sought protection in the [[Scorched Vath'iran Ruins]] as he sought to prevent the cult carrying out a ritual
 - The party suspected Ellric was not telling them everything
 - He taught the party about the coordinates held in the glyphs of [[Transport Circles]]
