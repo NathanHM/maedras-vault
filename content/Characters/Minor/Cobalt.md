@@ -6,5 +6,5 @@
 
 ---
 ## Involvement
-- Cobalt [[Session 31|meets]] the party when they arrive in Lucanius. He helps them become acquainted with the city
-- He joins them when they investigate The Forgotten Archive with [[Maedra Lurith]], fulfilling ahis lifelong dream of seeing the library
+- Cobalt meets the party when they arrive in Lucanius. He helps them become acquainted with the city. ([[Session 31]])
+- He joins them when they investigate The Forgotten Archive with [[Maedra Lurith]], fulfilling ahis lifelong dream of seeing the library.
