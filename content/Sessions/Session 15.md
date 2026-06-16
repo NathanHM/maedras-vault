@@ -4,7 +4,8 @@
 - A crystal above the circle is brought down with unseen servant, deactivating the shield  
 - The diamond is capable of holding a spell and is worth at least 200gp  
 - [[Father Ellric]] puts a spell of Mass Healing into the diamond  
-- The circle is directly above where the pedestal would be in the basement  
+- The circle is directly above where the pedestal would be in the basement
+- In the ruins, the party see a mural that depicts 48 taken children.
 - Sneaking outside the building, the party overhears [[The Eternal Ember Cult|cultists]] discussing punishment for losing [[High Lady Dawn]] and plans to steal more [[The Missing Children|children]]. They are recruiting tomorrow at the [[Kilsa#Green Soldier|Green Soldier]]
 - [[Wynona]] murders the cultists in a rage; finds 2sp, 22cp, and mail addressed to the party  
 - Gilbert receives two notes from his [[Juliana|mother]], one recent via a young messenger
