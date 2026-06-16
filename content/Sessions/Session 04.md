@@ -1,7 +1,7 @@
 - The session began with the party returning [[Evangaline]] to her father.
 - Rumours were circulating that the [[Motherhood of Vel'Enar|Motherhood]] was involved in [[The Missing Children|child abductions]] for a ritual of eternal youth.
 - Evangaline's father doubted [[High Lady Dawn]]'s involvement and asked the party to investigate further.
-- He suggested speaking with [[Lady Aife Sweet]] Laura McMills at the harbour, and Mr White the cobbler—each had a child who returned changed.
+- He suggested speaking with [[Lady Aife Sweet]], Laura McMills at the harbour, and Mr White the cobbler—each had a child who returned changed.
 - He tells that Lady Aife Sweet claimed her son was normal, but no one had seen him since his return.
 - The visit ended with a promise to send word when Evangaline woke.
 - The party returned to the masquerade for dinner and to return the stolen carriage before resting.

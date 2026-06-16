@@ -14,4 +14,4 @@
 - Both are taught Sylvan by [[Lady Mid]] for lambing rites  
 - Oliver admits jealousy toward his sister, and the party suspects he fails the progression test  
 - He names Erica and another student as top pupils under [[High Lady Dusk]] and [[Lady Night]] respectively  
-- He also shares that Laura McMills' son studies undercommon with High Lady Dusk and Mr White's daughter learns primordial with Lady Night  
+- He also shares that Laura McMills' son, [[Rupert McMills]], studies undercommon with High Lady Dusk and Mr White's daughter learns primordial with Lady Night  
