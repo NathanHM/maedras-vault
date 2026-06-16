@@ -4,7 +4,7 @@
 - She suffers from face blindness for humans
 - Wynona was part of a previous adventuring party that fell apart after one member met a grim fate
 - Wynona has been [[Divine Touch|Divine Touched]] by [[Eryndor]]
-- Bald and terrifying
+- Furry and terrifying
 
 ---
 ## Story
