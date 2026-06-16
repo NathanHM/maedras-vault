@@ -9,9 +9,9 @@
 
 ---
 ## Involvement
-- The party [[Session 02|came to suspect]] he was involved with [[The Missing Children]] after gathering information at a masquerade ball
-- Farquad [[Session 09|denied]] his involvement
-- He claimed that he was told to support [[The Eternal Ember Cult#The Ember Hand|the paladins]] by [[Merinth Tharrows|The Man]]
+- The party came to suspect he was involved with [[The Missing Children]] after gathering information at a masquerade ball. ([[Session 02]])
+- Farquad denied his involvement. ([[Session 09]])
+- He claimed that he was told to support [[The Eternal Ember Cult#The Ember Hand|the paladins]] by [[Merinth Tharrows|The Man]].
 - Farquad speculated that The Man was [[Lord Tom Macavoy|Tom Macavoy]]. Did he truly not know?
-- Farquad was paying [[Vladimir Vladishkov|Vlad]] via bank transfer
-- The party [[Session 20 21|learn]] from Vlad that Farquad is involved with the abductions
+- Farquad was paying [[Vladimir Vladishkov|Vlad]] via bank transfer.
+- The party learn from Vlad that Farquad is involved with the abductions. ([[Session 20 21]])
