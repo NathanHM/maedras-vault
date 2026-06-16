@@ -13,9 +13,9 @@ aliases:
 
 ---
 ## Involvement
-- Vlad was [[Session 07 08|seemingly]] involved in the [[The Missing Children|abduction]] of [[Evangaline]]
-- Farquad was [[Session 09|found]] to be funding Vlad and the Ember Hand.
-- [[Gilbert]] accidentally [[Session 19|summons]] Vlad when he carries out a cult ritual
+- Vlad was seemingly involved in the [[The Missing Children|abduction]] of [[Evangaline]]. ([[Session 07 08]])
+- Farquad was found to be funding Vlad and the Ember Hand. ([[Session 09]])
+- [[Gilbert]] accidentally summons Vlad when he carries out a cult ritual. ([[Session 19]])
 - [[Max]] [[Session 20 21|talks]] to Vlad in disguise as a twink paladin, discovering more about Vlad and his goals
 - The party [[Session 24 25 26|fight]] Vlad in the [[Vineyard]] to rescue [[Juliana]]
 - The party [[Session 29|interrogate]] Vlad, eventually killing him after he becomes possessed by The Emberheart

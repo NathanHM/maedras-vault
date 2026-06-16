@@ -5,5 +5,5 @@
 
 ---
 ## Involvement
-- The existence of the Flamekeeper is [[Session 29|first]] confirmed by [[Vladimir Vladishkov|Vlad]]
-- They sent the instruction to [[Bilbo Frankenfert]] to poison the party
+- The existence of the Flamekeeper is first confirmed by [[Vladimir Vladishkov|Vlad]]. ([[Session 29]])
+- They sent the instruction to [[Bilbo Frankenfert]] to poison the party.

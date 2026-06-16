@@ -15,5 +15,5 @@
 - [[Gilbert]] imitates The Emberheart to aid in the interrogation of cult members.
 - The party speak with The Emberheart when interrogating [[Vladimir Vladishkov|Vlad]], as the Emberheart speaks to Gilbert as a voice in Vlad's head. ([[Session 29]])
 - The party realise that The Emberheart is possessing Ferox during the peace summit. ([[Session 48]])
-- The Emberheart attempts to kill everyone at the summit, but is prevented from doing so by [[Virelya]]. ([[Session 49 50)
-- This also clears Ferox of the possession
+- The Emberheart attempts to kill everyone at the summit, but is prevented from doing so by [[Virelya]]. ([[Session 49 50]])
+- This also clears Ferox of the possession.
