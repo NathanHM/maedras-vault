@@ -1,9 +1,9 @@
 ## Bio
-- High Lady Dusk is one of the top ranking members of the [[Motherhood of Vel'Enar]], overseeing Birth rites
-- She and [[High Lady Dawn]] have history
-- Her top student is a girl named Erica
-- Not a big Spider-Man fan
-- Centuries old
+- High Lady Dusk is one of the top ranking members of the [[Motherhood of Vel'Enar]], overseeing Birth rites.
+- She and [[High Lady Dawn]] have history.
+- Her top student is a girl named Erica. [[Rupert McMills]] also studied under her. ([Session 05])
+- Not a big Spider-Man fan.
+- Centuries old.
 
 ---
 ## Involvement

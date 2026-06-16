@@ -14,7 +14,7 @@ aliases:
 - He sought protection in the [[Scorched Vath'iran Ruins]] as he sought to prevent the cult carrying out a ritual.
 - The party suspected Ellric was not telling them everything.
 - He taught the party about the coordinates held in the glyphs of [[Transport Circles]].
-- Father Ellric supplied [[Gilbert]] with a diamond containing a spell of Mass Healing.
+- Father Ellric supplied [[Gilbert]] with a diamond containing a spell of Mass Healing. ([[Session 15]])
 - Father Ellric merced a cult member and said some sus stuff.
 - He seemed excited about burning bodies.
 - The party found notes that matched Ellric's handwriting in a book on the [[Sunken Sanctum]]. ([[Session 20 21]])
