@@ -1,6 +1,8 @@
 - The Sunken Sanctum appears to be where the Emberheart is sealed
 - It is closed by four nodes. One node was unsealed by the party in the [[Scorched Vath'iran Ruins]]
-- The other nodes are located at the [[Verdant Pyre]], [[Ashenhold]] and [[Stormhaven]]
+- The other nodes are located at the [[Verdant Pyre]], [[Ashenhold]] and [[Stormhaven]], potentially a reference to the Sanctum.
+- A Vath'iran star map pointed to the location of the Sunken Sanctum some centuries ago, but after the time the map was created.
+- The cult are investigating Stormhaven to find the Sanctum, but have not yet done so.
 ---
 # Kilsa Library Book
 - The party found a book concerning the Sunken Sanctum in a library in Kilsa. ([[Session 20 21]])

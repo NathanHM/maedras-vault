@@ -3,11 +3,13 @@
 - The Emberheart was originally a neutral force held within the [[Sunken Sanctum]]
 - A [[Vath'ira|Vath'iran]] [[Collected Myths and Legends of the Known Realms#1. The Pyre's Breath|myth]] suggests that the Emberheart may have once been a fallen star
 - A [[Floral Myths and Legends of the Known Realms#3. The Bloom of First Light|legend]] from the [[Motherhood of Vel'Enar]] mentions The Ember Bloom, a divine flower from the dawn of creation, that may be another potential origin
+- The Emberheart likely turned from a force to a deity when a ritual, similar to the one done to create Vel'Enar, was stolen
 - The cult believes that if The Emberheart is freed from the Sunken Sanctum, there will be a second Burning Dawn, cleansing the world
 - The cult are sacrificing children in an attempt to power The Emberheart
 - They are also seeking to channel time into the wards around the Sunken Sanctum to decay the magic
 - The Emberheart has seemingly been possessing [[Lord High Priest Ferox Thal]] for the past six years
 - The Emberheart communicates with Oracles via [[Flame Orb|Flame Orbs]], said to be part of its very being
+- When the Emberheart possesses people they have golden eyes.
 
 ---
 ## Involvement
