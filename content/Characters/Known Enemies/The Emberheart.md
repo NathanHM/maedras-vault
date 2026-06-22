@@ -7,6 +7,7 @@
 - The cult are sacrificing children in an attempt to power The Emberheart
 - They are also seeking to channel time into the wards around the Sunken Sanctum to decay the magic
 - The Emberheart has seemingly been possessing [[Lord High Priest Ferox Thal]] for the past six years
+- The Emberheart communicates with Oracles via [[Flame Orb|Flame Orbs]], said to be part of its very being
 
 ---
 ## Involvement
